@@ -1,0 +1,53 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" timestamp="1462100406279">
+        <mark key="'" line="25" column="2" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="30" column="4" filename="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" />
+      <jump line="25" column="2" filename="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Rhbmd5b3V6ZS9weWNoYXJtX3NldHRpbmcK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Rhbmd5b3V6ZS9weWNoYXJtX3NldHRpbmcK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

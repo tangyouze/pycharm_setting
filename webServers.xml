@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="15adeb04-1b1a-4758-a156-b0ac0ffe2c55" name="f4" url="http://f4.tangyouze.com">
+        <fileTransfer host="f4.tangyouze.com" port="22" rootFolder="/home/tyz" accessType="SFTP" password="dfdedfd3dfd0dfdadfcbdfd9dfd9dfce" username="tyz">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="982fc98a-94e9-4e81-ba43-666a2649861d" name="svr1" url="http://svr1.tangyouze.com">
+        <fileTransfer host="svr1.tangyouze.com" port="22" rootFolder="/home/tyz" accessType="SFTP" password="dfdedfd3dfd0dfdadfcbdfd9dfd9dfce" username="tyz">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
