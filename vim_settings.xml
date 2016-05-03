@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" timestamp="1462100406279">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/read_redis_queue_save_influxdb.py" timestamp="1462276606113">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" timestamp="1462276218094">
         <mark key="'" line="25" column="2" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -16,15 +21,18 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Rhbmd5b3V6ZS9weWNoYXJtX3NldHRpbmcK</text>
+        <text encoding="base64">ICAgIHRrLgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Rhbmd5b3V6ZS9weWNoYXJtX3NldHRpbmcK</text>
+        <text encoding="base64">ICAgIHRrLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Rhbmd5b3V6ZS9weWNoYXJtX3NldHRpbmcK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">IAo=</text>
       </register>
     </registers>
@@ -47,6 +55,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
