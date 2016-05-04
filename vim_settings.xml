@@ -3,10 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/config.py" timestamp="1462326984664">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="372" column="54" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/read_redis_queue_save_influxdb.py" timestamp="1462322667294">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462326671431">
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" timestamp="1462276218094">
         <mark key="'" line="25" column="2" />
@@ -18,13 +26,18 @@
     <jumps>
       <jump line="30" column="4" filename="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" />
       <jump line="25" column="2" filename="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/config.py" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLndhbXBfc2VydmVyID0gIndzOi8vZjQudGFuZ3lvdXplLmNvbToxODA4MC93cyIKICAgICAgICBzZWxmLnF1b3RlX3NlcnZlciA9ICJmNC50YW5neW91emUuY29tIiAgIyByZWRpcyBzZXJ2ZXIgNjM3OQogICAgICAgIHNlbGYuZWxhc3RpY19zZXJ2ZXIgPSAnZjQudGFuZ3lvdXplLmNvbScKICAgICAgICBzZWxmLmFwaV9ob3N0ID0gJ2h0dHA6Ly9mNC50YW5neW91emUuY29tOjE1MDAwL3YwLjAuNy8nCiAgICAgICAgc2VsZi5tb25nb19zZXJ2ZXIgPSAiZjIudGFuZ3lvdXplLmNvbTozMDAwNyIKICAgICAgICBzZWxmLmluZmx1eGRiX3NlcnZlciA9ICJmNS50YW5neW91emUuY29tOjgwODYiCg==</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRrLgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRrLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndhbXBfc2VydmVyID0gIndzOi8vZjQudGFuZ3lvdXplLmNvbToxODA4MC93cyIKICAgICAgICBzZWxmLnF1b3RlX3NlcnZlciA9ICJmNC50YW5neW91emUuY29tIiAgIyByZWRpcyBzZXJ2ZXIgNjM3OQogICAgICAgIHNlbGYuZWxhc3RpY19zZXJ2ZXIgPSAnZjQudGFuZ3lvdXplLmNvbScKICAgICAgICBzZWxmLmFwaV9ob3N0ID0gJ2h0dHA6Ly9mNC50YW5neW91emUuY29tOjE1MDAwL3YwLjAuNy8nCiAgICAgICAgc2VsZi5tb25nb19zZXJ2ZXIgPSAiZjIudGFuZ3lvdXplLmNvbTozMDAwNyIKICAgICAgICBzZWxmLmluZmx1eGRiX3NlcnZlciA9ICJmNS50YW5neW91emUuY29tOjgwODYiCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Rhbmd5b3V6ZS9weWNoYXJtX3NldHRpbmcK</text>
@@ -35,13 +48,21 @@
       <register name="4" type="2">
         <text encoding="base64">IAo=</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
@@ -58,6 +79,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
