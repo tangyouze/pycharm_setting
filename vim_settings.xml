@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462343912297">
-        <mark key="'" line="15" column="30" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1462358080245">
+      <file name="/Dummy.txt" timestamp="1462363712500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462341174036">
@@ -18,18 +12,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/algorithm/strategy.py" timestamp="1462344529712">
-        <mark key="'" line="385" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462345714176">
         <mark key="'" line="198" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462357656058">
-        <mark key="'" line="173" column="8" />
-        <mark key="[" line="654" column="0" />
-        <mark key="]" line="654" column="0" />
-        <mark key="." line="654" column="0" />
-        <mark key="^" line="172" column="14" />
+        <mark key="[" line="640" column="0" />
+        <mark key="]" line="640" column="0" />
+        <mark key="." line="640" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/config.py" timestamp="1462326984664">
         <mark key="'" line="30" column="0" />
@@ -85,6 +74,9 @@
       <jump line="165" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
       <jump line="173" column="8" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
       <jump line="385" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/algorithm/strategy.py" />
+      <jump line="573" column="12" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="107" column="29" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
+      <jump line="917" column="27" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -172,6 +164,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
