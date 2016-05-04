@@ -8,13 +8,13 @@
         <mark key="[" line="367" column="0" />
         <mark key="]" line="372" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462339115804">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462341848058">
         <mark key="'" line="15" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/__init__.py" timestamp="1462339888051">
         <mark key="'" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462340827480">
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462341174036">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -36,6 +36,12 @@
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462329904856">
         <mark key="'" line="198" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/test_huatai_backend.py" timestamp="1462341878540">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" timestamp="1462276218094">
         <mark key="'" line="25" column="2" />
@@ -60,41 +66,44 @@
       <jump line="20" column="0" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndhbXBfc2VydmVyID0gIndzOi8vZjQudGFuZ3lvdXplLmNvbToxODA4MC93cyIKICAgICAgICBzZWxmLnF1b3RlX3NlcnZlciA9ICJmNC50YW5neW91emUuY29tIiAgIyByZWRpcyBzZXJ2ZXIgNjM3OQogICAgICAgIHNlbGYuZWxhc3RpY19zZXJ2ZXIgPSAnZjQudGFuZ3lvdXplLmNvbScKICAgICAgICBzZWxmLmFwaV9ob3N0ID0gJ2h0dHA6Ly9mNC50YW5neW91emUuY29tOjE1MDAwL3YwLjAuNy8nCiAgICAgICAgc2VsZi5tb25nb19zZXJ2ZXIgPSAiZjIudGFuZ3lvdXplLmNvbTozMDAwNyIKICAgICAgICBzZWxmLmluZmx1eGRiX3NlcnZlciA9ICJmNS50YW5neW91emUuY29tOjgwODYiCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CnBkLnNldF9vcHRpb24oJ2Rpc3BsYXkud2lkdGgnLCAxODApCg==</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnBkLnNldF9vcHRpb24oJ2Rpc3BsYXkud2lkdGgnLCAxODApCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHApCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cl9fYXV0aG9yX18gPSAndHl6Jwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGRvY29wdCA9IGRvY29wdGluaXQoX19kb2NfXykKICAgIGlmIGRvY29wdFsnc3plJ106CiAgICAgICAgdCA9IHlhbWwubG9hZChvcGVuKCdjb25maWcvc3plLnltbCcpKQogICAgICAgIGV0Zl9saXN0ID0gW0NvbnRyYWN0QXBpLmdldF9ieV9zeW1ib2woeCkgZm9yIHggaW4gdFsnY29udHJhY3QtbGlzdCddXQogICAgZWxpZiBkb2NvcHRbJ3NzZSddOgogICAgICAgIHQgPSB5YW1sLmxvYWQob3BlbignY29uZmlnL3NzZS55bWwnKSkKICAgICAgICBldGZfbGlzdCA9IFtDb250cmFjdEFwaS5nZXRfYnlfc3ltYm9sKHgpIGZvciB4IGluIHRbJ2NvbnRyYWN0LWxpc3QnXV0KICAgIGVsaWYgZG9jb3B0Wydsb2YnXToKICAgICAgICB0ID0geWFtbC5sb2FkKG9wZW4oJ2NvbmZpZy9sb2YueW1sJykpCiAgICAgICAgZXRmX2xpc3QgPSBbQ29udHJhY3RBcGkuZ2V0X2J5X3N5bWJvbCh4KSBmb3IgeCBpbiB0Wydjb250cmFjdC1saXN0J11dCiAgICBlbGlmIGRvY29wdFsnc3plZGVidWcnXToKICAgICAgICAjIGV0Zl9saXN0ID0gQ29udHJhY3RDb2xsZWN0aW9uTW9uZ29FbmdpbmUuZ2V0X2xpc3QoJ3N6ZV9ldGYnKVs6MV0KICAgICAgICB0ID0geWFtbC5sb2FkKG9wZW4oJ2NvbmZpZy9zemVkZWJ1Zy55bWwnKSkKICAgICAgICBldGZfbGlzdCA9IFtDb250cmFjdEFwaS5nZXRfYnlfc3ltYm9sKHgpIGZvciB4IGluIHRbJ2NvbnRyYWN0LWxpc3QnXV0KICAgIGVsc2U6CiAgICAgICAgYXNzZXJ0IEZhbHNlCgogICAgbG9nZ2luZy5kZWJ1ZygnZXRmIGxpc3Qge30nLmZvcm1hdChldGZfbGlzdCkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRrLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Rhbmd5b3V6ZS9weWNoYXJtX3NldHRpbmcK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="-" type="4">
+        <text>util.rand_ref_key()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KHApCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>util.rand_ref_key()</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbiA9IENvbnRyYWN0QXBpLmdldF9ieV9zeW1ib2woJzUxMDMwMDpleGNoYW5nZS5jbi5zc2UnKQogICAgcCA9IGF3YWl0IGFjYy5wbGFjZV9vcmRlcihjb24sIDMuMCwgJ2InLCAxMDAsIHV0aWwucmFuZF9yZWZfa2V5KCkpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>djw</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHAgPSBhd2FpdCBhY2MucGxhY2Vfb3JkZXIoY29uLCAzLjAsICdiJywgMTAwLCB1dGlsLnJhbmRfcmVmX2tleSgpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbiA9IENvbnRyYWN0QXBpLmdldF9ieV9zeW1ib2woJzUxMDMwMDpleGNoYW5nZS5jbi5zc2UnKQogICAgYWNjLnBsYWNlX29yZGVyKGNvbiwgMy4wLCAnYicsIDEwMCwgdXRpbC5yYW5kX3JlZl9rZXkoKSkK</text>
+      </register>
+      <register name="6" type="4">
+        <text>z</text>
+      </register>
+      <register name="7" type="4">
+        <text>exc</text>
+      </register>
+      <register name="8" type="4">
+        <text>5103400</text>
+      </register>
+      <register name="9" type="4">
+        <text>000001</text>
       </register>
     </registers>
     <search>
