@@ -9,6 +9,9 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1462358080245">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462341174036">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="20" column="0" />
@@ -21,11 +24,11 @@
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462345714176">
         <mark key="'" line="198" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462344521413">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462357656058">
         <mark key="'" line="173" column="8" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="15" />
-        <mark key="." line="172" column="15" />
+        <mark key="[" line="654" column="0" />
+        <mark key="]" line="654" column="0" />
+        <mark key="." line="654" column="0" />
         <mark key="^" line="172" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/config.py" timestamp="1462326984664">
@@ -85,7 +88,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCA9IGF3YWl0IGFjYy5jYW5jZWxfdXNlX3JlZl9rZXkoaykK</text>
+        <text encoding="base64">ICAgICIiIgogICAgICAgILnJxrHD+7PGfM6vzdDKsbzkfMLywvS3vc/yfM6vzdDK/cG/fM6vzdC827jxfLPJvbvK/cG/fLPJvbu++bzbfLnJxrG0+sLrfLG416J8yse38b/Js7d8us/NrLHgusV8ucm2q7T6wut8ytCzocDgsfB8zq/N0Ne0zKx8CiAgICAgICAgvfC12EVURnwxMzoxMToyMHzC8sjrfDUwMHwxLjUwOHwwfDAuMDAwfDE1OTkzM3zS0bGoKMLywvQpfDF8MzU1NzR8MDE4NjY4MzgzM3zJ7tvao8F80tGxqHwKICAgICAgICC+sMuzNTAwfDEzOjExOjE5fMLyyOt8NTAwfDEuNzczfDB8MC4wMDB8MTU5OTM1fNLRsagowvLC9Cl8MXwzNTU3MnwwMTg2NjgzODMzfMnu29qjwXzS0bGofAogICAgICAgIMir1rjP+7fRfDEzOjExOjE5fML0s/Z8NTAwfDAuOTAzfDB8MC4wMDB8MTU5OTQ2fNLRsagowvLC9Cl8MXwzNTU2NnwwMTg2NjgzODMzfMnu29qjwXzS0bGofAogICAgICAgIMir1rjE3NS0fDEzOjExOjE4fMLyyOt8NTAwfDAuNzEyfDB8MC4wMDB8MTU5OTQ1fNLRsagowvLC9Cl8MXwzNTU2MnwwMTg2NjgzODMzfMnu29qjwXzS0bGofAogICAgIiIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>contaisn</text>
@@ -97,31 +100,31 @@
         <text encoding="base64">ICAgIHByaW50KHApCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICIiIgogICAgICAgILnJxrHD+7PGfM6vzdDKsbzkfMLywvS3vc/yfM6vzdDK/cG/fM6vzdC827jxfLPJvbvK/cG/fLPJvbu++bzbfLnJxrG0+sLrfLG416J8yse38b/Js7d8us/NrLHgusV8ucm2q7T6wut8ytCzocDgsfB8zq/N0Ne0zKx8CiAgICAgICAgvfC12EVURnwxMzoxMToyMHzC8sjrfDUwMHwxLjUwOHwwfDAuMDAwfDE1OTkzM3zS0bGoKMLywvQpfDF8MzU1NzR8MDE4NjY4MzgzM3zJ7tvao8F80tGxqHwKICAgICAgICC+sMuzNTAwfDEzOjExOjE5fMLyyOt8NTAwfDEuNzczfDB8MC4wMDB8MTU5OTM1fNLRsagowvLC9Cl8MXwzNTU3MnwwMTg2NjgzODMzfMnu29qjwXzS0bGofAogICAgICAgIMir1rjP+7fRfDEzOjExOjE5fML0s/Z8NTAwfDAuOTAzfDB8MC4wMDB8MTU5OTQ2fNLRsagowvLC9Cl8MXwzNTU2NnwwMTg2NjgzODMzfMnu29qjwXzS0bGofAogICAgICAgIMir1rjE3NS0fDEzOjExOjE4fMLyyOt8NTAwfDAuNzEyfDB8MC4wMDB8MTU5OTQ1fNLRsagowvLC9Cl8MXwzNTU2MnwwMTg2NjgzODMzfMnu29qjwXzS0bGofAogICAgIiIiCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcCA9IGF3YWl0IGFjYy5jYW5jZWxfdXNlX3JlZl9rZXkoaykK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>contaisn</text>
       </register>
-      <register name="3" type="4">
-        <text>cancel_use_ref_key</text>
-      </register>
       <register name="4" type="4">
-        <text>4</text>
+        <text>cancel_use_ref_key</text>
       </register>
       <register name="5" type="4">
         <text>4</text>
       </register>
       <register name="6" type="4">
-        <text>acc</text>
+        <text>4</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>acc</text>
       </register>
       <register name="8" type="4">
         <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
