@@ -43,6 +43,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462342620856">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" timestamp="1462276218094">
         <mark key="'" line="25" column="2" />
         <mark key="[" line="34" column="0" />
@@ -67,7 +72,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHApCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>util.rand_ref_key()</text>
@@ -78,32 +83,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KHApCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>util.rand_ref_key()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbiA9IENvbnRyYWN0QXBpLmdldF9ieV9zeW1ib2woJzUxMDMwMDpleGNoYW5nZS5jbi5zc2UnKQogICAgcCA9IGF3YWl0IGFjYy5wbGFjZV9vcmRlcihjb24sIDMuMCwgJ2InLCAxMDAsIHV0aWwucmFuZF9yZWZfa2V5KCkpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="4">
-        <text>djw</text>
+        <text>util.rand_ref_key()</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbiA9IENvbnRyYWN0QXBpLmdldF9ieV9zeW1ib2woJzUxMDMwMDpleGNoYW5nZS5jbi5zc2UnKQogICAgcCA9IGF3YWl0IGFjYy5wbGFjZV9vcmRlcihjb24sIDMuMCwgJ2InLCAxMDAsIHV0aWwucmFuZF9yZWZfa2V5KCkpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>djw</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHAgPSBhd2FpdCBhY2MucGxhY2Vfb3JkZXIoY29uLCAzLjAsICdiJywgMTAwLCB1dGlsLnJhbmRfcmVmX2tleSgpKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbiA9IENvbnRyYWN0QXBpLmdldF9ieV9zeW1ib2woJzUxMDMwMDpleGNoYW5nZS5jbi5zc2UnKQogICAgYWNjLnBsYWNlX29yZGVyKGNvbiwgMy4wLCAnYicsIDEwMCwgdXRpbC5yYW5kX3JlZl9rZXkoKSkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>z</text>
       </register>
-      <register name="7" type="4">
-        <text>exc</text>
-      </register>
-      <register name="8" type="4">
-        <text>5103400</text>
-      </register>
       <register name="9" type="4">
-        <text>000001</text>
+        <text>exc</text>
       </register>
     </registers>
     <search>
