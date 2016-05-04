@@ -46,6 +46,13 @@
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462340621609">
         <mark key="'" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462366075387">
+        <mark key="'" line="92" column="23" />
+        <mark key="[" line="929" column="55" />
+        <mark key="]" line="929" column="54" />
+        <mark key="." line="929" column="54" />
+        <mark key="^" line="929" column="54" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/test_huatai_backend.py" timestamp="1462344548125">
         <mark key="'" line="10" column="14" />
         <mark key="[" line="12" column="18" />
@@ -85,13 +92,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/.gitignore" />
       <jump line="74" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/.gitignore" />
       <jump line="70" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/.gitignore" />
+      <jump line="55" column="20" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="92" column="23" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>yml</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -100,31 +109,31 @@
         <text encoding="base64">ICAgIHByaW50KHApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ki5pbWwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmltbAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24uY2xvCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>yml</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlbmRfb3JkZXIoLikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly5naXRpZ25vcmUK</text>
+      <register name="5" type="4">
+        <text>..Session()</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgICAgILnJxrHD+7PGfM6vzdDKsbzkfMLywvS3vc/yfM6vzdDK/cG/fM6vzdC827jxfLPJvbvK/cG/fLPJvbu++bzbfLnJxrG0+sLrfLG416J8yse38b/Js7d8us/NrLHgusV8ucm2q7T6wut8ytCzocDgsfB8zq/N0Ne0zKx8CiAgICAgICAgvfC12EVURnwxMzoxMToyMHzC8sjrfDUwMHwxLjUwOHwwfDAuMDAwfDE1OTkzM3zS0bGoKMLywvQpfDF8MzU1NzR8MDE4NjY4MzgzM3zJ7tvao8F80tGxqHwKICAgICAgICC+sMuzNTAwfDEzOjExOjE5fMLyyOt8NTAwfDEuNzczfDB8MC4wMDB8MTU5OTM1fNLRsagowvLC9Cl8MXwzNTU3MnwwMTg2NjgzODMzfMnu29qjwXzS0bGofAogICAgICAgIMir1rjP+7fRfDEzOjExOjE5fML0s/Z8NTAwfDAuOTAzfDB8MC4wMDB8MTU5OTQ2fNLRsagowvLC9Cl8MXwzNTU2NnwwMTg2NjgzODMzfMnu29qjwXzS0bGofAogICAgICAgIMir1rjE3NS0fDEzOjExOjE4fMLyyOt8NTAwfDAuNzEyfDB8MC4wMDB8MTU5OTQ1fNLRsagowvLC9Cl8MXwzNTU2MnwwMTg2NjgzODMzfMnu29qjwXzS0bGofAogICAgIiIiCg==</text>
+      <register name="6" type="4">
+        <text>..Session()</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCA9IGF3YWl0IGFjYy5jYW5jZWxfdXNlX3JlZl9rZXkoaykK</text>
+      <register name="7" type="4">
+        <text>requests</text>
       </register>
-      <register name="8" type="4">
-        <text>contaisn</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Vzc2lvbiA9IHJlcXVlc3RzLlNlc3Npb24oKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>cancel_use_ref_key</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
