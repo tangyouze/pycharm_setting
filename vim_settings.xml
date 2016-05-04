@@ -10,11 +10,17 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1462367274801">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462341174036">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1462368447786">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462345714176">
         <mark key="'" line="198" column="17" />
@@ -43,15 +49,20 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin_quote.py" timestamp="1462367317953">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462340621609">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462366075387">
-        <mark key="'" line="92" column="23" />
-        <mark key="[" line="929" column="55" />
-        <mark key="]" line="929" column="54" />
-        <mark key="." line="929" column="54" />
-        <mark key="^" line="929" column="54" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462369290602">
+        <mark key="'" line="946" column="47" />
+        <mark key="[" line="378" column="70" />
+        <mark key="]" line="378" column="70" />
+        <mark key="." line="378" column="76" />
+        <mark key="^" line="373" column="90" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/test_huatai_backend.py" timestamp="1462344548125">
         <mark key="'" line="10" column="14" />
@@ -94,46 +105,67 @@
       <jump line="70" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/.gitignore" />
       <jump line="55" column="20" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="92" column="23" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="509" column="17" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="763" column="15" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="500" column="14" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="43" column="30" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin_quote.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin_quote.py" />
+      <jump line="118" column="10" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="753" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="474" column="36" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="227" column="16" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="404" column="38" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="130" column="40" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="152" column="40" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="925" column="16" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="163" column="33" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="105" column="34" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="945" column="14" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="155" column="35" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="568" column="13" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="946" column="47" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>deal_amount</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>deal_amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhd2FpdCBhY2MuZ2V0X2JhbGFuY2UoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>deal_amount</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>deal_amount</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3Npb24uY2xvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlci4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlbmRfb3JkZXIoLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlci4K</text>
       </register>
-      <register name="5" type="4">
-        <text>..Session()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZbMF0uYWRkX2RlYWxfaGlzdG9yeSgpCg==</text>
       </register>
       <register name="6" type="4">
-        <text>..Session()</text>
+        <text>.</text>
       </register>
-      <register name="7" type="4">
-        <text>requests</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXIuZGVhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Vzc2lvbiA9IHJlcXVlc3RzLlNlc3Npb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZbMF0uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYuCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
@@ -152,6 +184,7 @@
       </history-search>
       <history-cmd>
         <entry>action HighlightUsagesInFile</entry>
+        <entry>action FindPrevious</entry>
         <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
@@ -184,6 +217,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
