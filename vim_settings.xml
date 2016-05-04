@@ -11,13 +11,12 @@
       <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462328513168">
         <mark key="'" line="195" column="30" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/config/sze.yml" timestamp="1462329892040" />
       <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/read_redis_queue_save_influxdb.py" timestamp="1462322667294">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/requirements.txt" timestamp="1462331793344">
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/requirements.txt" timestamp="1462335870052">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="7" />
@@ -26,7 +25,6 @@
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462326671431">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462331773654" />
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462329904856">
         <mark key="'" line="198" column="17" />
       </file>
