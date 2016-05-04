@@ -17,9 +17,16 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/requirements.txt" timestamp="1462331793344">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462326671431">
         <mark key="'" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462331773654" />
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462329904856">
         <mark key="'" line="198" column="17" />
       </file>
@@ -43,18 +50,21 @@
         <text encoding="base64">ICAgICAgICBzZWxmLndhbXBfc2VydmVyID0gIndzOi8vZjQudGFuZ3lvdXplLmNvbToxODA4MC93cyIKICAgICAgICBzZWxmLnF1b3RlX3NlcnZlciA9ICJmNC50YW5neW91emUuY29tIiAgIyByZWRpcyBzZXJ2ZXIgNjM3OQogICAgICAgIHNlbGYuZWxhc3RpY19zZXJ2ZXIgPSAnZjQudGFuZ3lvdXplLmNvbScKICAgICAgICBzZWxmLmFwaV9ob3N0ID0gJ2h0dHA6Ly9mNC50YW5neW91emUuY29tOjE1MDAwL3YwLjAuNy8nCiAgICAgICAgc2VsZi5tb25nb19zZXJ2ZXIgPSAiZjIudGFuZ3lvdXplLmNvbTozMDAwNyIKICAgICAgICBzZWxmLmluZmx1eGRiX3NlcnZlciA9ICJmNS50YW5neW91emUuY29tOjgwODYiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRrLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndhbXBfc2VydmVyID0gIndzOi8vZjQudGFuZ3lvdXplLmNvbToxODA4MC93cyIKICAgICAgICBzZWxmLnF1b3RlX3NlcnZlciA9ICJmNC50YW5neW91emUuY29tIiAgIyByZWRpcyBzZXJ2ZXIgNjM3OQogICAgICAgIHNlbGYuZWxhc3RpY19zZXJ2ZXIgPSAnZjQudGFuZ3lvdXplLmNvbScKICAgICAgICBzZWxmLmFwaV9ob3N0ID0gJ2h0dHA6Ly9mNC50YW5neW91emUuY29tOjE1MDAwL3YwLjAuNy8nCiAgICAgICAgc2VsZi5tb25nb19zZXJ2ZXIgPSAiZjIudGFuZ3lvdXplLmNvbTozMDAwNyIKICAgICAgICBzZWxmLmluZmx1eGRiX3NlcnZlciA9ICJmNS50YW5neW91emUuY29tOjgwODYiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Rhbmd5b3V6ZS9weWNoYXJtX3NldHRpbmcK</text>
+        <text encoding="base64">ICAgIHRrLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Rhbmd5b3V6ZS9weWNoYXJtX3NldHRpbmcK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">IAo=</text>
       </register>
       <register name="/" type="4">
@@ -91,6 +101,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
