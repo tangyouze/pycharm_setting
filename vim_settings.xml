@@ -11,6 +11,9 @@
       <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462337705824">
         <mark key="'" line="15" column="30" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/__init__.py" timestamp="1462337989443">
+        <mark key="'" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/read_redis_queue_save_influxdb.py" timestamp="1462322667294">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -44,6 +47,7 @@
       <jump line="198" column="17" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
       <jump line="176" column="35" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
       <jump line="15" column="30" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/__init__.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
