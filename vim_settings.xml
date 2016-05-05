@@ -64,8 +64,8 @@
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462340621609">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462369290602">
-        <mark key="'" line="946" column="47" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462420093838">
+        <mark key="'" line="26" column="28" />
         <mark key="[" line="378" column="70" />
         <mark key="]" line="378" column="70" />
         <mark key="." line="378" column="76" />
@@ -135,6 +135,7 @@
       <jump line="568" column="13" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="946" column="47" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="77" column="36" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
+      <jump line="26" column="28" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
