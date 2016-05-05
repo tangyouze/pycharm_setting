@@ -66,10 +66,16 @@
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462340621609">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462424150049">
-        <mark key="'" line="930" column="8" />
-        <mark key="[" line="378" column="70" />
-        <mark key="]" line="378" column="70" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/test/.cache/test_okcoin_asyncacc.py" timestamp="1462428091970">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="42" />
+        <mark key="^" line="23" column="37" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462427730028">
+        <mark key="'" line="20" column="18" />
+        <mark key="[" line="922" column="0" />
+        <mark key="]" line="962" column="18" />
         <mark key="." line="378" column="76" />
         <mark key="^" line="373" column="90" />
       </file>
@@ -140,46 +146,49 @@
       <jump line="26" column="28" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="930" column="8" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="182" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
+      <jump line="20" column="18" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="23" column="11" filename="$USER_HOME$/Dropbox/code/quantlib/test/.cache/test_okcoin_asyncacc.py" />
+      <jump line="24" column="13" filename="$USER_HOME$/Dropbox/code/quantlib/test/.cache/test_okcoin_asyncacc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b3MuZW52aXJvblsnJ10K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>deal_amount</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhd2FpdCBhY2MuZ2V0X2JhbGFuY2UoKSkK</text>
+        <text encoding="base64">YXN5bmMgZGVmIG1haW4oY29tcCk6CiAgICBwZC5zZXRfb3B0aW9uKCdkaXNwbGF5LndpZHRoJywgMzIwKQoKICAgIHV0aWwuc2V0X2xvZ2dlcignb2tjb2luJywgZGVidWc9VHJ1ZSkKCiAgICAjIHRlc3Rfb2tjbigpCgogICAgIyBhY2MgPSBBY2NvdW50LnNlYXJjaF91bmlxdWUocidrZXlhbkAuKm9rY29tJykKICAgICMgcHJpbnQoYWNjLnN5bWJvbCkKICAgICMgYWNjLmxvZ2luKCkKICAgICMgcHJpbnQoYWNjLmdldF9iYWxhbmNlKCkpCgogICAgIyBhY2MgPSBBY2NvdW50LnNlYXJjaF91bmlxdWUocid3ZWlkYUAuKm9rY29tJykKICAgICMgcHJpbnQoYWNjLnN5bWJvbCkKICAgICMgYWNjLmxvZ2luKCkKICAgICMgcHJpbnQoYWNjLmdldF9iYWxhbmNlKCkpCiAgICAjIGFjYyA9IEFjY291bnQuc2VhcmNoX3VuaXF1ZShyJ3dlaWRhQC4qb2tjbicpCiAgICAjIHByaW50KGFjYy5zeW1ib2wpCiAgICAjIGFjYy5sb2dpbigpCiAgICBhY2MgPSBBY2NvdW50QXBpLmdldF9ieV9zeW1ib2woJ2tleWFuQGJyb2tlci54dGMub2tjb20nKQogICAgcHJpbnQoYWNjLmNvbmZpZykKICAgIGFjYyA9IE9rY29tQWNjb3VudChhY2MuY29udGFpbmVyLCBhY2MubmFtZSwgYWNjLmNvbmZpZykKICAgIGFjYy5zZXRfY29tcChjb21wKQogICAgYXdhaXQgYWNjLmxvZ2luKCkKICAgIHByaW50KCdsb2dpbiBmaW5pc2gnKQogICAgcHJpbnQoYXdhaXQgYWNjLmdldF9iYWxhbmNlKCkpCiAgICBjb24gPSBDb250cmFjdEFwaS5nZXRfYnlfc3ltYm9sKCdsdGNfdDpleGNoYW5nZS54dGMub2tjb20nKQogICAgcCA9IFRpY2tlckFwaS5nZXRfbGFzdChjb24pLmJpZDEgKyAwLjAwMQogICAgcHJpbnQoYXdhaXQgYWNjLnBsYWNlX29yZGVyKGNvbiwgcCwgJ2InLCAxKSkKCiAgICAjIE9rdXNkQWNjb3VudChhY2MuZ2V0X2JhbGFuY2UpCiAgICAjIHByaW50KGFjYy5nZXQoKSkKCiAgICAjIGRlZiBjYih0ayk6CiAgICAjICAgICBwcmludCh0aykKICAgICMKICAgICMgT2tjb21RdW90ZS5yZWdpc3Rlcl9hbGwoY2IpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHV0aWwud2FtcChtYWluKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">b3MuZW52aXJvblsnJ10K</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">b3MuZQo=</text>
+      <register name="2" type="4">
+        <text>l</text>
       </register>
       <register name="3" type="4">
-        <text>deal_amount</text>
+        <text>keyan</text>
       </register>
-      <register name="4" type="4">
-        <text>deal_amount</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbiA9IENvbnRyYWN0QXBpLmdldF9ieV9zeW1ib2woJ2x0Y190OmV4Y2hhbmdlLnh0Yy5va2NvbScpCiAgICBwID0gVGlja2VyQXBpLmdldF9sYXN0KGNvbikuYmlkMSArIDAuMDAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlci4K</text>
+        <text encoding="base64">ICAgIGFjYy5sb2cgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlci4K</text>
+        <text encoding="base64">ICAgIGF3YWl0IGFjYy5sb2dpbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZbMF0uYWRkX2RlYWxfaGlzdG9yeSgpCg==</text>
+        <text encoding="base64">ICAgIGFjYy5zZXRfY29tcChjb21wKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFjYyA9IE9rY29tQWNjb3VudChhY2MuY29udGFpbmVyLCBhY2MubmFtZSwgYWNjLmNvbmZpZykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXIuZGVhCg==</text>
+        <text encoding="base64">ICAgIGFjYyA9IEFjY291bnRBcGkuZ2V0X2J5X3N5bWJvbCgK</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
