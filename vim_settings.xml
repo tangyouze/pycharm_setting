@@ -29,13 +29,15 @@
       <file name="/Python Console" timestamp="1462368447786">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/Makefile" timestamp="1462426841433" />
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462345714176">
         <mark key="'" line="198" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462357656058">
-        <mark key="[" line="654" column="0" />
-        <mark key="]" line="654" column="0" />
-        <mark key="." line="654" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462426753910">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/config.py" timestamp="1462326984664">
         <mark key="'" line="30" column="0" />
@@ -137,10 +139,11 @@
       <jump line="77" column="36" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
       <jump line="26" column="28" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="930" column="8" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>deal_amount</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">b3MuZW52aXJvblsnJ10K</text>
       </register>
       <register name="-" type="4">
         <text>deal_amount</text>
@@ -151,32 +154,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChhd2FpdCBhY2MuZ2V0X2JhbGFuY2UoKSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">b3MuZW52aXJvblsnJ10K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">b3MuZQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>deal_amount</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>deal_amount</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlci4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZbMF0uYWRkX2RlYWxfaGlzdG9yeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlci4K</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlci4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXIuZGVhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZbMF0uYWRkX2RlYWxfaGlzdG9yeSgpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZbMF0uCg==</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXIuZGVhCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
