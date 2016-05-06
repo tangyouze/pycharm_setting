@@ -75,12 +75,12 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462427730028">
-        <mark key="'" line="20" column="18" />
-        <mark key="[" line="922" column="0" />
-        <mark key="]" line="962" column="18" />
-        <mark key="." line="378" column="76" />
-        <mark key="^" line="373" column="90" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462513766119">
+        <mark key="'" line="902" column="0" />
+        <mark key="[" line="369" column="78" />
+        <mark key="]" line="369" column="83" />
+        <mark key="." line="369" column="83" />
+        <mark key="^" line="369" column="83" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/test_huatai_backend.py" timestamp="1462344548125">
         <mark key="'" line="10" column="14" />
@@ -156,13 +156,14 @@
       <jump line="945" column="28" filename="$USER_HOME$/Dropbox/code/quantlib/guangfa.py" />
       <jump line="28" column="13" filename="$USER_HOME$/Dropbox/code/quantlib/guangfa.py" />
       <jump line="5" column="15" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
+      <jump line="902" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>deal_amount</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>deal_amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -170,8 +171,8 @@
       <register name="0" type="2">
         <text encoding="base64">YXN5bmMgZGVmIG1haW4oY29tcCk6CiAgICBwZC5zZXRfb3B0aW9uKCdkaXNwbGF5LndpZHRoJywgMzIwKQoKICAgIHV0aWwuc2V0X2xvZ2dlcignb2tjb2luJywgZGVidWc9VHJ1ZSkKCiAgICAjIHRlc3Rfb2tjbigpCgogICAgIyBhY2MgPSBBY2NvdW50LnNlYXJjaF91bmlxdWUocidrZXlhbkAuKm9rY29tJykKICAgICMgcHJpbnQoYWNjLnN5bWJvbCkKICAgICMgYWNjLmxvZ2luKCkKICAgICMgcHJpbnQoYWNjLmdldF9iYWxhbmNlKCkpCgogICAgIyBhY2MgPSBBY2NvdW50LnNlYXJjaF91bmlxdWUocid3ZWlkYUAuKm9rY29tJykKICAgICMgcHJpbnQoYWNjLnN5bWJvbCkKICAgICMgYWNjLmxvZ2luKCkKICAgICMgcHJpbnQoYWNjLmdldF9iYWxhbmNlKCkpCiAgICAjIGFjYyA9IEFjY291bnQuc2VhcmNoX3VuaXF1ZShyJ3dlaWRhQC4qb2tjbicpCiAgICAjIHByaW50KGFjYy5zeW1ib2wpCiAgICAjIGFjYy5sb2dpbigpCiAgICBhY2MgPSBBY2NvdW50QXBpLmdldF9ieV9zeW1ib2woJ2tleWFuQGJyb2tlci54dGMub2tjb20nKQogICAgcHJpbnQoYWNjLmNvbmZpZykKICAgIGFjYyA9IE9rY29tQWNjb3VudChhY2MuY29udGFpbmVyLCBhY2MubmFtZSwgYWNjLmNvbmZpZykKICAgIGFjYy5zZXRfY29tcChjb21wKQogICAgYXdhaXQgYWNjLmxvZ2luKCkKICAgIHByaW50KCdsb2dpbiBmaW5pc2gnKQogICAgcHJpbnQoYXdhaXQgYWNjLmdldF9iYWxhbmNlKCkpCiAgICBjb24gPSBDb250cmFjdEFwaS5nZXRfYnlfc3ltYm9sKCdsdGNfdDpleGNoYW5nZS54dGMub2tjb20nKQogICAgcCA9IFRpY2tlckFwaS5nZXRfbGFzdChjb24pLmJpZDEgKyAwLjAwMQogICAgcHJpbnQoYXdhaXQgYWNjLnBsYWNlX29yZGVyKGNvbiwgcCwgJ2InLCAxKSkKCiAgICAjIE9rdXNkQWNjb3VudChhY2MuZ2V0X2JhbGFuY2UpCiAgICAjIHByaW50KGFjYy5nZXQoKSkKCiAgICAjIGRlZiBjYih0ayk6CiAgICAjICAgICBwcmludCh0aykKICAgICMKICAgICMgT2tjb21RdW90ZS5yZWdpc3Rlcl9hbGwoY2IpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHV0aWwud2FtcChtYWluKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>deal_amount</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -183,19 +184,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">d2hpbGUgbm90IG9zLnBhdGguaXNmaWxlKCcuZ2l0aWdub3JlJyk6CiAgICBvcy5jaGRpcignLi4nKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>0</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>l</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>keyan</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbiA9IENvbnRyYWN0QXBpLmdldF9ieV9zeW1ib2woJ2x0Y190OmV4Y2hhbmdlLnh0Yy5va2NvbScpCiAgICBwID0gVGlja2VyQXBpLmdldF9sYXN0KGNvbikuYmlkMSArIDAuMDAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
