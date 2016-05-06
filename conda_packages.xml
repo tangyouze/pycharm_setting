@@ -191,7 +191,7 @@
         <entry key="jom" value="1.1.0" />
         <entry key="joy" value="1.0" />
         <entry key="jpeg" value="8d" />
-        <entry key="jsonschema" value="2.4.0" />
+        <entry key="jsonschema" value="2.5.1" />
         <entry key="jupyter" value="1.0.0" />
         <entry key="jupyter_client" value="4.2.2" />
         <entry key="jupyter_console" value="4.1.1" />
@@ -289,7 +289,7 @@
         <entry key="orange-app" value="2.7.8" />
         <entry key="orange3" value="3.3.1" />
         <entry key="ordereddict" value="1.1" />
-        <entry key="pandas" value="0.18.0" />
+        <entry key="pandas" value="0.18.1" />
         <entry key="pandas-datareader" value="0.2.1" />
         <entry key="pandasql" value="0.6.3" />
         <entry key="pandoc" value="1.15.2" />
@@ -2617,6 +2617,7 @@
           <value>
             <list>
               <option value="2.4.0" />
+              <option value="2.5.1" />
             </list>
           </value>
         </entry>
@@ -3642,6 +3643,7 @@
               <option value="0.10.0" />
               <option value="0.9.1" />
               <option value="0.18.0" />
+              <option value="0.18.1" />
             </list>
           </value>
         </entry>
@@ -5638,6 +5640,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1462357578732" />
+    <option name="LAST_TIME_CHECKED" value="1462497077723" />
   </component>
 </application>
