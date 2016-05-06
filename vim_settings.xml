@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462340621609">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462526629248">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462528310989">
         <mark key="'" line="391" column="33" />
         <mark key="[" line="387" column="24" />
         <mark key="]" line="387" column="23" />
@@ -52,11 +52,19 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/Makefile" timestamp="1462528313863">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="118" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qbapi/Makefile" timestamp="1462520496307" />
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462508862307">
         <mark key="'" line="198" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-turtle/Makefile" timestamp="1462526284953" />
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-turtle/Makefile" timestamp="1462528338267">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/guangfa.py" timestamp="1462521548056">
         <mark key="'" line="844" column="28" />
         <mark key="[" line="3" column="0" />
@@ -158,44 +166,44 @@
       <jump line="886" column="8" filename="$USER_HOME$/Dropbox/code/qb-strategy-turtle/strategy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXB5dGhvbiBtYWluLnB5ICAtLXByb2R1Y3Rpb24gLS1kZWJ1Zwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">YmFzaCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdjYW5jZWwgcmVzdWx0JywgdCkK</text>
+        <text encoding="base64">CWJhc2ggLWMgImNkIC4uOyBnaXQgY2xvbmUgIC0tYnJhbmNoIHJlbGVhc2UtMC4xLjAgZ2l0QGJpdGJ1Y2tldC5vcmc6cWJ0cmFkZS9xYnRyYWRlLmdpdDsgY2QgcWJ0cmFkZTsgbWFrZSBwcm9kIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">CXB5dGhvbiBtYWluLnB5ICAtLXByb2R1Y3Rpb24gLS1kZWJ1Zwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>+</text>
+      <register name="2" type="2">
+        <text encoding="base64">CXB5dGhvbiBtYWluLnB5ICAtLXByb2R1Y3Rpb24gLS1kZWJ1Zwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CXB5dGhvbiBtYWluLnB5ICAtLXByb2R1Y3Rpb24gLS1kZWJ1Zwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHQpCg==</text>
+        <text encoding="base64">CXB5dGhvbiBtYWluLnB5ICAtLXByb2R1Y3Rpb24gLS1kZWJ1Zwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CXB5dGhvbiBtYWluLnB5ICAtLXByb2R1Y3Rpb24gLS1kZWJ1Zwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>cancel</text>
+      <register name="6" type="2">
+        <text encoding="base64">CXB5dGhvbiBtYWluLnB5ICAtLXByb2R1Y3Rpb24gLS1kZWJ1Zwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>on</text>
+      <register name="7" type="2">
+        <text encoding="base64">CXB5dGhvbiBtYWluLnB5ICAtLXByb2R1Y3Rpb24gLS1kZWJ1Zwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="8" type="2">
+        <text encoding="base64">CXB5dGhvbiBtYWluLnB5ICAtLXByb2R1Y3Rpb24gLS1kZWJ1Zwo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ID09IE9yZGVyLkRFQUxFRCBvciBzdGF0dXMgPT0gT3JkZXIuV0lUSERSQVdFRDo=</text>
+        <text encoding="base64">YmFzaCA=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
