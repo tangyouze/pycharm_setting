@@ -32,12 +32,12 @@
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462340621609">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462537271949">
-        <mark key="'" line="382" column="45" />
-        <mark key="[" line="382" column="74" />
-        <mark key="]" line="379" column="39" />
-        <mark key="." line="379" column="39" />
-        <mark key="^" line="379" column="39" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462541375701">
+        <mark key="'" line="384" column="45" />
+        <mark key="[" line="372" column="0" />
+        <mark key="]" line="372" column="0" />
+        <mark key="." line="372" column="0" />
+        <mark key="^" line="371" column="77" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462508811897">
         <mark key="'" line="20" column="0" />
@@ -65,12 +65,12 @@
       <file name="/" timestamp="1462534975399">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" timestamp="1462539302058">
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" timestamp="1462540617194">
         <mark key="'" line="1820" column="25" />
-        <mark key="[" line="902" column="0" />
-        <mark key="]" line="902" column="0" />
-        <mark key="^" line="903" column="12" />
-        <mark key="." line="902" column="0" />
+        <mark key="[" line="899" column="88" />
+        <mark key="]" line="899" column="88" />
+        <mark key="^" line="899" column="88" />
+        <mark key="." line="899" column="88" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/guangfa.py" timestamp="1462521548056">
         <mark key="'" line="844" column="28" />
@@ -185,43 +185,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdvcmRlciB7fScuZm9ybWF0KG9yZGVyKSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3RfZGVhbGVkX2Ftb3VudCA9IGRpZmZfYW1vdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oJ2l0ZW0ge30nLmZvcm1hdChpdGVtKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdvcmRlciB7fScuZm9ybWF0KG9yZGVyKSkK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>info</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3RfZGVhbGVkX2Ftb3VudCA9IGRpZmZfYW1vdW50Cg==</text>
+      <register name="3" type="4">
+        <text>info</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhc3RfZGVhbGVkX2Ftb3VudCA9IGRpZmZfYW1vdW50Cg==</text>
+      <register name="4" type="4">
+        <text>item</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>item</text>
       </register>
       <register name="6" type="4">
-        <text>deal_amount</text>
+        <text>status</text>
       </register>
       <register name="7" type="4">
-        <text>entrust_no</text>
+        <text>status</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
+      <register name="8" type="4">
+        <text>print</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>order</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
