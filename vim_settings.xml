@@ -29,7 +29,6 @@
       <file name="/Python Console" timestamp="1462368447786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/Makefile" timestamp="1462426841433" />
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462345714176">
         <mark key="'" line="198" column="17" />
       </file>
@@ -66,7 +65,7 @@
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462340621609">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/test/.cache/test_okcoin_asyncacc.py" timestamp="1462436607604">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/test/.cache/test_okcoin_asyncacc.py" timestamp="1462498269850">
         <mark key="[" line="25" column="22" />
         <mark key="]" line="25" column="27" />
         <mark key="." line="25" column="27" />
@@ -92,7 +91,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.0-py3.5.egg/qbtrade/metric.py" timestamp="1462419297084" />
     </filemarks>
     <jumps>
       <jump line="30" column="4" filename="$USER_HOME$/Dropbox/code/quantlib/requirements.txt" />
