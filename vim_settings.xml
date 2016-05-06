@@ -31,8 +31,8 @@
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462508862307">
         <mark key="'" line="198" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462512719074">
-        <mark key="'" line="5" column="15" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462521595776">
+        <mark key="'" line="682" column="4" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -44,7 +44,7 @@
         <mark key="." line="110" column="0" />
         <mark key="^" line="104" column="35" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/guangfa.py" timestamp="1462520310085">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/guangfa.py" timestamp="1462521548056">
         <mark key="'" line="844" column="28" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -73,12 +73,12 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462520203024">
-        <mark key="'" line="389" column="33" />
-        <mark key="[" line="369" column="78" />
-        <mark key="]" line="369" column="83" />
-        <mark key="." line="369" column="83" />
-        <mark key="^" line="369" column="83" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462521848232">
+        <mark key="'" line="391" column="33" />
+        <mark key="[" line="387" column="24" />
+        <mark key="]" line="387" column="23" />
+        <mark key="." line="387" column="23" />
+        <mark key="^" line="387" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/test_huatai_backend.py" timestamp="1462344548125">
         <mark key="'" line="10" column="14" />
@@ -162,13 +162,15 @@
       <jump line="35" column="39" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="389" column="33" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="844" column="28" filename="$USER_HOME$/Dropbox/code/quantlib/guangfa.py" />
+      <jump line="479" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
+      <jump line="682" column="4" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -176,32 +178,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdjYW5jZWwgcmVzdWx0JywgdCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHQpCg==</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>+</text>
       </register>
       <register name="3" type="4">
-        <text>cancel</text>
+        <text>=</text>
       </register>
-      <register name="4" type="4">
-        <text>on</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHQpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ID09IE9yZGVyLkRFQUxFRCBvciBzdGF0dXMgPT0gT3JkZXIuV0lUSERSQVdFRDo=</text>
+        <text>cancel</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIuRU5ESU5HX1NUQVRVU0VTCg==</text>
+      <register name="7" type="4">
+        <text>on</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGRlZiB1cGRhdGUoc2VsZiwgbzogT3JkZXIpOgogICAgICAgIHByaW50KCdoZXJlIGhlcmUgaGVyZScpCg==</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>deal_amount</text>
+        <text encoding="base64">ID09IE9yZGVyLkRFQUxFRCBvciBzdGF0dXMgPT0gT3JkZXIuV0lUSERSQVdFRDo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
