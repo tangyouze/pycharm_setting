@@ -163,6 +163,7 @@
       <jump line="5" column="15" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
       <jump line="902" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="393" column="52" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/run.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -260,6 +261,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
