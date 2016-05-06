@@ -78,8 +78,8 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462517514151">
-        <mark key="'" line="35" column="39" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462519141758">
+        <mark key="'" line="389" column="33" />
         <mark key="[" line="369" column="78" />
         <mark key="]" line="369" column="83" />
         <mark key="." line="369" column="83" />
@@ -165,6 +165,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/run.sh" />
       <jump line="59" column="54" filename="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" />
       <jump line="35" column="39" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="389" column="33" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
