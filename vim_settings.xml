@@ -75,8 +75,8 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462513766119">
-        <mark key="'" line="902" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462514590042">
+        <mark key="'" line="393" column="52" />
         <mark key="[" line="369" column="78" />
         <mark key="]" line="369" column="83" />
         <mark key="." line="369" column="83" />
@@ -157,6 +157,7 @@
       <jump line="28" column="13" filename="$USER_HOME$/Dropbox/code/quantlib/guangfa.py" />
       <jump line="5" column="15" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
       <jump line="902" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="393" column="52" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -214,8 +215,8 @@
         <entry encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action HighlightUsagesInFile</entry>
         <entry>action FindPrevious</entry>
+        <entry>action HighlightUsagesInFile</entry>
         <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
