@@ -10,7 +10,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462510852638">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462517316554">
         <mark key="'" line="190" column="4" />
         <mark key="[" line="11" column="11" />
         <mark key="]" line="12" column="26" />
@@ -26,7 +26,7 @@
       <file name="/Python Console" timestamp="1462368447786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/run.sh" timestamp="1462515634658" />
+      <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/run.sh" timestamp="1462515652846" />
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462508862307">
         <mark key="'" line="198" column="17" />
       </file>
@@ -36,10 +36,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/config.py" timestamp="1462326984664">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="367" column="0" />
-        <mark key="]" line="372" column="54" />
+      <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1462516771033">
+        <mark key="'" line="59" column="54" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="104" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/guangfa.py" timestamp="1462512813299">
         <mark key="'" line="22" column="13" />
@@ -76,8 +78,8 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462514590042">
-        <mark key="'" line="393" column="52" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462517514151">
+        <mark key="'" line="35" column="39" />
         <mark key="[" line="369" column="78" />
         <mark key="]" line="369" column="83" />
         <mark key="." line="369" column="83" />
@@ -161,46 +163,48 @@
       <jump line="902" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="393" column="52" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/run.sh" />
+      <jump line="59" column="54" filename="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" />
+      <jump line="35" column="39" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>deal_amount</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>deal_amount</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXN5bmMgZGVmIG1haW4oY29tcCk6CiAgICBwZC5zZXRfb3B0aW9uKCdkaXNwbGF5LndpZHRoJywgMzIwKQoKICAgIHV0aWwuc2V0X2xvZ2dlcignb2tjb2luJywgZGVidWc9VHJ1ZSkKCiAgICAjIHRlc3Rfb2tjbigpCgogICAgIyBhY2MgPSBBY2NvdW50LnNlYXJjaF91bmlxdWUocidrZXlhbkAuKm9rY29tJykKICAgICMgcHJpbnQoYWNjLnN5bWJvbCkKICAgICMgYWNjLmxvZ2luKCkKICAgICMgcHJpbnQoYWNjLmdldF9iYWxhbmNlKCkpCgogICAgIyBhY2MgPSBBY2NvdW50LnNlYXJjaF91bmlxdWUocid3ZWlkYUAuKm9rY29tJykKICAgICMgcHJpbnQoYWNjLnN5bWJvbCkKICAgICMgYWNjLmxvZ2luKCkKICAgICMgcHJpbnQoYWNjLmdldF9iYWxhbmNlKCkpCiAgICAjIGFjYyA9IEFjY291bnQuc2VhcmNoX3VuaXF1ZShyJ3dlaWRhQC4qb2tjbicpCiAgICAjIHByaW50KGFjYy5zeW1ib2wpCiAgICAjIGFjYy5sb2dpbigpCiAgICBhY2MgPSBBY2NvdW50QXBpLmdldF9ieV9zeW1ib2woJ2tleWFuQGJyb2tlci54dGMub2tjb20nKQogICAgcHJpbnQoYWNjLmNvbmZpZykKICAgIGFjYyA9IE9rY29tQWNjb3VudChhY2MuY29udGFpbmVyLCBhY2MubmFtZSwgYWNjLmNvbmZpZykKICAgIGFjYy5zZXRfY29tcChjb21wKQogICAgYXdhaXQgYWNjLmxvZ2luKCkKICAgIHByaW50KCdsb2dpbiBmaW5pc2gnKQogICAgcHJpbnQoYXdhaXQgYWNjLmdldF9iYWxhbmNlKCkpCiAgICBjb24gPSBDb250cmFjdEFwaS5nZXRfYnlfc3ltYm9sKCdsdGNfdDpleGNoYW5nZS54dGMub2tjb20nKQogICAgcCA9IFRpY2tlckFwaS5nZXRfbGFzdChjb24pLmJpZDEgKyAwLjAwMQogICAgcHJpbnQoYXdhaXQgYWNjLnBsYWNlX29yZGVyKGNvbiwgcCwgJ2InLCAxKSkKCiAgICAjIE9rdXNkQWNjb3VudChhY2MuZ2V0X2JhbGFuY2UpCiAgICAjIHByaW50KGFjYy5nZXQoKSkKCiAgICAjIGRlZiBjYih0ayk6CiAgICAjICAgICBwcmludCh0aykKICAgICMKICAgICMgT2tjb21RdW90ZS5yZWdpc3Rlcl9hbGwoY2IpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHV0aWwud2FtcChtYWluKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdjYW5jZWwgcmVzdWx0JywgdCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>deal_amount</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHQpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>cancel</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>on</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">d2hpbGUgbm90IG9zLnBhdGguaXNmaWxlKCcuZ2l0aWdub3JlJyk6CiAgICBvcy5jaGRpcignLi4nKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ID09IE9yZGVyLkRFQUxFRCBvciBzdGF0dXMgPT0gT3JkZXIuV0lUSERSQVdFRDo=</text>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIuRU5ESU5HX1NUQVRVU0VTCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>l</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiB1cGRhdGUoc2VsZiwgbzogT3JkZXIpOgogICAgICAgIHByaW50KCdoZXJlIGhlcmUgaGVyZScpCg==</text>
       </register>
       <register name="9" type="4">
-        <text>keyan</text>
+        <text>deal_amount</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
