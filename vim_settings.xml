@@ -94,8 +94,8 @@
         <mark key="." line="5" column="81" />
         <mark key="^" line="5" column="81" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462592294859">
-        <mark key="'" line="587" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462594090392">
+        <mark key="'" line="822" column="12" />
         <mark key="[" line="416" column="37" />
         <mark key="]" line="416" column="43" />
         <mark key="." line="416" column="43" />
@@ -160,7 +160,6 @@
       <file name="$USER_HOME$/Dropbox/code/qb-guangfa-mm/entry.py" timestamp="1462533577203" />
     </filemarks>
     <jumps>
-      <jump line="753" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="474" column="36" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="227" column="16" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="404" column="38" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
@@ -260,6 +259,7 @@
       <jump line="182" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="195" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="16" column="69" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="822" column="12" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
