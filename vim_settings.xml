@@ -76,7 +76,7 @@
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/Makefile" timestamp="1462533760736">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" timestamp="1462601106230">
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" timestamp="1462602389894">
         <mark key="[" line="649" column="15" />
         <mark key="]" line="649" column="15" />
         <mark key="." line="649" column="15" />
@@ -84,6 +84,12 @@
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462508862307">
         <mark key="'" line="198" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-turtle/Makefile" timestamp="1462533803804">
+        <mark key="[" line="5" column="76" />
+        <mark key="]" line="5" column="81" />
+        <mark key="." line="5" column="81" />
+        <mark key="^" line="5" column="81" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462599174673">
         <mark key="'" line="969" column="16" />
