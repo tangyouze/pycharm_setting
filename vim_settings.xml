@@ -26,15 +26,25 @@
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/__init__.py" timestamp="1462339888051">
         <mark key="'" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/read_redis_queue_save_influxdb.py" timestamp="1462322667294">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/test_okcoin.py" timestamp="1462582601294">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462340621609">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462542798570">
-        <mark key="'" line="202" column="0" />
-        <mark key="[" line="388" column="30" />
-        <mark key="]" line="388" column="47" />
-        <mark key="." line="388" column="47" />
-        <mark key="^" line="388" column="47" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462582889587">
+        <mark key="'" line="453" column="24" />
+        <mark key="[" line="961" column="37" />
+        <mark key="]" line="961" column="37" />
+        <mark key="." line="961" column="37" />
+        <mark key="^" line="961" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462508811897">
         <mark key="'" line="20" column="0" />
@@ -81,6 +91,11 @@
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin_quote.py" timestamp="1462367317953">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-turtle/strategy.py" timestamp="1462527112684">
         <mark key="'" line="886" column="8" />
@@ -138,7 +153,6 @@
       <jump line="130" column="40" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="152" column="40" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="925" column="16" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
-      <jump line="163" column="33" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="105" column="34" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="945" column="14" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="155" column="35" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
@@ -180,13 +194,17 @@
       <jump line="379" column="20" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="1042" column="8" filename="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.0-py3.5.egg/qbtrade/model.py" />
       <jump line="202" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/test_okcoin.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/test_okcoin.py" />
+      <jump line="163" column="30" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
+      <jump line="453" column="24" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>set_deal_amount</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>set_deal_amount</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -195,31 +213,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZkY3QgPSB7fQogICAgICAgICAgICAgICAgZm9yIG9yZGVyIGluIHY6CiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2Uob3JkZXIsIE9yZGVyKQogICAgICAgICAgICAgICAgICAgIHZkY3Rbb3JkZXIuZW50cnVzdF9ub10gPSBvcmRlcgoKICAgICAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoJ2pzIHt9Jy5mb3JtYXQoanMpKQogICAgICAgICAgICAgICAgIyBmb3Igb3JkZXIsIGl0ZW0gaW4gemlwKHYsIGpzWydvcmRlcnMnXSk6CiAgICAgICAgICAgICAgICBmb3IgaXRlbSBpbiBqc1snb3JkZXJzJ106CiAgICAgICAgICAgICAgICAgICAgZW50cnVzdF9ubyA9IHN0cihpdGVtWydvcmRlcl9pZCddKQogICAgICAgICAgICAgICAgICAgIGFzc2VydCBlbnRydXN0X25vIGluIHZkY3QsICdlbnRydXN0IG51bWJlciBub3QgaW4gZGljdCcKICAgICAgICAgICAgICAgICAgICBvcmRlciA9IHZkY3RbZW50cnVzdF9ub10KICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCd1cGRhdGUgaXRlbSBvcmRlciB7fSB7fScuZm9ybWF0KGl0ZW0sIG9yZGVyKSkKCiAgICAgICAgICAgICAgICAgICAgaWYgaW50KGl0ZW1bJ3N0YXR1cyddKSBpbiBzdGF0dXNfbWFwOgogICAgICAgICAgICAgICAgICAgICAgICBzdGF0dXMgPSBzdGF0dXNfbWFwW2ludChpdGVtWydzdGF0dXMnXSldCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy53YXJuaW5nKCdzdHVwaWQgc3RhdHVzIG5vdCBmb3VuZCBpdGVtOiB7fScuZm9ybWF0KGl0ZW0pKQoKICAgICAgICAgICAgICAgICAgICBpZiBzdGF0dXMgIT0gb3JkZXIuc3RhdHVzIG9yIGl0ZW1bJ2RlYWxfYW1vdW50J10gIT0gb3JkZXIuZGVhbGVkX2Ftb3VudDoKICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdzdGF0dXMgdXBkYXRlIHt9Jy5mb3JtYXQob3JkZXIpKQogICAgICAgICAgICAgICAgICAgICAgICBvcmRlci5zdGF0dXMgPSBzdGF0dXMKICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXIuc2V0X2RlYWxlZF9hbW91bnQoaXRlbVsnZGVhbF9hbW91bnQnXSwgaXRlbVsncHJpY2VfYXZnJ10pCiAgICAgICAgICAgICAgICAgICAgICAgICMgb3JkZXIuYWRkX2RlYWxfaGlzdG9yeShvcmRlci5lbnRydXN0X3ByaWNlLCBvcmRlci4pCiAgICAgICAgICAgICAgICAgICAgICAgICMgc29tZXRoaW5nIG5ldyBoYXBwZW5zCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIG9yZGVyLnN0YXR1cyA9PSBPcmRlci5XSVRIRFJBV0VEIGFuZCBvcmRlci5kZWFsZWRfYW1vdW50ID4gMDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9yZGVyLnN0YXR1cyA9IE9yZGVyLlBBUlRfREVBTF9XSVRIRFJBV0VECiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYudXBkYXRlX29yZGVyKG9yZGVyKQogICAgICAgICAgICAgICAgICAgICAgICAjIHJlbW92ZSBlbmRpbmcgc3RhdHVzCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIG9yZGVyLnN0YXR1cyBpbiBPcmRlci5FTkRJTkdfU1RBVFVTRVM6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBvcmRlci5yZWZfa2V5IG5vdCBpbiBzZWxmLmFsaXZlX3JlZl9rZXlzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dpbmcud2FybmluZygncmVmIGtleSBub3QgYWxpdmUge30nLmZvcm1hdChvcmRlci5yZWZfa2V5KSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hbGl2ZV9yZWZfa2V5cy5yZW1vdmUob3JkZXIucmVmX2tleSkKICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oJ3N0YXR1cyBub3QgY2hhbmdlIHt9Jy5mb3JtYXQob3JkZXIpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>set_deal_amount</text>
+        <text>l</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShvcmRlciwgT3JkZXIpCg==</text>
+      <register name="2" type="4">
+        <text>keyan</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZm9yIG9yZGVyLCBpdGVtIGluIHppcCh2LCBqc1snb3JkZXJzJ10pOgo=</text>
+        <text encoding="base64">IyBpbXBvcnQgb3MKIwojIGltcG9ydCBwYW5kYXMgYXMgcGQKIwojIGZyb20gcWJ0cmFkZSBpbXBvcnQgQXN5bmNBY2NvdW50LCB1dGlsCiMKIyB3aGlsZSBub3Qgb3MucGF0aC5pc2ZpbGUoJy5naXRpZ25vcmUnKToKIyAgICAgb3MuY2hkaXIoJy4uJykKIyBmcm9tIGJ0Yy5va2NvaW4gaW1wb3J0IE9rY25RdW90ZSwgT2tjb21BY2NvdW50LCBPa2NuQWNjb3VudAojIGZyb20gcWJ0cmFkZSBpbXBvcnQgQ29udHJhY3QKIwojIF9fYXV0aG9yX18gPSAndHl6JwojCiMgaW1wb3J0IHVuaXR0ZXN0CiMKIyB1dGlsLnNldF9sb2dnZXIoJ3Rlc3Rfb2tjb2luJykKIwojCiMgY2xhc3MgTXlUZXN0Q2FzZSh1bml0dGVzdC5UZXN0Q2FzZSk6CiMgICAgIGRlZiB0ZXN0X29rY29pbl9hc3luYyhzZWxmKToKIyAgICAgICAgIGFzeW5jIGRlZiBtYWluKGNvbXApOgojICAgICAgICAgICAgIGFjYyA9IEFzeW5jQWNjb3VudChjb21wLCAndHl6QGJyb2tlci54dGMub2tjb20nKQojICAgICAgICAgICAgICMgYWNjX3JpZ2h0cyA9IGpzWydpbmZvJ11bJ2J0YyddWydhY2NvdW50X3JpZ2h0cyddCiMgICAgICAgICAgICAgY29uID0gQ29udHJhY3QuZ2V0X2J5X3N5bWJvbCgnYnRjX3E6ZXhjaGFuZ2UueHRjLm9rY29tJykKIyAgICAgICAgICAgICBhd2FpdCAgYWNjLnBsYWNlX29yZGVyKGNvbiwgMTAwLCAnYicsIDEsIHV0aWwucmFuZF9yZWZfa2V5KCkpCiMKIyAgICAgICAgICAgICAjIHRrID0gT2tjblF1b3RlLmxhc3RfdGlja2VyKGNvbikKIyAgICAgICAgICAgICAjIHByaW50KHRrLnByaWNlLCB0eXBlKHRrLnByaWNlKSkKIyAgICAgICAgICAgICAjIHByaW50KHRrLmJpZHMpCiMgICAgICAgICAgICAgIyBwcmludCh0ay5hc2tzKQojCiMgICAgICAgICB1dGlsLndhbXAobWFpbikKIwojICAgICBkZWYgdGVzdF9zb21ldGhpbmcoc2VsZik6CiMgICAgICAgICBjb24gPSBDb250cmFjdC5nZXRfYnlfc3ltYm9sKCdva2NuX2J0YycpCiMgICAgICAgICAjIGFjY19yaWdodHMgPSBqc1snaW5mbyddWydidGMnXVsnYWNjb3VudF9yaWdodHMnXQojICAgICAgICAgdGsgPSBPa2NuUXVvdGUubGFzdF90aWNrZXIoY29uKQojICAgICAgICAgcHJpbnQodGsucHJpY2UsIHR5cGUodGsucHJpY2UpKQojICAgICAgICAgcHJpbnQodGsuYmlkcykKIyAgICAgICAgIHByaW50KHRrLmFza3MpCiMKIyAgICAgZGVmIHRlc3RfYmFsYW5jZShzZWxmKToKIyAgICAgICAgIGFjYyA9IE9rY29tQWNjb3VudCgnY29tX2tleWFuJykKIyAgICAgICAgIHByaW50KGFjYy5nZXRfYmFsYW5jZSgpKQojCiMgICAgIGRlZiB0ZXN0X3Bvc2l0aW9uKHNlbGYpOgojICAgICAgICAgYWNjID0gT2tjb21BY2NvdW50KCdjb21fa2V5YW4nKQojICAgICAgICAgIyBwcmludChhY2MuZ2V0X2JhbGFuY2UoKSkKIyAgICAgICAgIHggPSBhY2MuZ2V0X3Bvc2l0aW9uKCkKIyAgICAgICAgIHByaW50KHgpCiMKIyAgICAgZGVmIHRlc3RfeHgoc2VsZik6CiMgICAgICAgICBhY2MgPSBPa2NvbUFjY291bnQoJ2NvbV9rZXlhbicpCiMgICAgICAgICAjIHByaW50KGFjYy5nZXRfYmFsYW5jZSgpKQojICAgICAgICAgeCA9IGFjYy5nZXRfcG9zaXRpb24oKQojICAgICAgICAgcHJpbnQoeCkKIyAgICAgICAgIGNvbiA9IENvbnRyYWN0LmdldF9ieV9zeW1ib2woJ29rY29tX2J0Y190JykKIyAgICAgICAgIHByaW50KE9rY29tUXVvdGEubGFzdF90aWNrZXIoY29uKSkKIyAgICAgICAgIHEgPSBhY2MucGxhY2Vfb3JkZXIoY29uLCA0MDAsICdiJywgMSwgLTEpCiMgICAgICAgICBwcmludChxKQojCiMgICAgIGRlZiB0ZXN0X29yZGVyX2luZm8oc2VsZik6CiMgICAgICAgICAjIGFjYyA9IEFjY291bnRQb29sLmdldF9hY2NvdW50KCdjbl9kdWNrQG9rY29pbicpCiMgICAgICAgICAjIHByaW50KGFjYy5vcmRlcl9pbmZvKGNvbj1Db250cmFjdEZhY3RvcnkuZ2V0X2J5X3N5bWJvbCgnb2tjbl9idGMnKSkpCiMKIyAgICAgICAgIGFjYyA9IEFjY291bnRQb29sLmdldF9hY2NvdW50KCdjb21fa2V5YW5Ab2tjb2luJykKIyAgICAgICAgIHByaW50KGFjYy5mdXR1cmVfb3JkZXJfaW5mbyhjb249Q29udHJhY3QuZ2V0X2J5X3N5bWJvbCgnb2tjb21fYnRjX3QnKSkpCiMKIyAgICAgZGVmIHRlc3RfcGxhY2Vfb3JkZXIoc2VsZik6CiMgICAgICAgICBhY2MgPSBBY2NvdW50UG9vbC5nZXRfYWNjb3VudCgnY29tX3R5ekBva2NvaW4nKQojICAgICAgICAgY29uID0gQ29udHJhY3QuZ2V0X2J5X3N5bWJvbCgnb2tjb21fYnRjX3QnKQojICAgICAgICAgY29uMiA9IENvbnRyYWN0LmdldF9ieV9zeW1ib2woJ29rY29tX2J0Y19uJykKIyAgICAgICAgIGFjYy51cGRhdGVfcG9zaXRpb24oKQojICAgICAgICAgYWNjLnBsYWNlX29yZGVyKGNvbiwgNTA2LCAncycsIDEsIC0xKQojICAgICAgICAgYWNjLnBsYWNlX29yZGVyKGNvbjIsIDUyMCwgJ2InLCAxLCAtMSkKIyAgICAgICAgICMgcHJpbnQoYWNjLmZ1dHVyZV9vcmRlcl9pbmZvKGNvbj1Db250cmFjdEZhY3RvcnkuZ2V0X2J5X3N5bWJvbCgnb2tjb21fYnRjX3QnKSkpCiMKIyAgICAgZGVmIHRlc3RfY25fYWNjb3VudChzZWxmKToKIyAgICAgICAgIGFjYyA9IE9rY25BY2NvdW50KCdjbl9kdWNrJykKIyAgICAgICAgIHByaW50KGFjYykKIyAgICAgICAgICMgcHJpbnQoYWNjLmdldF9iYWxhbmNlKCkpCiMgICAgICAgICBwb3MgPSBhY2MuZ2V0X3Bvc2l0aW9uKCkKIyAgICAgICAgIHBkLnJlYWRfY3N2KHBvcykKIyAgICAgICAgIHByaW50KHBvcykKIwojICAgICBkZWYgdGVzdF9wbGFjZV9zbWFydF9tYXJrZXRfb3JkZXIoc2VsZik6CiMgICAgICAgICBhY2MgPSBPa2NuQWNjb3VudCgnY25fZHVjaycpCiMgICAgICAgICBwcmludChhY2MpCiMgICAgICAgICBhY2MucGxhY2Vfc21hcnRfbWFya2V0X29yZGVyKENvbnRyYWN0UG9vbC5nZXRfeHRjKCdva2NuX2J0YycpLCAnYicsIDEpCiMKIwojIGRlZiBtYWluKCk6CiMgICAgIGFzeW5jIGRlZiBpbnNpZGVtYWluKGNvbXApOgojICAgICAgICAgYWNjID0gQXN5bmNBY2NvdW50KGNvbXAsICd0eXpAYnJva2VyLnh0Yy5va2NvbScpCiMgICAgICAgICAjIGFjY19yaWdodHMgPSBqc1snaW5mbyddWydidGMnXVsnYWNjb3VudF9yaWdodHMnXQojICAgICAgICAgY29uID0gQ29udHJhY3QuZ2V0X2J5X3N5bWJvbCgnYnRjX3E6ZXhjaGFuZ2UueHRjLm9rY29tJykKIyAgICAgICAgIGF3YWl0ICBhY2MucGxhY2Vfb3JkZXIoY29uLCAneHgnLCAnYicsIDEsIHV0aWwucmFuZF9yZWZfa2V5KCkpCiMKIyAgICAgICAgICMgdGsgPSBPa2NuUXVvdGUubGFzdF90aWNrZXIoY29uKQojICAgICAgICAgIyBwcmludCh0ay5wcmljZSwgdHlwZSh0ay5wcmljZSkpCiMgICAgICAgICAjIHByaW50KHRrLmJpZHMpCiMgICAgICAgICAjIHByaW50KHRrLmFza3MpCiMKIyAgICAgdXRpbC53YW1wKGluc2lkZW1haW4pCiMKIwojIGlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiMgICAgIHV0aWwuc2V0X2xvZ2dlcigndGVzdG9rY29pbicpCiMgICAgIG1haW4oKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>d</text>
-      </register>
-      <register name="7" type="4">
-        <text>e</text>
-      </register>
-      <register name="8" type="4">
         <text>set_deal_amount</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdvcmRlciB7fScuZm9ybWF0KG9yZGVyKSkK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShvcmRlciwgT3JkZXIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZm9yIG9yZGVyLCBpdGVtIGluIHppcCh2LCBqc1snb3JkZXJzJ10pOgo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
