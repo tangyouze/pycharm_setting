@@ -3,15 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462537178089">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462589622957">
         <mark key="'" line="182" column="64" />
         <mark key="[" line="11" column="11" />
       </file>
       <file name="/Python Console" timestamp="1462368447786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/xtc_model.py" timestamp="1462583622434">
-        <mark key="'" line="125" column="8" />
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/xtc_model.py" timestamp="1462588670353">
+        <mark key="'" line="106" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462589389142">
+        <mark key="'" line="16" column="69" />
+        <mark key="[" line="12" column="63" />
+        <mark key="]" line="16" column="69" />
+        <mark key="." line="16" column="69" />
+        <mark key="^" line="16" column="69" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462521595776">
         <mark key="'" line="682" column="4" />
@@ -43,8 +50,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462340621609">
-        <mark key="'" line="15" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/requirements.txt" timestamp="1462588698724">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462587839442">
+        <mark key="'" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462583387442">
         <mark key="'" line="419" column="0" />
@@ -52,6 +65,15 @@
         <mark key="]" line="961" column="37" />
         <mark key="." line="961" column="37" />
         <mark key="^" line="961" column="37" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/setup.py" timestamp="1462588710925">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1462589625017">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462508811897">
         <mark key="'" line="20" column="0" />
@@ -75,18 +97,19 @@
         <mark key="." line="5" column="81" />
         <mark key="^" line="5" column="81" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462586055571">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="343" column="0" />
-        <mark key="]" line="380" column="70" />
-        <mark key="." line="343" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462588678727">
+        <mark key="'" line="589" column="0" />
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/alihk3-prod.yml" timestamp="1462534434519" />
       <file name="/" timestamp="1462534975399">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" timestamp="1462584193277">
-        <mark key="'" line="904" column="32" />
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" timestamp="1462588646728">
+        <mark key="'" line="245" column="19" />
         <mark key="[" line="907" column="55" />
         <mark key="]" line="907" column="78" />
         <mark key="^" line="907" column="78" />
@@ -133,36 +156,6 @@
       <file name="$USER_HOME$/Dropbox/code/qb-guangfa-mm/entry.py" timestamp="1462533577203" />
     </filemarks>
     <jumps>
-      <jump line="195" column="30" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
-      <jump line="198" column="17" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
-      <jump line="176" column="35" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
-      <jump line="15" column="30" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/__init__.py" />
-      <jump line="169" column="25" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
-      <jump line="10" column="14" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/test_huatai_backend.py" />
-      <jump line="165" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
-      <jump line="173" column="8" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
-      <jump line="385" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/algorithm/strategy.py" />
-      <jump line="573" column="12" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
-      <jump line="107" column="29" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
-      <jump line="917" column="27" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
-      <jump line="52" column="11" filename="$USER_HOME$/Dropbox/code/quantlib/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/.gitignore" />
-      <jump line="74" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/.gitignore" />
-      <jump line="70" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/.gitignore" />
-      <jump line="55" column="20" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
-      <jump line="92" column="23" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
-      <jump line="509" column="17" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
-      <jump line="763" column="15" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
-      <jump line="500" column="14" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
-      <jump line="43" column="30" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin_quote.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin_quote.py" />
-      <jump line="118" column="10" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="753" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="474" column="36" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="227" column="16" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
@@ -233,49 +226,79 @@
       <jump line="975" column="4" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="379" column="20" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="410" column="56" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="996" column="4" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="27" column="31" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="78" column="43" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/xtc_model.py" />
+      <jump line="394" column="46" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="984" column="29" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="646" column="50" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="915" column="12" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
+      <jump line="15" column="10" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
+      <jump line="17" column="31" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" />
+      <jump line="170" column="40" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="9" column="43" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="359" column="68" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="173" column="23" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="176" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="12" column="32" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="194" column="17" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="245" column="19" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
+      <jump line="97" column="32" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="106" column="25" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/xtc_model.py" />
+      <jump line="589" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="197" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="31" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="182" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="195" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="16" column="69" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZkY3QgPSB7fQogICAgICAgICAgICAgICAgZm9yIG9yZGVyIGluIHY6CiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2Uob3JkZXIsIE9yZGVyKQogICAgICAgICAgICAgICAgICAgIHZkY3Rbb3JkZXIuZW50cnVzdF9ub10gPSBvcmRlcgoKICAgICAgICAgICAgICAgIHN0YXR1c19tYXAgPSB7MTogT3JkZXIuUEFSVF9ERUFMX1BFTkRJTkcsIDI6IE9yZGVyLkRFQUxFRCwgLTE6IE9yZGVyLldJVEhEUkFXRUQsIDQ6IE9yZGVyLldJVEhEUkFXSU5HLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwOiBPcmRlci5QRU5ESU5HfQoKICAgICAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoJ2pzIHt9Jy5mb3JtYXQoanMpKQoKICAgICAgICAgICAgICAgIGZvciBpdGVtIGluIGpzWydvcmRlcnMnXToKICAgICAgICAgICAgICAgICAgICBlbnRydXN0X25vID0gc3RyKGl0ZW1bJ29yZGVyX2lkJ10pCiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0IGVudHJ1c3Rfbm8gaW4gdmRjdCwgJ2VudHJ1c3QgbnVtYmVyIG5vdCBpbiBkaWN0JwogICAgICAgICAgICAgICAgICAgIG9yZGVyID0gdmRjdFtlbnRydXN0X25vXQogICAgICAgICAgICAgICAgICAgIGFzc2VydCBpc2luc3RhbmNlKG9yZGVyLCBPcmRlcikKICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCd1cGRhdGUgaXRlbSBvcmRlciB7fSB7fScuZm9ybWF0KGl0ZW0sIG9yZGVyKSkKCiAgICAgICAgICAgICAgICAgICAgaWYgaW50KGl0ZW1bJ3N0YXR1cyddKSBpbiBzdGF0dXNfbWFwOgogICAgICAgICAgICAgICAgICAgICAgICBzdGF0dXMgPSBzdGF0dXNfbWFwW2ludChpdGVtWydzdGF0dXMnXSldCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy53YXJuaW5nKCdzdHVwaWQgc3RhdHVzIG5vdCBmb3VuZCBpdGVtOiB7fScuZm9ybWF0KGl0ZW0pKQoKICAgICAgICAgICAgICAgICAgICBpZiBzdGF0dXMgIT0gb3JkZXIuc3RhdHVzIG9yIGl0ZW1bJ2RlYWxfYW1vdW50J10gIT0gb3JkZXIuZGVhbGVkX2Ftb3VudDoKICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXIuc3RhdHVzID0gc3RhdHVzCiAgICAgICAgICAgICAgICAgICAgICAgIG9yZGVyLnNldF9kZWFsZWRfYW1vdW50KGl0ZW1bJ2RlYWxfYW1vdW50J10sIGl0ZW1bJ3ByaWNlX2F2ZyddKQogICAgICAgICAgICAgICAgICAgICAgICAjIG9yZGVyLmFkZF9kZWFsX2hpc3Rvcnkob3JkZXIuZW50cnVzdF9wcmljZSwgb3JkZXIuKQogICAgICAgICAgICAgICAgICAgICAgICAjIHNvbWV0aGluZyBuZXcgaGFwcGVucwogICAgICAgICAgICAgICAgICAgICAgICBpZiBvcmRlci5zdGF0dXMgPT0gT3JkZXIuV0lUSERSQVdFRCBhbmQgb3JkZXIuZGVhbGVkX2Ftb3VudCA+IDA6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmRlci5zdGF0dXMgPSBPcmRlci5QQVJUX0RFQUxfV0lUSERSQVdFRAogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnVwZGF0ZV9vcmRlcihvcmRlcikKICAgICAgICAgICAgICAgICAgICAgICAgIyByZW1vdmUgZW5kaW5nIHN0YXR1cwogICAgICAgICAgICAgICAgICAgICAgICBpZiBvcmRlci5zdGF0dXMgaW4gT3JkZXIuRU5ESU5HX1NUQVRVU0VTOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgb3JkZXIucmVmX2tleSBub3QgaW4gc2VsZi5hbGl2ZV9yZWZfa2V5czoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLndhcm5pbmcoJ3JlZiBrZXkgbm90IGFsaXZlIHt9Jy5mb3JtYXQob3JkZXIucmVmX2tleSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYWxpdmVfcmVmX2tleXMucmVtb3ZlKG9yZGVyLnJlZl9rZXkpCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5kZWJ1Zygnb3JkZXIgbm90IGNoYW5nZSB7fScuZm9ybWF0KG9yZGVyKSkK</text>
+        <text encoding="base64">ICAgICMgRklYTUUgdG9vIGhhY2t5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>js2</text>
+        <text>wrapper</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHAgPSBUaWNrZXJBcGkuZ2V0X2xhc3QoY29uKS5iaWQxICsgMC4wMDEK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoKIiIiClVzYWdlOgogICAgYWNjX3JwYy5weSBbb3B0aW9uc10KCk9wdGlvbnM6CiAgICAtLWRlYnVnCiAgICAtLXRlc3QKICAgIC0tbW9kdWxlPTxtb2R1bGU+ICAgIHdoaWNoIG1vZHVsZSB0byB1c2UKICAgIC0tYWNjPTxhY2M+ICAgICAgICAgIGFjY291bnQgY29tX2tleWFuL2NvbV90eXovY25fZHVjawogICAgLS1zdnI9PHN2cj4gICAgICAgICAgY29ubmVjdCB0byB3aGljaCB3YW1wIHNlcnZlciBjb25maWcuY3Jvc3NiYXIuKiBbZGVmYXVsdDogZGVmYXVsdF0KICAgIC0taW50ZXJ2YWw9PGk+ICAgICAgIEludGVydmFsIGZvciBlYWNoIHVwZGF0ZXMgW2RlZmF1bHQ6IDFdCiIiIgppbXBvcnQgaW1wb3J0bGliCmltcG9ydCBqc29uCmltcG9ydCBvcwppbXBvcnQgcWJ0cmFkZQoKZnJvbSBxYnRyYWRlLmludGVyZmFjZSBpbXBvcnQgQXN5bmNDb21wCmZyb20gcWJ0cmFkZSBpbXBvcnQgUG9zaXRpb24sIEFzeW5jQWNjb3VudCwgY29uZmlnLCB1dGlsLCBBY2NvdW50LCBDb250cmFjdCwgQWNjb3VudEFwaSwgQXBpQ2xpZW50LCBDb250cmFjdEFwaQpmcm9tIGF1dG9iYWhuLmFzeW5jaW8ud2FtcCBpbXBvcnQgQXBwbGljYXRpb25TZXNzaW9uCgppbXBvcnQgbG9nZ2luZwppbXBvcnQgcGFuZGFzIGFzIHBkCmZyb20gZG9jb3B0IGltcG9ydCBkb2NvcHQgYXMgX19kb2NvcHQKaW1wb3J0IGFzeW5jaW8KCnBkLnNldF9vcHRpb24oJ2Rpc3BsYXkud2lkdGgnLCAxODApCgoKY2xhc3MgU2hhcmVkVmFyaWFibGU6CiAgICAjIGJhbGFuY2UgPSB7fQogICAgIyBwb3MgPSBQb3NpdGlvbihjb2x1bW5zPVsnJGtleSddKQogICAgaW5pdCA9IEZhbHNlCiAgICBjb21wID0gTm9uZQoKCiMgZGVmIHB1Ymxpc2hfY2hhbmdlKCk6CiMgICAgICIiIgojICAgICBUaGlzIG1ldGhvZCB3aWxsIGJlIGNhbGxlZCB3aGVuIHRoZXJlJ3MgY2hhbmdlIGluIGNhbmNlbCBsaXN0CiMgICAgIHdoaWNoIG1lYW5zIGEgYGBkZWFsJycgaW4gY2FuY2VsIGxpc3QKIyAgICAgSWYgb25lIG9yZGVyIGluIGNhbmNlbCBsaXN0IGlzIGNhbmNlbGxlZCBieSB1c2VyLCBpdCB3b24ndCByYWlzZSBhbiBldmVudAojICAgICA6cmV0dXJuOgojICAgICAiIiIKIyAgICAgY29tcC5wdWJsaXNoKGNvbmZpZy5Vcmkub25fY2FuY2VsX2xpc3RfY2hhbmdlKGFjYyksICdjYW5jZWwgbGlzdCBjaGFuZ2UnKQoKCmFzeW5jIGRlZiB1cGRhdGVfYWNjb3VudF9zdGF0cygpOgogICAgYXN5bmMgZGVmIGZ1bmNjYWxsKGZ1bmMpOgogICAgICAgIGFzc2VydCBjYWxsYWJsZShmdW5jKQogICAgICAgIGlmIGFzeW5jaW8uaXNjb3JvdXRpbmVmdW5jdGlvbihmdW5jKToKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGZ1bmMoKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBmdW5jKCkKCiAgICB3aGlsZSBUcnVlOgogICAgICAgIHRyeToKICAgICAgICAgICAgIyBUT0RPIGJhbGFuY2UgYW5kIHBvc2l0aW9uIHNob3VsZCBhbGwgaGF2ZSBhIHRpbWVzdGFtcCBzdGF0ZSB0aGUgZ2VuZXJhdGVkIHRpbWUKICAgICAgICAgICAgYmFsYW5jZSA9IGF3YWl0IGZ1bmNjYWxsKGFjYy5nZXRfYmFsYW5jZSkKICAgICAgICAgICAgdXRpbC5wdWJsaXNoX2JhbGFuY2UoYmFsYW5jZSwgYWNjKQoKICAgICAgICAgICAgcG9zID0gYXdhaXQgZnVuY2NhbGwoYWNjLmdldF9wb3NpdGlvbikKICAgICAgICAgICAgdXRpbC5wdWJsaXNoX3Bvc2l0aW9uKHBvcywgYWNjKQoKICAgICAgICAgICAgcGVuZGluZ19saXN0ID0gYXdhaXQgZnVuY2NhbGwoYWNjLmdldF9wZW5kaW5nX2xpc3QpCiAgICAgICAgICAgIGlmIHBlbmRpbmdfbGlzdCBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHV0aWwucHVibGlzaF9wZW5kaW5nX2xpc3QocGVuZGluZ19saXN0LCBhY2MpCgogICAgICAgICAgICAjIHJlcyA9IGF3YWl0IGFzeW5jX3dhaXRfd3JhcHBlcihhY2MuZ2V0X3BlbmRpbmdfbGlzdCgpKQoKICAgICAgICAgICAgaWYgbm90IFNoYXJlZFZhcmlhYmxlLmluaXQ6CiAgICAgICAgICAgICAgICBsb2dnaW5nLmluZm8oJ2luaXQgcG9zIGFuZCBycGMgZmluaXNoJykKICAgICAgICAgICAgU2hhcmVkVmFyaWFibGUuaW5pdCA9IFRydWUKICAgICAgICAgICAgU2hhcmVkVmFyaWFibGUuY29tcC5wdWJsaXNoKGNvbmZpZy5VcmkuZGFlbW9uX21vbml0b3IsIGNvbmZpZy5XYW1wTXNnLnJwYyhhY2MpKQogICAgICAgICAgICAjIGxvZ2dpbmcuZGVidWcoU2hhcmVkVmFyaWFibGUucG9zLmhlYWQoKS50b19kaWN0KCkpCgoKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGxvZ2dpbmcuZXhjZXB0aW9uKCdzb21ldGhpbmcgZXJyb3Igd2hlbiBnZXQgYmFsYW5jZSBvciBwb3NpdGlvbicpCiAgICAgICAgZmluYWxseToKICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcChmbG9hdChkb2NvcHRbJy0taW50ZXJ2YWwnXSkpCiAgICAgICAgICAgICMgcHJpbnQoJ3NsZWVwJykKICAgICAgICAgICAgIyBhY2MuZnV0dXJlX29yZGVyX2luZm8oKQoKCmFzeW5jIGRlZiBhc3luY193YWl0X3dyYXBwZXIocmVzdWx0KToKICAgIGlmIGFzeW5jaW8uaXNjb3JvdXRpbmUocmVzdWx0KToKICAgICAgICByZXN1bHQgPSBhd2FpdCByZXN1bHQKICAgIHJldHVybiByZXN1bHQKCgphc3luYyBkZWYgd2FtcG1haW4oY29tcDogQXBwbGljYXRpb25TZXNzaW9uKToKICAgIFNoYXJlZFZhcmlhYmxlLmNvbXAgPSBjb21wCiAgICAjIGdsb2JhbCBjb21wCiAgICAjIGNvbXAgPSBfY29tcAogICAgIyBhY2MgPSBPa2NvbUFjY291bnQoJ2NvbV90eXonKQogICAgaWYgaXNpbnN0YW5jZShhY2MsIEFzeW5jQ29tcCk6CiAgICAgICAgYWNjLnNldF9jb21wKGNvbXApCgogICAgciA9IGFjYy5sb2dpbigpCiAgICBpZiBhc3luY2lvLmlzY29yb3V0aW5lKHIpOgogICAgICAgIGxvZ2dpbmcuaW5mbygnbG9naW4gaXMgY29yb3V0aW5lLCBydW4gaXQnKQogICAgICAgIGF3YWl0IHIKICAgIGFzeW5jaW8uZW5zdXJlX2Z1dHVyZSh1cGRhdGVfYWNjb3VudF9zdGF0cygpKQoKICAgIHdoaWxlIG5vdCBTaGFyZWRWYXJpYWJsZS5pbml0OgogICAgICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMC4xKQoKICAgICAgICAjIGFzeW5jIGRlZiBnZXRfYmFsYW5jZSgpOgogICAgICAgICMgICAgIHJldHVybiB1dGlsLmdldF9iYWxhbmNlKGFjYykKCiAgICAgICAgIyBhc3luYyBkZWYgZ2V0X3Bvc2l0aW9uKCk6CiAgICAgICAgIyAgICAgcmV0dXJuIHV0aWwuZ2V0X3Bvc2l0aW9uKGFjYykKICAgICAgICAjIHJldHVybiBTaGFyZWRWYXJpYWJsZS5wb3MudG9fd2FtcCgpCgogICAgYXN5bmMgZGVmIHBsYWNlX29yZGVyKGNvbnRyYWN0LCBwcmljZSwgYnMsIGFtb3VudCwgcmVmX2tleSk6CiAgICAgICAgbG9nZ2luZy5pbmZvKCdwbGFjZV9vcmRlciB7fSB7fSB7fSB7fSB7fScuZm9ybWF0KGNvbnRyYWN0LCBwcmljZSwgYnMsIGFtb3VudCwgcmVmX2tleSkpCiAgICAgICAgaWYgcmVmX2tleSBpcyBOb25lOgogICAgICAgICAgICByZWZfa2V5ID0gdXRpbC5yYW5kX3JlZl9rZXkoKQogICAgICAgIHJldHVybiBhd2FpdCBhc3luY193YWl0X3dyYXBwZXIoYWNjLnBsYWNlX29yZGVyKENvbnRyYWN0QXBpLmdldF9ieV9zeW1ib2woY29udHJhY3QpLCBwcmljZSwgYnMsIGFtb3VudCwgcmVmX2tleSkpCgogICAgYXN5bmMgZGVmIHBsYWNlX3NtYXJ0X21hcmtldF9vcmRlcihzeW1ib2wsIGJzLCBhbW91bnQpOgogICAgICAgIHJldHVybiBhd2FpdCBhc3luY193YWl0X3dyYXBwZXIoYWNjLnBsYWNlX3NtYXJ0X21hcmtldF9vcmRlcihDb250cmFjdEFwaS5nZXRfYnlfc3ltYm9sKHN5bWJvbCksIGJzLCBhbW91bnQpKQoKICAgIGFzeW5jIGRlZiBjYW5jZWxfYWxsKCk6CiAgICAgICAgbG9nZ2luZy5pbmZvKCdjYW5jZWxfYWxsJykKICAgICAgICByZXR1cm4gYXdhaXQgYXN5bmNfd2FpdF93cmFwcGVyKGFjYy5jYW5jZWxfYWxsKCkpCgogICAgIyBhc3luYyBkZWYgZ2V0X3BlbmRpbmdfbGlzdCgpOgogICAgIyAgICAgcmVzID0gYXdhaXQgYXN5bmNfd2FpdF93cmFwcGVyKGFjYy5nZXRfcGVuZGluZ19saXN0KCkpCiAgICAjICAgICByZXR1cm4gcmVzLnRvX3dhbXAoKQoKICAgIGFzeW5jIGRlZiBjYW5jZWxfb3JkZXIocmVmX2tleSk6CiAgICAgICAgbG9nZ2luZy5pbmZvKCdjYW5jZWxfb3JkZXIge30nLmZvcm1hdChyZWZfa2V5KSkKICAgICAgICByZXR1cm4gYXdhaXQgYXN5bmNfd2FpdF93cmFwcGVyKGFjYy5jYW5jZWxfdXNlX3JlZl9rZXkocmVmX2tleSkpCgogICAgYXN5bmMgZGVmIGNhbmNlbF9vcmRlcl9lbnRydXN0X25vKGVudHJ1c3Rfbm8pOgogICAgICAgIGxvZ2dpbmcuaW5mbygnY2FuY2VsX29yZGVyX2VudHJ1c3Rfbm8ge30nLmZvcm1hdChlbnRydXN0X25vKSkKICAgICAgICByZXR1cm4gYXdhaXQgYXN5bmNfd2FpdF93cmFwcGVyKGFjYy5jYW5jZWxfdXNlX2VudHJ1c3Rfbm8oZW50cnVzdF9ubykpCgogICAgIyBzdGF0dXMKICAgICMgY29tcC5yZWdpc3RlcihnZXRfYmFsYW5jZSwgY29uZmlnLlVyaS5nZXRfYmFsYW5jZShhY2MpKQogICAgIyBjb21wLnJlZ2lzdGVyKGdldF9wb3NpdGlvbiwgY29uZmlnLlVyaS5nZXRfcG9zaXRpb24oYWNjKSkKICAgICMgY29tcC5yZWdpc3RlcihnZXRfcGVuZGluZ19saXN0LCBjb25maWcuVXJpLmdldF9wZW5kaW5nX2xpc3QoYWNjKSkKCiAgICAjIGFjdGlvbgogICAgY29tcC5yZWdpc3RlcihwbGFjZV9vcmRlciwgY29uZmlnLlVyaS5wbGFjZV9vcmRlcihhY2MpKQogICAgY29tcC5yZWdpc3RlcihjYW5jZWxfYWxsLCBjb25maWcuVXJpLmNhbmNlbF9hbGwoYWNjKSkKICAgIGNvbXAucmVnaXN0ZXIocGxhY2Vfc21hcnRfbWFya2V0X29yZGVyLCBjb25maWcuVXJpLnBsYWNlX3NtYXJ0X21hcmtldF9vcmRlcihhY2MpKQogICAgY29tcC5yZWdpc3RlcihjYW5jZWxfb3JkZXIsIGNvbmZpZy5VcmkuY2FuY2VsX3VzZV9yZWZfa2V5KGFjYykpCiAgICBjb21wLnJlZ2lzdGVyKGNhbmNlbF9vcmRlcl9lbnRydXN0X25vLCBjb25maWcuVXJpLmNhbmNlbF91c2VfZW50cnVzdF9ubyhhY2MpKQogICAgbG9nZ2luZy5pbmZvKCdyZWdpc3RlciBhbGwgc2VydmljZScpCgogICAgaWYgZG9jb3B0WyctLXRlc3QnXToKICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKDMpCiAgICAgICAgcHJpbnQoJ2FjY291bnQnLCBhY2Muc3ltYm9sKQogICAgICAgIGFzeW5jYWNjID0gQXN5bmNBY2NvdW50KGNvbXAsIGFjYy5zeW1ib2wpCgogICAgICAgIGZvciBfIGluIHJhbmdlKDEwKToKICAgICAgICAgICAgaW1wb3J0IHRpbWUKICAgICAgICAgICAgcHJpbnQodGltZS50aW1lKCkpCiAgICAgICAgICAgIHggPSBhd2FpdCBhc3luY2FjYy5nZXRfcG9zaXRpb24oKQogICAgICAgICAgICBwcmludCgncnRuJywgeC5oZWFkKCkpCiAgICAgICAgIyB4ID0gYXdhaXQgYXN5bmNhY2MuZ2V0X3Bvc2l0aW9uKCkKICAgICAgICAjIHByaW50KCdydG4nLCB4LmhlYWQoKSkKICAgICAgICB4ID0gYXdhaXQgYXN5bmNhY2MuZ2V0X2JhbGFuY2UoKQogICAgICAgIHByaW50KCdydG4nLCB4KQogICAgICAgIGNvbXAubGVhdmUoKQoKCmRlZiBtYWluKCk6CiAgICAjIGRvY29wdFsnLS1tb2R1bGUnXQogICAgcCA9IGltcG9ydGxpYi5pbXBvcnRfbW9kdWxlKCdhY2MnLCAnb2tjb2luJykKICAgIHByaW50KHApCgogICAgdXRpbC5zZXRfbG9nZ2VyKCdhY2NvdW50X3JwY197fScuZm9ybWF0KGRvY29wdFsnLS1hY2MnXSksIGRlYnVnPWRvY29wdFsnLS1kZWJ1ZyddKQogICAgbG9nZ2luZy5pbmZvKCdxYnRyYWRlIHZlcnNpb24ge30nLmZvcm1hdChxYnRyYWRlLl9fdmVyc2lvbl9fKSkKICAgIGFzc2VydCBkb2NvcHRbJy0tYWNjJ10sICdzaG91bGQgaGF2ZSBhbiBhY2NvdW50JwoKICAgIGdsb2JhbCBhY2MKICAgIGFjYyA9IEFjY291bnRBcGkuZ2V0X2FjY291bnQoc3ltYm9sPWRvY29wdFsnLS1hY2MnXSlbMF0KICAgIGxvZ2dpbmcuaW5mbyhkb2NvcHQpCiAgICBsb2dnaW5nLmluZm8oYWNjLmNvbnRhaW5lcikKCiAgICAjIEZJWE1FIHRvbyBoYWNreQogICAgd3JhcHBlciA9IGV2YWwoYWNjLmNvbmZpZ1snY2xhc3MnXSkKICAgIGFjYyA9IHdyYXBwZXIoYWNjLmNvbnRhaW5lciwgYWNjLm5hbWUsIGFjYy5jb25maWcpCiAgICBzdnIgPSBnZXRhdHRyKGNvbmZpZy5Dcm9zc2JhciwgZG9jb3B0WyctLXN2ciddKQogICAgdXRpbC53YW1wKHdhbXBtYWluLCBzdnI9c3ZyKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBkb2NvcHQgPSBfX2RvY29wdChfX2RvY19fKQogICAgdHJ5OgogICAgICAgIG1haW4oKQogICAgZXhjZXB0IEtleWJvYXJkSW50ZXJydXB0OgogICAgICAgIGxvZ2dpbmcuaW5mbygnS2V5Ym9hcmQgSW50ZXJydXB0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZkY3QgPSB7fQogICAgICAgICAgICAgICAgZm9yIG9yZGVyIGluIHY6CiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2Uob3JkZXIsIE9yZGVyKQogICAgICAgICAgICAgICAgICAgIHZkY3Rbb3JkZXIuZW50cnVzdF9ub10gPSBvcmRlcgoKICAgICAgICAgICAgICAgIHN0YXR1c19tYXAgPSB7MTogT3JkZXIuUEFSVF9ERUFMX1BFTkRJTkcsIDI6IE9yZGVyLkRFQUxFRCwgLTE6IE9yZGVyLldJVEhEUkFXRUQsIDQ6IE9yZGVyLldJVEhEUkFXSU5HLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwOiBPcmRlci5QRU5ESU5HfQoKICAgICAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoJ2pzIHt9Jy5mb3JtYXQoanMpKQoKICAgICAgICAgICAgICAgIGZvciBpdGVtIGluIGpzWydvcmRlcnMnXToKICAgICAgICAgICAgICAgICAgICBlbnRydXN0X25vID0gc3RyKGl0ZW1bJ29yZGVyX2lkJ10pCiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0IGVudHJ1c3Rfbm8gaW4gdmRjdCwgJ2VudHJ1c3QgbnVtYmVyIG5vdCBpbiBkaWN0JwogICAgICAgICAgICAgICAgICAgIG9yZGVyID0gdmRjdFtlbnRydXN0X25vXQogICAgICAgICAgICAgICAgICAgIGFzc2VydCBpc2luc3RhbmNlKG9yZGVyLCBPcmRlcikKICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCd1cGRhdGUgaXRlbSBvcmRlciB7fSB7fScuZm9ybWF0KGl0ZW0sIG9yZGVyKSkKCiAgICAgICAgICAgICAgICAgICAgaWYgaW50KGl0ZW1bJ3N0YXR1cyddKSBpbiBzdGF0dXNfbWFwOgogICAgICAgICAgICAgICAgICAgICAgICBzdGF0dXMgPSBzdGF0dXNfbWFwW2ludChpdGVtWydzdGF0dXMnXSldCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy53YXJuaW5nKCdzdHVwaWQgc3RhdHVzIG5vdCBmb3VuZCBpdGVtOiB7fScuZm9ybWF0KGl0ZW0pKQoKICAgICAgICAgICAgICAgICAgICBpZiBzdGF0dXMgIT0gb3JkZXIuc3RhdHVzIG9yIGl0ZW1bJ2RlYWxfYW1vdW50J10gIT0gb3JkZXIuZGVhbGVkX2Ftb3VudDoKICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXIuc3RhdHVzID0gc3RhdHVzCiAgICAgICAgICAgICAgICAgICAgICAgIG9yZGVyLnNldF9kZWFsZWRfYW1vdW50KGl0ZW1bJ2RlYWxfYW1vdW50J10sIGl0ZW1bJ3ByaWNlX2F2ZyddKQogICAgICAgICAgICAgICAgICAgICAgICAjIG9yZGVyLmFkZF9kZWFsX2hpc3Rvcnkob3JkZXIuZW50cnVzdF9wcmljZSwgb3JkZXIuKQogICAgICAgICAgICAgICAgICAgICAgICAjIHNvbWV0aGluZyBuZXcgaGFwcGVucwogICAgICAgICAgICAgICAgICAgICAgICBpZiBvcmRlci5zdGF0dXMgPT0gT3JkZXIuV0lUSERSQVdFRCBhbmQgb3JkZXIuZGVhbGVkX2Ftb3VudCA+IDA6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmRlci5zdGF0dXMgPSBPcmRlci5QQVJUX0RFQUxfV0lUSERSQVdFRAogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnVwZGF0ZV9vcmRlcihvcmRlcikKICAgICAgICAgICAgICAgICAgICAgICAgIyByZW1vdmUgZW5kaW5nIHN0YXR1cwogICAgICAgICAgICAgICAgICAgICAgICBpZiBvcmRlci5zdGF0dXMgaW4gT3JkZXIuRU5ESU5HX1NUQVRVU0VTOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgb3JkZXIucmVmX2tleSBub3QgaW4gc2VsZi5hbGl2ZV9yZWZfa2V5czoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLndhcm5pbmcoJ3JlZiBrZXkgbm90IGFsaXZlIHt9Jy5mb3JtYXQob3JkZXIucmVmX2tleSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYWxpdmVfcmVmX2tleXMucmVtb3ZlKG9yZGVyLnJlZl9rZXkpCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5kZWJ1Zygnb3JkZXIgbm90IGNoYW5nZSB7fScuZm9ybWF0KG9yZGVyKSkK</text>
+        <text encoding="base64">ICAgICMgRklYTUUgdG9vIGhhY2t5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAjIEZJWE1FIHRvbyBoYWNreQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCBsZW4odikgPCA1MCwgJ3BlbmRpbmcgbGlzdCB0b28gbGFyZ2UsIG5lZWQgbmV3IHByb2dyYW0gdG8gaGFuZGxlJwo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbyhkb2NvcHQpCiAgICBsb2dnaW5nLmluZm8oYWNjLmNvbnRhaW5lcikK</text>
       </register>
       <register name="4" type="4">
-        <text>js2</text>
+        <text>wrapper</text>
       </register>
       <register name="5" type="4">
-        <text>js2</text>
+        <text>wrapper</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLm9yZGVyX3Bvb2wubWFwX2Uycgo=</text>
+        <text encoding="base64">ICAgIHdyYXBwZXIgPSBldmFsKGFjYy5jb25maWdbJ2NsYXNzJ10pCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLm9yZGVyX3Bvb2wubWFwX2Uycgo=</text>
+      <register name="7" type="4">
+        <text>wrapper</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wb29sW3JlZl9rZXldID0gT3JkZXIoY29udHJhY3Q9Tm9uZSwgZW50cnVzdF9wcmljZT0wLCBicz0nYicsIGVudHJ1c3RfYW1vdW50PTAsIGFjY291bnQ9c2VsZi5hY2NvdW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZfa2V5PXJlZl9rZXkpCg==</text>
+      <register name="8" type="4">
+        <text>module</text>
       </register>
-      <register name="9" type="4">
-        <text>1</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KHApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindPrevious</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
@@ -291,8 +314,8 @@
       </history-search>
       <history-cmd>
         <entry>action HighlightUsagesInFile</entry>
-        <entry>action FindNext</entry>
         <entry>action FindPrevious</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
