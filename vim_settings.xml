@@ -27,11 +27,11 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462703987560">
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="42" column="14" />
-        <mark key="." line="42" column="14" />
-        <mark key="^" line="42" column="14" />
+      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462706216182">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="48" />
+        <mark key="." line="28" column="48" />
+        <mark key="^" line="28" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/__init__.py" timestamp="1462339888051">
         <mark key="'" line="24" column="0" />
@@ -78,12 +78,12 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1462704607369">
-        <mark key="'" line="269" column="14" />
-        <mark key="[" line="291" column="37" />
-        <mark key="]" line="291" column="40" />
-        <mark key="." line="291" column="40" />
-        <mark key="^" line="291" column="40" />
+      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1462706112455">
+        <mark key="'" line="229" column="24" />
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="48" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1462695693714">
         <mark key="[" line="0" column="0" />
@@ -167,9 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/test_okcoin.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/test_okcoin.py" />
-      <jump line="163" column="30" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="453" column="24" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="419" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="27" column="42" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/xtc_model.py" />
@@ -267,22 +264,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/sina_cookie.json" />
       <jump line="288" column="19" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
       <jump line="269" column="14" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
+      <jump line="326" column="25" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
+      <jump line="233" column="16" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
+      <jump line="229" column="24" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3128</text>
+        <text>gb138010</text>
       </register>
       <register name="-" type="4">
-        <text>3128</text>
+        <text>gb138010</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRmLnRvX2NzdigndGFza3MvdXNlcl8xMy5jc3YnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>3128</text>
+        <text>gb138010</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -297,29 +297,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>1080</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRmLmFwcGVuZAo=</text>
       </register>
       <register name="3" type="4">
-        <text>localhost</text>
+        <text>()</text>
       </register>
       <register name="4" type="4">
-        <text>http</text>
+        <text>lst</text>
       </register>
-      <register name="5" type="4">
-        <text>svr1.tangyouze.com</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh1KQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>3128</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxzdCA9IFtdCiAgICBmb3IgdWlkIGluIFsnMTAwNjQzNDgxMScsICcxNzQzNTYxNzQyJywgJzE3OTU3NDM3OTEnLCAnMTkzMjA5MjQ0MycsICcxOTY1MTgzNjU1JywgJzE5ODYyNzM3NTcnLCAnMjEzNDkwODIwMScsICcyMTcyODQzNTcxJywgJzI1ODQ4MDYzMDInLCAnMjY5MTMyMTc2MicsICcyNzkwNDE1MDAxJywK</text>
       </register>
-      <register name="7" type="4">
-        <text>.format(i)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxzdC5hcHBlbmQoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>f{}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRjdFsndXNlcl9pZCddID0gdWlkCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+      <register name="9" type="4">
+        <text>dct</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
