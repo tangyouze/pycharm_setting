@@ -50,12 +50,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="49" column="47" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462712068709">
-        <mark key="'" line="21" column="26" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="8" />
-        <mark key="." line="62" column="8" />
-        <mark key="^" line="61" column="16" />
+      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462714787427">
+        <mark key="'" line="57" column="16" />
+        <mark key="[" line="82" column="26" />
+        <mark key="]" line="82" column="31" />
+        <mark key="." line="82" column="31" />
+        <mark key="^" line="82" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/__init__.py" timestamp="1462339888051">
         <mark key="'" line="24" column="0" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="36" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="975" column="4" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="379" column="20" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
@@ -303,13 +302,14 @@
       <jump line="9" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="21" column="26" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="57" column="16" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybCA9IGRmLmlsb2NbMzAwXS5saW5rCg==</text>
+      <register name="&quot;" type="4">
+        <text>2001</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>2001</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -317,8 +317,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmMuc2FkZCgncmV0d2VldDp7fScuZm9ybWF0KHVybCksIGpzb24uZHVtcHMoaXRlbSwgc29ydF9rZXlzPVRydWUpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybCA9IGRmLmlsb2NbMzAwXS5saW5rCg==</text>
+      <register name="1" type="4">
+        <text>2001</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -333,29 +333,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cmxbJ2xpbmsnXSkK</text>
+      <register name="2" type="4">
+        <text>2000</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>2010</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="6" type="4">
-        <text>iterrows</text>
+        <text>get_retweet_recursive(url):</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwaXJudCAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>k</text>
+        <text>p</text>
       </register>
-      <register name="9" type="4">
-        <text>]</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindPrevious</text>
