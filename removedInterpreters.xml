@@ -4,7 +4,6 @@
       <set>
         <option value="C:\Program Files (x86)\IronPython 2.7\ipy.exe" />
         <option value="C:\Program Files (x86)\Python 3.5\python.exe" />
-        <option value="C:\Python27\python.exe" />
         <option value="C:\Python35\python.exe" />
         <option value="C:\Users\tyz\Anaconda35\python.exe" />
       </set>

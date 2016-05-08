@@ -69,6 +69,7 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="C:\Python27\python.exe" value="false" />
         <entry key="C:\Python35\python.exe" value="false" />
         <entry key="C:\Users\tyz\Anaconda35\python.exe" value="true" />
         <entry key="C:\Users\tyz\Anaconda3\python.exe" value="true" />
@@ -76,6 +77,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="C:\Python27\python.exe" value="false" />
         <entry key="C:\Python35\python.exe" value="false" />
         <entry key="C:\Users\tyz\Anaconda35\python.exe" value="true" />
         <entry key="C:\Users\tyz\Anaconda3\python.exe" value="true" />
@@ -83,6 +85,7 @@
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="C:\Python27\python.exe" value="false" />
         <entry key="C:\Python35\python.exe" value="false" />
         <entry key="C:\Users\tyz\Anaconda35\python.exe" value="false" />
         <entry key="C:\Users\tyz\Anaconda3\python.exe" value="false" />
