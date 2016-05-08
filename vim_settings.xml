@@ -74,6 +74,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/jingyuan_user.py" timestamp="1462702118740">
+        <mark key="'" line="480" column="11" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/Makefile" timestamp="1462535511761">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="118" />
@@ -151,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="33" filename="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" />
       <jump line="844" column="28" filename="$USER_HOME$/Dropbox/code/quantlib/guangfa.py" />
       <jump line="479" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
       <jump line="682" column="4" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
@@ -251,6 +253,7 @@
       <jump line="276" column="34" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="171" column="20" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="480" column="11" filename="$USER_HOME$/Dropbox/code/weibo-crawler/jingyuan_user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
