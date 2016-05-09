@@ -34,6 +34,9 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-typehintting.py" timestamp="1462796991376">
+        <mark key="'" line="21" column="20" />
+      </file>
       <file name="$USER_HOME$/Anaconda3/Lib/logging/__init__.py" timestamp="1462769727336">
         <mark key="[" line="1825" column="0" />
         <mark key="]" line="1826" column="54" />
@@ -66,17 +69,20 @@
         <mark key="." line="131" column="69" />
         <mark key="^" line="131" column="69" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462795912341">
+      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462798001334">
         <mark key="'" line="0" column="0" />
-        <mark key="^" line="15" column="18" />
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="/Python Console" timestamp="1462368447786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" timestamp="1462796170197">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" timestamp="1462798034634">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/es.py" timestamp="1462790544793">
         <mark key="[" line="3" column="0" />
@@ -154,6 +160,13 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" timestamp="1462797425492">
+        <mark key="'" line="13" column="128" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="13" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/Makefile" timestamp="1462670047876">
         <mark key="'" line="2" column="0" />
       </file>
@@ -224,11 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="69" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
-      <jump line="822" column="12" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
-      <jump line="438" column="39" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
-      <jump line="415" column="91" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
-      <jump line="963" column="16" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
       <jump line="94" column="16" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
@@ -324,22 +332,27 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
       <jump line="6" column="25" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" />
+      <jump line="21" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-typehintting.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" />
+      <jump line="13" column="18" filename="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" />
+      <jump line="15" column="128" filename="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgICAgICAndGltZSc6IHRpbWUuaXNvZm9ybWF0KCl9CiAgICBkZWZhdWx0X2VzLmluZGV4KGluZGV4PWRjdFsnaW5kZXgnXSwgZG9jX3R5cGU9ZGN0Wydkb2NfdHlwZSddLCBib2R5PWRjdFsnYm9keSddLCBpZD1kY3RbJ2lkJ10sIHBhcmFtcz1kY3RbJ3BhcmFtcyddKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRjdFsnaWQnXSwgdHlwZShkY3RbJ2lkJ10pKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>influx</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbmRleChzZWxmLCBpbmRleCwgZG9jX3R5cGUsIGJvZHksIGlkPU5vbmUsIHBhcmFtcz1Ob25lKToK</text>
+        <text encoding="base64">ZGVmIHRlc3RfZWxhc3RpYygpOgogICAgYXN5bmMgZGVmIGRvbygpOgogICAgICAgIGF3YWl0IGVsYXN0aWNzZWFyY2guaW5kZXhfYXN5bmMoaW5kZXg9J3Rlc3QnLCBkb2NfdHlwZT0ndGVzdC1hc3luYycsIGJvZHk9eydAdGltZXN0YW1wJzogYXJyb3cubm93KCkuZGF0ZXRpbWUuaXNvZm9ybWF0KCksICdrZXknOiAndmFsdWUnfSkKICAgICAgICBhc3NlcnQgVHJ1ZQoKICAgIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5ydW5fdW50aWxfY29tcGxldGUoZG9vKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgICAgICAndGltZSc6IHRpbWUuaXNvZm9ybWF0KCl9CiAgICBkZWZhdWx0X2VzLmluZGV4KGluZGV4PWRjdFsnaW5kZXgnXSwgZG9jX3R5cGU9ZGN0Wydkb2NfdHlwZSddLCBib2R5PWRjdFsnYm9keSddLCBpZD1kY3RbJ2lkJ10sIHBhcmFtcz1kY3RbJ3BhcmFtcyddKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRjdFsnaWQnXSwgdHlwZShkY3RbJ2lkJ10pKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -354,29 +367,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBxYnRyYWRlIGltcG9ydCBtZXRyaWMK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>influx</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24KCmZyb20gcWJ0cmFkZS5xdW90ZSBpbXBvcnQgcmVkaXNfY2xpZW50CmZyb20gcWJ0cmFkZS51dGlsIGltcG9ydCBkZWZhdWx0X2VzCgpwID0gcmVkaXNfY2xpZW50LnB1YnN1YigpCnAucHN1YnNjcmliZSgncHVic3ViOnBvc2l0aW9uKicpCmZvciBpdGVtIGluIHAubGlzdGVuKCk6CiAgICBpZiBpdGVtWyd0eXBlJ10gPT0gJ3BzdWJzY3JpYmUnOgogICAgICAgIGNvbnRpbnVlCiAgICBhY2NvdW50ID0gaXRlbVsnY2hhbm5lbCddLmRlY29kZSgndXRmOCcpLnJlcGxhY2UoJ3B1YnN1Yjpwb3NpdGlvbjonLCAnJykKICAgIGRhdGEgPSBqc29uLmxvYWRzKGl0ZW1bJ2RhdGEnXS5kZWNvZGUoJ3V0ZjgnKSkKICAgIGRhdGFbJ0B0aW1lc3RhbXAnXSA9IGRhdGFbJ191cGRhdGVkJ10KICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J3F1YW50JywgZG9jX3R5cGU9J3Bvc2l0aW9uJywgYm9keT1kYXRhKQogICAgcHJpbnQoYWNjb3VudCwgZGF0YSkKCiMgcCA9IHJlZGlzX2NsaWVudC5wdWJzdWIoKQojIHAucHN1YnNjcmliZSgncHVic3ViOnBvc2l0aW9uKicpCiMgZm9yIGl0ZW0gaW4gcC5saXN0ZW4oKToKIyAgICAgaWYgaXRlbVsndHlwZSddID09ICdwc3Vic2NyaWJlJzoKIyAgICAgICAgIGNvbnRpbnVlCiMgICAgIGFjY291bnQgPSBpdGVtWydjaGFubmVsJ10uZGVjb2RlKCd1dGY4JykucmVwbGFjZSgncHVic3ViOnBvc2l0aW9uOicsICcnKQojICAgICBkYXRhID0ganNvbi5sb2FkcyhpdGVtWydkYXRhJ10uZGVjb2RlKCd1dGY4JykpCiMgICAgIGRhdGFbJ0B0aW1lc3RhbXAnXSA9IGRhdGFbJ191cGRhdGVkJ10KIyAgICAgZGVmYXVsdF9lcy5pbmRleChpbmRleD0ncXVhbnQnLCBkb2NfdHlwZT0ncG9zaXRpb24nLCBib2R5PWRhdGEpCiMgICAgIHByaW50KGFjY291bnQsIGRhdGEpCg==</text>
+      <register name="4" type="4">
+        <text>set_l</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwID0gcmVkaXNfY2xpZW50LnB1YnN1YigpCiMgcC5wc3Vic2NyaWJlKCdwdWJzdWI6cG9zaXRpb24qJykKIyBmb3IgaXRlbSBpbiBwLmxpc3RlbigpOgojICAgICBpZiBpdGVtWyd0eXBlJ10gPT0gJ3BzdWJzY3JpYmUnOgojICAgICAgICAgY29udGludWUKIyAgICAgYWNjb3VudCA9IGl0ZW1bJ2NoYW5uZWwnXS5kZWNvZGUoJ3V0ZjgnKS5yZXBsYWNlKCdwdWJzdWI6cG9zaXRpb246JywgJycpCiMgICAgIGRhdGEgPSBqc29uLmxvYWRzKGl0ZW1bJ2RhdGEnXS5kZWNvZGUoJ3V0ZjgnKSkKIyAgICAgZGF0YVsnQHRpbWVzdGFtcCddID0gZGF0YVsnX3VwZGF0ZWQnXQojICAgICBkZWZhdWx0X2VzLmluZGV4KGluZGV4PSdxdWFudCcsIGRvY190eXBlPSdwb3NpdGlvbicsIGJvZHk9ZGF0YSkKIyAgICAgcHJpbnQoYWNjb3VudCwgZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBlbGFzdGljc2VhcmNoLmluZGV4X2FzeW5jKGluZGV4PSd0ZXN0JywgZG9jX3R5cGU9J3Rlc3QtYXN5bmMnLCBib2R5PXsnQHRpbWVzdGFtcCc6IGFycm93Lm5vdygpLmRhdGV0aW1lLmlzb2Zvcm1hdCgpLCAna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>value</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfY2xpZW50Lgo=</text>
+        <text encoding="base64">ICAgICAgICBwZXJzaXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvZHkK</text>
+        <text encoding="base64">ICAgICAgICBlbGFzdGljc2VhcmNoLmluCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRjdAo=</text>
+      <register name="9" type="4">
+        <text>test_elastic</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
