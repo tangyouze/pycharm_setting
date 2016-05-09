@@ -151,6 +151,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.0-py3.5.egg/qbtrade/config.py" timestamp="1462760836964" />
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-turtle/Makefile" timestamp="1462533803804">
         <mark key="[" line="5" column="76" />
         <mark key="]" line="5" column="81" />
@@ -204,15 +205,15 @@
         <mark key="]" line="948" column="0" />
         <mark key="." line="948" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/learn/wow10.py" timestamp="1462759137835">
-        <mark key="[" line="19" column="90" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
-        <mark key="^" line="20" column="4" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/learn/wow10.py" timestamp="1462760753366">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="20" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="20" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="410" column="56" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="996" column="4" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
@@ -312,13 +313,14 @@
       <jump line="21" column="26" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="57" column="16" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="246" column="45" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/learn/wow10.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>okcoin</text>
+        <text>xxx</text>
       </register>
       <register name="-" type="4">
-        <text>okcoin</text>
+        <text>xxx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -327,7 +329,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmMuc2FkZCgncmV0d2VldDp7fScuZm9ybWF0KHVybCksIGpzb24uZHVtcHMoaXRlbSwgc29ydF9rZXlzPVRydWUpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>okcoin</text>
+        <text>xxx</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -342,26 +344,26 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
+      <register name="2" type="4">
+        <text>strategy</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
+        <text encoding="base64">T3JkZXIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
+      <register name="4" type="4">
+        <text>okcoin</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>okcoin</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>strategy</text>
+      <register name="7" type="2">
+        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>l</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
       <register name="9" type="4">
         <text>okcoin</text>
