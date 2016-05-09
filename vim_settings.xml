@@ -16,8 +16,8 @@
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/id_map.py" timestamp="1462709240164">
         <mark key="'" line="5678" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462589389142">
-        <mark key="'" line="16" column="69" />
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462764921736">
+        <mark key="'" line="19" column="9" />
         <mark key="[" line="12" column="63" />
         <mark key="]" line="16" column="69" />
         <mark key="." line="16" column="69" />
@@ -133,12 +133,6 @@
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/Makefile" timestamp="1462670047876">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" timestamp="1462695704353">
-        <mark key="[" line="634" column="0" />
-        <mark key="]" line="634" column="0" />
-        <mark key="^" line="649" column="15" />
-        <mark key="." line="634" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/config.py" timestamp="1462709347876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -164,12 +158,12 @@
         <mark key="." line="5" column="81" />
         <mark key="^" line="5" column="81" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462698058157">
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462765223325">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="786" column="17" />
-        <mark key="]" line="786" column="24" />
-        <mark key="." line="786" column="24" />
-        <mark key="^" line="786" column="24" />
+        <mark key="[" line="106" column="52" />
+        <mark key="]" line="106" column="51" />
+        <mark key="." line="106" column="51" />
+        <mark key="^" line="106" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" timestamp="1462588646728">
         <mark key="'" line="245" column="19" />
@@ -220,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="996" column="4" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="27" column="31" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="78" column="43" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/xtc_model.py" />
       <jump line="394" column="46" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
@@ -236,7 +229,6 @@
       <jump line="359" column="68" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="173" column="23" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="176" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
-      <jump line="12" column="32" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="194" column="17" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="245" column="19" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
       <jump line="97" column="32" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
@@ -320,13 +312,15 @@
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/learn/wow10.py" />
       <jump line="140" column="15" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
       <jump line="412" column="28" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
+      <jump line="12" column="62" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="19" column="9" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNmZy5qcwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNvdWxkIG5vdCBiZSBwbGFjZWQ=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IGNvdWxkIG5vdCBiZSBwbGFjZWQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -334,8 +328,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmMuc2FkZCgncmV0d2VldDp7fScuZm9ybWF0KHVybCksIGpzb24uZHVtcHMoaXRlbSwgc29ydF9rZXlzPVRydWUpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNmZy5qcwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGNvdWxkIG5vdCBiZSBwbGFjZWQ=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,29 +344,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmpzCg==</text>
+      <register name="2" type="4">
+        <text>Order</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>Order Not Found</text>
       </register>
       <register name="4" type="4">
-        <text>xxx</text>
+        <text>OkcoinException</text>
       </register>
-      <register name="5" type="4">
-        <text>strategy</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">T3JkZXIK</text>
+      <register name="6" type="4">
+        <text>5</text>
       </register>
-      <register name="7" type="4">
-        <text>okcoin</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiBjYW5jZWxfdXNlX3JlZl9rZXkoc2VsZiwgcmVmX2tleSk6CiAgICAgICAgb3JkZXIgPSBzZWxmLm9yZGVyX3Bvb2wuZmV0Y2gocmVmX2tleSwgY3JlYXRlPUZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlciA9IHNlbGYub3JkZXJfcG9vbC5mZXRjaChyZWZfa2V5LCBjcmVhdGU9RmFsc2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
