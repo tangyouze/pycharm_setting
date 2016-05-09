@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1462790550387">
+      <file name="/a.dummy" timestamp="1462793574193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/cancer_weibo_start.txt" timestamp="1462709185330">
@@ -43,6 +43,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/bitvc.py" timestamp="1462694632525">
+        <mark key="'" line="368" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/model.py" timestamp="1462793363773" />
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462773525142">
         <mark key="'" line="55" column="50" />
@@ -53,12 +59,6 @@
       </file>
       <file name="/" timestamp="1462534975399">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" timestamp="1462773072794">
-        <mark key="[" line="658" column="89" />
-        <mark key="]" line="658" column="100" />
-        <mark key="^" line="658" column="100" />
-        <mark key="." line="658" column="100" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-okcoin/okcoin.py" timestamp="1462583468893">
         <mark key="[" line="8" column="0" />
@@ -71,6 +71,12 @@
         <mark key="]" line="131" column="69" />
         <mark key="." line="131" column="69" />
         <mark key="^" line="131" column="69" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462793663709">
+        <mark key="'" line="5" column="31" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Python Console" timestamp="1462368447786">
         <mark key="[" line="0" column="0" />
@@ -221,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="589" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="6" column="7" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="197" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
@@ -321,10 +326,11 @@
       <jump line="112" column="33" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" />
       <jump line="57" column="17" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
       <jump line="776" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" />
+      <jump line="6" column="31" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
+        <text encoding="base64">cmVkaXNfY2xpZW50LmdlCg==</text>
       </register>
       <register name="-" type="4">
         <text>jsl</text>
@@ -336,7 +342,7 @@
         <text encoding="base64">ICAgIGRlZiBpbmRleChzZWxmLCBpbmRleCwgZG9jX3R5cGUsIGJvZHksIGlkPU5vbmUsIHBhcmFtcz1Ob25lKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
+        <text encoding="base64">cmVkaXNfY2xpZW50LmdlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,23 +363,23 @@
       <register name="3" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>jsl</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSAuIGltcG9ydCB1dGlsCgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBxYnRyYWRlLnV0aWwgaW1wb3J0IGRlZmF1bHRfZXMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFycm93Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBpbmZsdXhkYiBpbXBvcnQgSW5mbHV4REJDbGllbnQK</text>
+        <text encoding="base64">aW1wb3J0IGFycm93Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
