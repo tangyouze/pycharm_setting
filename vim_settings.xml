@@ -44,10 +44,10 @@
         <mark key="[" line="1825" column="0" />
         <mark key="]" line="1826" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/setup.py" timestamp="1462770114176">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/setup.py" timestamp="1462770221357">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462761903829">
         <mark key="'" line="140" column="15" />
@@ -320,11 +320,11 @@
       <jump line="809" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGFja2FnZXM9WydxYnRyYWRlJ10sCiAgICAgIHZlcnNpb249JzAuMS4xJywK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -332,8 +332,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgb25fdXBkYXRlKHRyYW5zKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFja2FnZXM9WydxYnRyYWRlJ10sCiAgICAgIHZlcnNpb249JzAuMS4xJywK</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,26 +351,26 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgcGFja2FnZXM9WydxYnRyYWRlJ10sCiAgICAgIHZlcnNpb249JzAuMS4xJywK</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcGFja2FnZXM9WydxYnRyYWRlJ10sCiAgICAgIHZlcnNpb249JzAuMS4xJywK</text>
       </register>
       <register name="4" type="4">
+        <text>0</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">YXdhaXQg</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgb25fdXBkYXRlKHRyYW5zKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>iscoroutine</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFucyA9IG9yZGVyLmRlYWxlZF90cmFuc1stMV0KICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdkZWFsZWQtdHJhbnMge30nLmZvcm1hdCh0cmFucy50b19kaWN0KCkpKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>n</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J2RlYWxlZC10cmFucycsIGRvY190eXBlPSdkZWFsZWQtdHJhbnMnLCBib2R5PWRlYWxlZF90cmFucy50b19kaWN0KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
@@ -432,6 +432,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
