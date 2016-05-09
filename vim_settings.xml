@@ -117,6 +117,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462761903829">
+        <mark key="'" line="140" column="15" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/wb.py" timestamp="1462710180132">
         <mark key="[" line="715" column="47" />
         <mark key="]" line="715" column="48" />
@@ -142,8 +145,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462508862307">
-        <mark key="'" line="198" column="17" />
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462761983286">
+        <mark key="'" line="412" column="28" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/bitvc.py" timestamp="1462694632525">
         <mark key="'" line="368" column="0" />
@@ -205,17 +211,15 @@
         <mark key="]" line="948" column="0" />
         <mark key="." line="948" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/learn/wow10.py" timestamp="1462760753366">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/learn/wow10.py" timestamp="1462761553957">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="6" />
-        <mark key="^" line="20" column="6" />
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+        <mark key="^" line="21" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
-      <jump line="410" column="56" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="996" column="4" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="27" column="31" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="78" column="43" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/xtc_model.py" />
@@ -314,13 +318,15 @@
       <jump line="57" column="16" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="246" column="45" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/learn/wow10.py" />
+      <jump line="140" column="15" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
+      <jump line="412" column="28" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>xxx</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNmZy5qcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>xxx</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -328,8 +334,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmMuc2FkZCgncmV0d2VldDp7fScuZm9ybWF0KHVybCksIGpzb24uZHVtcHMoaXRlbSwgc29ydF9rZXlzPVRydWUpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>xxx</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNmZy5qcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,32 +350,32 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>strategy</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmpzCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">T3JkZXIK</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>okcoin</text>
+        <text>xxx</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
+      <register name="5" type="4">
+        <text>strategy</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
+        <text encoding="base64">T3JkZXIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
+      <register name="7" type="4">
+        <text>okcoin</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>okcoin</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindPrevious</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
@@ -385,9 +391,9 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZE5leHQ=</entry>
-        <entry>action FindNext</entry>
-        <entry>action HighlightUsagesInFile</entry>
         <entry>action FindPrevious</entry>
+        <entry>action HighlightUsagesInFile</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
