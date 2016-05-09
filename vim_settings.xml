@@ -65,12 +65,6 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/bitvc.py" timestamp="1462694632525">
-        <mark key="'" line="368" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-turtle/Makefile" timestamp="1462533803804">
         <mark key="[" line="5" column="76" />
         <mark key="]" line="5" column="81" />
@@ -183,8 +177,8 @@
         <mark key="^" line="649" column="15" />
         <mark key="." line="634" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462761983286">
-        <mark key="'" line="412" column="28" />
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462779934741">
+        <mark key="'" line="198" column="18" />
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
@@ -228,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="40" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="9" column="43" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="171" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="359" column="68" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
@@ -328,6 +321,7 @@
       <jump line="144" column="17" filename="$USER_HOME$/Dropbox/code/quantlib/btc/huobi.py" />
       <jump line="170" column="45" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" />
       <jump line="60" column="34" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" />
+      <jump line="198" column="18" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
