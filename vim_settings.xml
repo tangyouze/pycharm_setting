@@ -25,11 +25,6 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/jingyuan_entry.py" timestamp="1462709836451">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="49" column="47" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/__init__.py" timestamp="1462339888051">
         <mark key="'" line="24" column="0" />
       </file>
@@ -114,11 +109,6 @@
       <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462758649602">
         <mark key="'" line="246" column="45" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/run.sh" timestamp="1462709547431">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/save_orders.py" timestamp="1462769625991">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="47" column="91" />
@@ -144,6 +134,13 @@
         <mark key="]" line="961" column="37" />
         <mark key="." line="961" column="37" />
         <mark key="^" line="961" column="37" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/test_huatai_backend.py" timestamp="1462781942874">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/huobi.py" timestamp="1462774674372">
         <mark key="'" line="144" column="17" />
@@ -181,6 +178,7 @@
         <mark key="'" line="198" column="18" />
       </file>
       <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.0-py3.5.egg/qbtrade/config.py" timestamp="1462760836964" />
+      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/metric.py" timestamp="1462782387973" />
       <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/config.yaml" timestamp="1462534799483">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="7" column="14" />
@@ -219,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="43" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="171" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="359" column="68" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="173" column="23" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
@@ -319,10 +316,11 @@
       <jump line="170" column="45" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" />
       <jump line="60" column="34" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" />
       <jump line="198" column="18" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/test_huatai_backend.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>contract</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBxYnRyYWRlIGltcG8K</text>
       </register>
       <register name="-" type="4">
         <text>contract</text>
@@ -333,8 +331,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiAnPCcgKyBzdHIoc2VsZi5jb250cmFjdCkgKyAnICcgKyBzdHIoc2VsZi50bSkgKyAnICcgKyBzdHIoc2VsZi5wcmljZSkgKyAnPicK</text>
       </register>
-      <register name="1" type="4">
-        <text>contract</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBxYnRyYWRlIGltcG8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,16 +348,16 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG1ldHJpYwo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>contract</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0aWNrZXIuYmlkcwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oKQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>.</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGJ0Yw==</text>
       </register>
       <register name="6" type="4">
         <text>.</text>
@@ -367,11 +365,11 @@
       <register name="7" type="4">
         <text encoding="base64">IGJ0Yw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG9zLmNoZGlyKCcuLicpCg==</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CndoaWxlIG5vdCBvcy5wYXRoLmlzZmlsZSgnLmdpdGlnbm9yZScpOgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGJ0Yw==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
