@@ -66,13 +66,17 @@
         <mark key="." line="131" column="69" />
         <mark key="^" line="131" column="69" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462795305826">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462795912341">
+        <mark key="'" line="0" column="0" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="/Python Console" timestamp="1462368447786">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" timestamp="1462796170197">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/es.py" timestamp="1462790544793">
         <mark key="[" line="3" column="0" />
@@ -220,11 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
-      <jump line="197" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
-      <jump line="31" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
-      <jump line="182" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
-      <jump line="195" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="16" column="69" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="822" column="12" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="438" column="39" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
@@ -320,13 +319,18 @@
       <jump line="776" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" />
       <jump line="6" column="31" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
       <jump line="7" column="4" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
+      <jump line="17" column="18" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
+      <jump line="15" column="36" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
+      <jump line="6" column="25" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvZHkK</text>
+        <text encoding="base64">ICAgICMgICAgICAndGltZSc6IHRpbWUuaXNvZm9ybWF0KCl9CiAgICBkZWZhdWx0X2VzLmluZGV4KGluZGV4PWRjdFsnaW5kZXgnXSwgZG9jX3R5cGU9ZGN0Wydkb2NfdHlwZSddLCBib2R5PWRjdFsnYm9keSddLCBpZD1kY3RbJ2lkJ10sIHBhcmFtcz1kY3RbJ3BhcmFtcyddKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>js</text>
+        <text>influx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -335,7 +339,7 @@
         <text encoding="base64">ICAgIGRlZiBpbmRleChzZWxmLCBpbmRleCwgZG9jX3R5cGUsIGJvZHksIGlkPU5vbmUsIHBhcmFtcz1Ob25lKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvZHkK</text>
+        <text encoding="base64">ICAgICMgICAgICAndGltZSc6IHRpbWUuaXNvZm9ybWF0KCl9CiAgICBkZWZhdWx0X2VzLmluZGV4KGluZGV4PWRjdFsnaW5kZXgnXSwgZG9jX3R5cGU9ZGN0Wydkb2NfdHlwZSddLCBib2R5PWRjdFsnYm9keSddLCBpZD1kY3RbJ2lkJ10sIHBhcmFtcz1kY3RbJ3BhcmFtcyddKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,37 +355,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRjdAo=</text>
+        <text encoding="base64">ZnJvbSBxYnRyYWRlIGltcG9ydCBtZXRyaWMK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">d2hpbGUgVHJ1ZToKICAgIGpzID0gcmVkaXNfY2xpZW50LmJscG9wKCdwZXJzaXN0OmluZmx1eCcpLmRlY29kZSgndXRmOCcpCg==</text>
+      <register name="3" type="4">
+        <text>influx</text>
       </register>
-      <register name="4" type="4">
-        <text># p = redis_client.pubsub()
-# p.psubscribe('pubsub:position*')
-# for item in p.listen():
-#     if item['type'] == 'psubscribe':
-#         continue
-#     account = item['channel'].decode('utf8').replace('pubsub:position:', '')
-#     data = json.loads(item['data'].decode('utf8'))
-#     data['@timestamp'] = data['_updated']
-#     default_es.index(index='quant', doc_type='position', body=data)
-#     print(account, data)</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGpzb24KCmZyb20gcWJ0cmFkZS5xdW90ZSBpbXBvcnQgcmVkaXNfY2xpZW50CmZyb20gcWJ0cmFkZS51dGlsIGltcG9ydCBkZWZhdWx0X2VzCgpwID0gcmVkaXNfY2xpZW50LnB1YnN1YigpCnAucHN1YnNjcmliZSgncHVic3ViOnBvc2l0aW9uKicpCmZvciBpdGVtIGluIHAubGlzdGVuKCk6CiAgICBpZiBpdGVtWyd0eXBlJ10gPT0gJ3BzdWJzY3JpYmUnOgogICAgICAgIGNvbnRpbnVlCiAgICBhY2NvdW50ID0gaXRlbVsnY2hhbm5lbCddLmRlY29kZSgndXRmOCcpLnJlcGxhY2UoJ3B1YnN1Yjpwb3NpdGlvbjonLCAnJykKICAgIGRhdGEgPSBqc29uLmxvYWRzKGl0ZW1bJ2RhdGEnXS5kZWNvZGUoJ3V0ZjgnKSkKICAgIGRhdGFbJ0B0aW1lc3RhbXAnXSA9IGRhdGFbJ191cGRhdGVkJ10KICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J3F1YW50JywgZG9jX3R5cGU9J3Bvc2l0aW9uJywgYm9keT1kYXRhKQogICAgcHJpbnQoYWNjb3VudCwgZGF0YSkKCiMgcCA9IHJlZGlzX2NsaWVudC5wdWJzdWIoKQojIHAucHN1YnNjcmliZSgncHVic3ViOnBvc2l0aW9uKicpCiMgZm9yIGl0ZW0gaW4gcC5saXN0ZW4oKToKIyAgICAgaWYgaXRlbVsndHlwZSddID09ICdwc3Vic2NyaWJlJzoKIyAgICAgICAgIGNvbnRpbnVlCiMgICAgIGFjY291bnQgPSBpdGVtWydjaGFubmVsJ10uZGVjb2RlKCd1dGY4JykucmVwbGFjZSgncHVic3ViOnBvc2l0aW9uOicsICcnKQojICAgICBkYXRhID0ganNvbi5sb2FkcyhpdGVtWydkYXRhJ10uZGVjb2RlKCd1dGY4JykpCiMgICAgIGRhdGFbJ0B0aW1lc3RhbXAnXSA9IGRhdGFbJ191cGRhdGVkJ10KIyAgICAgZGVmYXVsdF9lcy5pbmRleChpbmRleD0ncXVhbnQnLCBkb2NfdHlwZT0ncG9zaXRpb24nLCBib2R5PWRhdGEpCiMgICAgIHByaW50KGFjY291bnQsIGRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRjdCkK</text>
+        <text encoding="base64">IyBwID0gcmVkaXNfY2xpZW50LnB1YnN1YigpCiMgcC5wc3Vic2NyaWJlKCdwdWJzdWI6cG9zaXRpb24qJykKIyBmb3IgaXRlbSBpbiBwLmxpc3RlbigpOgojICAgICBpZiBpdGVtWyd0eXBlJ10gPT0gJ3BzdWJzY3JpYmUnOgojICAgICAgICAgY29udGludWUKIyAgICAgYWNjb3VudCA9IGl0ZW1bJ2NoYW5uZWwnXS5kZWNvZGUoJ3V0ZjgnKS5yZXBsYWNlKCdwdWJzdWI6cG9zaXRpb246JywgJycpCiMgICAgIGRhdGEgPSBqc29uLmxvYWRzKGl0ZW1bJ2RhdGEnXS5kZWNvZGUoJ3V0ZjgnKSkKIyAgICAgZGF0YVsnQHRpbWVzdGFtcCddID0gZGF0YVsnX3VwZGF0ZWQnXQojICAgICBkZWZhdWx0X2VzLmluZGV4KGluZGV4PSdxdWFudCcsIGRvY190eXBlPSdwb3NpdGlvbicsIGJvZHk9ZGF0YSkKIyAgICAgcHJpbnQoYWNjb3VudCwgZGF0YSkK</text>
       </register>
       <register name="6" type="4">
-        <text>js</text>
+        <text>.</text>
       </register>
-      <register name="7" type="4">
-        <text>js_str</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZmF1bHRfY2xpZW50Lgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>json_str</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGJvZHkK</text>
       </register>
-      <register name="9" type="4">
-        <text>js</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
