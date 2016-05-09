@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/id_map.py" timestamp="1462709240164">
-        <mark key="'" line="5678" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1462783032898">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,16 +25,10 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/__init__.py" timestamp="1462339888051">
-        <mark key="'" line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/read_redis_queue_save_influxdb.py" timestamp="1462322667294">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/exps.py" timestamp="1462587839442">
-        <mark key="'" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Anaconda3/Lib/logging/__init__.py" timestamp="1462769727336">
         <mark key="[" line="1825" column="0" />
@@ -47,9 +38,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462761903829">
-        <mark key="'" line="140" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462773525142">
         <mark key="'" line="55" column="50" />
@@ -81,9 +69,6 @@
       </file>
       <file name="/Python Console" timestamp="1462368447786">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/xtc_model.py" timestamp="1462588670353">
-        <mark key="'" line="106" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462765879116">
         <mark key="'" line="19" column="9" />
@@ -153,7 +138,7 @@
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/Makefile" timestamp="1462670047876">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" timestamp="1462695704353">
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" timestamp="1462785745180">
         <mark key="[" line="634" column="0" />
         <mark key="]" line="634" column="0" />
         <mark key="^" line="649" column="15" />
@@ -170,7 +155,8 @@
         <mark key="." line="0" column="87" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_balance.py" timestamp="1462782999903" />
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" timestamp="1462785479165">
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" timestamp="1462785756980">
+        <mark key="'" line="59" column="27" />
         <mark key="[" line="59" column="26" />
         <mark key="]" line="59" column="41" />
         <mark key="." line="59" column="41" />
@@ -195,9 +181,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-turtle/strategy.py" timestamp="1462527112684">
-        <mark key="'" line="886" column="8" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/readme.md" timestamp="1462768379117">
         <mark key="'" line="5" column="15" />
         <mark key="[" line="4" column="22" />
@@ -221,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="194" column="17" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="245" column="19" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
       <jump line="97" column="32" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
@@ -321,6 +303,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/tests/redis-okcoin.py" />
       <jump line="39" column="65" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" />
       <jump line="16" column="9" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/tests/redis-okcoin.py" />
+      <jump line="59" column="27" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
