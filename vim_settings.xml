@@ -11,8 +11,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" timestamp="1462774730026">
-        <mark key="'" line="60" column="34" />
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" timestamp="1462792922630">
+        <mark key="'" line="112" column="33" />
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="5" />
         <mark key="^" line="14" column="4" />
@@ -43,6 +43,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/model.py" timestamp="1462793363773" />
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462773525142">
         <mark key="'" line="55" column="50" />
         <mark key="[" line="106" column="52" />
@@ -64,8 +65,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462599450512">
-        <mark key="'" line="89" column="29" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462793045986">
+        <mark key="'" line="57" column="17" />
         <mark key="[" line="131" column="70" />
         <mark key="]" line="131" column="69" />
         <mark key="." line="131" column="69" />
@@ -94,9 +95,15 @@
       <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462758649602">
         <mark key="'" line="246" column="45" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/save_orders.py" timestamp="1462769625991">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="47" column="91" />
+      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/run.sh" timestamp="1462709547431">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/save_orders.py" timestamp="1462793419198">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462790396114">
         <mark key="'" line="75" column="12" />
@@ -147,7 +154,8 @@
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/Makefile" timestamp="1462670047876">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" timestamp="1462785745180">
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" timestamp="1462793368892">
+        <mark key="'" line="776" column="20" />
         <mark key="[" line="634" column="0" />
         <mark key="]" line="634" column="0" />
         <mark key="^" line="649" column="15" />
@@ -213,9 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="19" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
-      <jump line="97" column="32" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
-      <jump line="106" column="25" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/xtc_model.py" />
       <jump line="589" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="6" column="7" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
@@ -313,13 +318,16 @@
       <jump line="16" column="9" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/tests/redis-okcoin.py" />
       <jump line="59" column="27" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" />
       <jump line="75" column="12" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="112" column="33" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" />
+      <jump line="57" column="17" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
+      <jump line="776" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>loads</text>
+        <text>jsl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -328,7 +336,7 @@
         <text encoding="base64">ICAgIGRlZiBpbmRleChzZWxmLCBpbmRleCwgZG9jX3R5cGUsIGJvZHksIGlkPU5vbmUsIHBhcmFtcz1Ob25lKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,28 +352,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCB1dGlsCgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBxYnRyYWRlLnV0aWwgaW1wb3J0IGRlZmF1bHRfZXMK</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFycm93Cg==</text>
+      <register name="4" type="4">
+        <text>jsl</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBpbmZsdXhkYiBpbXBvcnQgSW5mbHV4REJDbGllbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHRpbWUgaXMgTm9uZToKICAgICAgICB0aW1lID0gYXJyb3cubm93KCkuZGF0ZXRpbWUKICAgIGJvZHkgPSB7J21lYXN1cmVtZW50JzogbWVhc3VyZW1lbnQsCiAgICAgICAgICAgICd0YWdzJzogdGFncywKICAgICAgICAgICAgJ3ZhbHVlcyc6IHZhbHVlcywKICAgICAgICAgICAgJ3RpbWUnOiB0aW1lLmlzb2Zvcm1hdCgpfQogICAgYm9keSA9IGpzb24uZHVtcHMoYm9keSwgc29ydF9rZXlzPVRydWUpCiAgICBhd2FpdCBjb25uLnJwdXNoKCdwZXJzaXN0OmluZmx1eCcsIFtib2R5XSkK</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCB1dGlsCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBxYnRyYWRlLnV0aWwgaW1wb3J0IGRlZmF1bHRfZXMK</text>
       </register>
-      <register name="8" type="4">
-        <text>loads</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGFycm93Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>json</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBpbmZsdXhkYiBpbXBvcnQgSW5mbHV4REJDbGllbnQK</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
