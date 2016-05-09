@@ -43,12 +43,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/bitvc.py" timestamp="1462694632525">
-        <mark key="'" line="368" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/model.py" timestamp="1462793363773" />
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462773525142">
         <mark key="'" line="55" column="50" />
@@ -72,11 +66,10 @@
         <mark key="." line="131" column="69" />
         <mark key="^" line="131" column="69" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462793663709">
-        <mark key="'" line="5" column="31" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462795305826">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/Python Console" timestamp="1462368447786">
         <mark key="[" line="0" column="0" />
@@ -111,12 +104,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462790396114">
-        <mark key="'" line="75" column="12" />
-        <mark key="[" line="82" column="26" />
-        <mark key="]" line="82" column="31" />
-        <mark key="." line="82" column="31" />
-        <mark key="^" line="82" column="31" />
+      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462794929303">
+        <mark key="'" line="73" column="12" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="80" column="31" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/bitvc.py" timestamp="1462694763117">
         <mark key="'" line="0" column="0" />
@@ -178,7 +171,7 @@
         <mark key="." line="0" column="87" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_balance.py" timestamp="1462782999903" />
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" timestamp="1462785756980">
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" timestamp="1462795286185">
         <mark key="'" line="59" column="27" />
         <mark key="[" line="59" column="26" />
         <mark key="]" line="59" column="41" />
@@ -227,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="7" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="197" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="31" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
@@ -327,13 +319,14 @@
       <jump line="57" column="17" filename="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" />
       <jump line="776" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" />
       <jump line="6" column="31" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVkaXNfY2xpZW50LmdlCg==</text>
+        <text encoding="base64">ICAgIGJvZHkK</text>
       </register>
       <register name="-" type="4">
-        <text>jsl</text>
+        <text>js</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -342,7 +335,7 @@
         <text encoding="base64">ICAgIGRlZiBpbmRleChzZWxmLCBpbmRleCwgZG9jX3R5cGUsIGJvZHksIGlkPU5vbmUsIHBhcmFtcz1Ob25lKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVkaXNfY2xpZW50LmdlCg==</text>
+        <text encoding="base64">ICAgIGJvZHkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,28 +351,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
+        <text encoding="base64">ICAgIGRjdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
+        <text encoding="base64">d2hpbGUgVHJ1ZToKICAgIGpzID0gcmVkaXNfY2xpZW50LmJscG9wKCdwZXJzaXN0OmluZmx1eCcpLmRlY29kZSgndXRmOCcpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ29yZGVyIHt9Jy5mb3JtYXQoZGN0KSkKICAgIGRlZmF1bHRfZXMuaW5kZXgoaW5kZXg9J29yZGVyJywgZG9jX3R5cGU9J29yZGVyJywgYm9keT1kY3QsIGlkPW9yZGVyLnJlZl9rZXkpCg==</text>
+      <register name="4" type="4">
+        <text># p = redis_client.pubsub()
+# p.psubscribe('pubsub:position*')
+# for item in p.listen():
+#     if item['type'] == 'psubscribe':
+#         continue
+#     account = item['channel'].decode('utf8').replace('pubsub:position:', '')
+#     data = json.loads(item['data'].decode('utf8'))
+#     data['@timestamp'] = data['_updated']
+#     default_es.index(index='quant', doc_type='position', body=data)
+#     print(account, data)</text>
       </register>
-      <register name="5" type="4">
-        <text>jsl</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGRjdCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>js</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCB1dGlsCgo=</text>
+      <register name="7" type="4">
+        <text>js_str</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBxYnRyYWRlLnV0aWwgaW1wb3J0IGRlZmF1bHRfZXMK</text>
+      <register name="8" type="4">
+        <text>json_str</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFycm93Cg==</text>
+      <register name="9" type="4">
+        <text>js</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
