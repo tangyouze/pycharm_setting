@@ -44,10 +44,10 @@
         <mark key="[" line="1825" column="0" />
         <mark key="]" line="1826" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/setup.py" timestamp="1462770221357">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/setup.py" timestamp="1462771489874">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462761903829">
         <mark key="'" line="140" column="15" />
@@ -77,11 +77,11 @@
         <mark key="." line="106" column="51" />
         <mark key="^" line="106" column="51" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" timestamp="1462769932900">
-        <mark key="[" line="1155" column="24" />
-        <mark key="]" line="1155" column="24" />
-        <mark key="^" line="1155" column="23" />
-        <mark key="." line="1155" column="24" />
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" timestamp="1462771841517">
+        <mark key="[" line="1163" column="0" />
+        <mark key="]" line="1163" column="0" />
+        <mark key="^" line="1160" column="37" />
+        <mark key="." line="1163" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-okcoin/okcoin.py" timestamp="1462583468893">
         <mark key="[" line="8" column="0" />
@@ -320,11 +320,11 @@
       <jump line="809" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcmludCgnb24gdHJhZGUnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>on_update</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -332,8 +332,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgb25fdXBkYXRlKHRyYW5zKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcmludCgnb24gdHJhZGUnKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -348,29 +348,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFja2FnZXM9WydxYnRyYWRlJ10sCiAgICAgIHZlcnNpb249JzAuMS4xJywK</text>
+      <register name="2" type="4">
+        <text>on_update</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFja2FnZXM9WydxYnRyYWRlJ10sCiAgICAgIHZlcnNpb249JzAuMS4xJywK</text>
+      <register name="3" type="4">
+        <text>on_update</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>on_update</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgb25fdXBkYXRlKHRyYW5zKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>iscoroutine</text>
+        <text>bak</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFucyA9IG9yZGVyLmRlYWxlZF90cmFuc1stMV0KICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdkZWFsZWQtdHJhbnMge30nLmZvcm1hdCh0cmFucy50b19kaWN0KCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICdwYW5kYXMnLAogICAgICAgICAgJ3B5dHonLAo=</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
