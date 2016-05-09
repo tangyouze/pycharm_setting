@@ -33,6 +33,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462758649602">
+        <mark key="'" line="246" column="45" />
+      </file>
       <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1462697958483">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="53" column="8" />
@@ -201,9 +204,14 @@
         <mark key="]" line="948" column="0" />
         <mark key="." line="948" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/learn/wow10.py" timestamp="1462759137835">
+        <mark key="[" line="19" column="90" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="975" column="4" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="379" column="20" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="410" column="56" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
@@ -303,13 +311,14 @@
       <jump line="33" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="21" column="26" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="57" column="16" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="246" column="45" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2001</text>
+        <text>okcoin</text>
       </register>
       <register name="-" type="4">
-        <text>2001</text>
+        <text>okcoin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -318,7 +327,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmMuc2FkZCgncmV0d2VldDp7fScuZm9ybWF0KHVybCksIGpzb24uZHVtcHMoaXRlbSwgc29ydF9rZXlzPVRydWUpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>2001</text>
+        <text>okcoin</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -333,29 +342,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>2000</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>2010</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>:</text>
+      <register name="5" type="2">
+        <text encoding="base64">dXRpbC5kZWZhdWx0X2VzLmluZGV4KGluZGV4PSdtbS1zdHJhdGVneScsIGRvY190eXBlPSdva2NvaW4nLCBib2R5PXsna2V5JzogJ3ZhbHVlJ30pCg==</text>
       </register>
       <register name="6" type="4">
-        <text>get_retweet_recursive(url):</text>
+        <text>okcoin</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwaXJudCAgIAo=</text>
+      <register name="7" type="4">
+        <text>strategy</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>l</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>okcoin</text>
       </register>
       <register name=":" type="4">
         <text>action FindPrevious</text>
