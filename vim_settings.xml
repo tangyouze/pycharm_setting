@@ -70,18 +70,18 @@
         <mark key="." line="5" column="81" />
         <mark key="^" line="5" column="81" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462765223325">
-        <mark key="'" line="34" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462773525142">
+        <mark key="'" line="55" column="50" />
         <mark key="[" line="106" column="52" />
         <mark key="]" line="106" column="51" />
         <mark key="." line="106" column="51" />
         <mark key="^" line="106" column="51" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" timestamp="1462771841517">
-        <mark key="[" line="1163" column="0" />
-        <mark key="]" line="1163" column="0" />
-        <mark key="^" line="1160" column="37" />
-        <mark key="." line="1163" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" timestamp="1462773072794">
+        <mark key="[" line="658" column="89" />
+        <mark key="]" line="658" column="100" />
+        <mark key="^" line="658" column="100" />
+        <mark key="." line="658" column="100" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-okcoin/okcoin.py" timestamp="1462583468893">
         <mark key="[" line="8" column="0" />
@@ -218,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="646" column="50" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="915" column="12" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
       <jump line="15" column="10" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
       <jump line="18" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
@@ -318,22 +317,23 @@
       <jump line="6" column="15" filename="$USER_HOME$/Dropbox/code/qbtrade/readme.md" />
       <jump line="1039" column="13" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
       <jump line="809" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
+      <jump line="55" column="50" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcmludCgnb24gdHJhZGUnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>price</text>
       </register>
       <register name="-" type="4">
-        <text>on_update</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgb25fdXBkYXRlKHRyYW5zKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiAnPCcgKyBzdHIoc2VsZi5jb250cmFjdCkgKyAnICcgKyBzdHIoc2VsZi50bSkgKyAnICcgKyBzdHIoc2VsZi5wcmljZSkgKyAnPicK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcmludCgnb24gdHJhZGUnKQo=</text>
+      <register name="1" type="4">
+        <text>price</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,28 +349,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>on_update</text>
+        <text>tm</text>
       </register>
-      <register name="3" type="4">
-        <text>on_update</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcmludCgnb24gdHJhZGUnKQo=</text>
       </register>
       <register name="4" type="4">
         <text>on_update</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>on_update</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>on_update</text>
       </register>
       <register name="7" type="4">
-        <text>bak</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICdwYW5kYXMnLAogICAgICAgICAgJ3B5dHonLAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>bak</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
