@@ -177,11 +177,8 @@
         <mark key="^" line="649" column="15" />
         <mark key="." line="634" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462779934741">
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462780883900">
         <mark key="'" line="198" column="18" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.0-py3.5.egg/qbtrade/config.py" timestamp="1462760836964" />
       <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/config.yaml" timestamp="1462534799483">
@@ -325,10 +322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>contract</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>contract</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -337,7 +334,7 @@
         <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiAnPCcgKyBzdHIoc2VsZi5jb250cmFjdCkgKyAnICcgKyBzdHIoc2VsZi50bSkgKyAnICcgKyBzdHIoc2VsZi5wcmljZSkgKyAnPicK</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>contract</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -352,29 +349,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGJ0Yw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aWNrZXIuYmlkcwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oKQo=</text>
       </register>
       <register name="4" type="4">
+        <text>.</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">IGJ0Yw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9zLmNoZGlyKCcuLicpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CndoaWxlIG5vdCBvcy5wYXRoLmlzZmlsZSgnLmdpdGlnbm9yZScpOgo=</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>price</text>
+        <text encoding="base64">IGJ0Yw==</text>
       </register>
-      <register name="8" type="4">
-        <text>tm</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG9zLmNoZGlyKCcuLicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBwcmludCgnb24gdHJhZGUnKQo=</text>
+        <text encoding="base64">CndoaWxlIG5vdCBvcy5wYXRoLmlzZmlsZSgnLmdpdGlnbm9yZScpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
