@@ -116,7 +116,8 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="847" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" timestamp="1462884455233">
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" timestamp="1462885127492">
+        <mark key="'" line="430" column="38" />
         <mark key="[" line="444" column="0" />
         <mark key="]" line="444" column="0" />
         <mark key="^" line="477" column="68" />
@@ -191,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/bitvc.py" />
       <jump line="20" column="23" filename="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" />
       <jump line="276" column="34" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="171" column="20" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
@@ -291,6 +291,7 @@
       <jump line="1003" column="20" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" />
       <jump line="404" column="36" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
       <jump line="462" column="24" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
+      <jump line="430" column="38" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
