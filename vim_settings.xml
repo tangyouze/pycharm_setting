@@ -3,59 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1462793574193">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/cancer_weibo_start.txt" timestamp="1462709185330">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" timestamp="1462792922630">
-        <mark key="'" line="112" column="33" />
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="5" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1462697958483">
-        <mark key="'" line="20" column="23" />
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="13" />
-        <mark key="^" line="53" column="13" />
-        <mark key="." line="53" column="13" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/read_redis_queue_save_influxdb.py" timestamp="1462322667294">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-typehintting.py" timestamp="1462796991376">
-        <mark key="'" line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/setup.py" timestamp="1462771489874">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462849663565">
-        <mark key="'" line="137" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462773525142">
-        <mark key="'" line="55" column="50" />
-        <mark key="[" line="106" column="52" />
-        <mark key="]" line="106" column="51" />
-        <mark key="." line="106" column="51" />
-        <mark key="^" line="106" column="51" />
-      </file>
-      <file name="/" timestamp="1462534975399">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-okcoin/okcoin.py" timestamp="1462583468893">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462793045986">
         <mark key="'" line="57" column="17" />
         <mark key="[" line="131" column="70" />
@@ -63,7 +10,7 @@
         <mark key="." line="131" column="69" />
         <mark key="^" line="131" column="69" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462846463258">
+      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462853298241">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="9" />
@@ -79,10 +26,15 @@
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/es.py" timestamp="1462790544793">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/a.dummy" timestamp="1462793574193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" timestamp="1462792922630">
+        <mark key="'" line="112" column="33" />
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462765879116">
         <mark key="'" line="19" column="9" />
@@ -91,20 +43,17 @@
         <mark key="." line="16" column="69" />
         <mark key="^" line="16" column="69" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/items.json" timestamp="1462709229835">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462758649602">
         <mark key="'" line="246" column="45" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/run.sh" timestamp="1462709547431">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1462697958483">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="13" />
+        <mark key="^" line="53" column="13" />
+        <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/save_orders.py" timestamp="1462798772495">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/save_orders.py" timestamp="1462851632984">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -116,13 +65,14 @@
         <mark key="^" line="80" column="31" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/bitvc.py" timestamp="1462694763117">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/bitvc.py" timestamp="1462853473042">
+        <mark key="'" line="64" column="12" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/test_okcoin.py" timestamp="1462582601294">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-typehintting.py" timestamp="1462796991376">
+        <mark key="'" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462583387442">
         <mark key="'" line="419" column="0" />
@@ -148,6 +98,11 @@
         <mark key="^" line="275" column="0" />
         <mark key="." line="276" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/xtc_quote.py" timestamp="1462853588117">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1462709351428">
         <mark key="'" line="17" column="30" />
         <mark key="[" line="17" column="28" />
@@ -162,6 +117,13 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="13" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462849663565">
+        <mark key="'" line="137" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/fetch_rt_ticker.py" timestamp="1462851756621">
+        <mark key="'" line="21" column="27" />
+        <mark key="[" line="269" column="84" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/Makefile" timestamp="1462670047876">
         <mark key="'" line="2" column="0" />
       </file>
@@ -174,6 +136,13 @@
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462850950327">
         <mark key="'" line="239" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462773525142">
+        <mark key="'" line="55" column="50" />
+        <mark key="[" line="106" column="52" />
+        <mark key="]" line="106" column="51" />
+        <mark key="." line="106" column="51" />
+        <mark key="^" line="106" column="51" />
       </file>
       <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/metric.py" timestamp="1462784464701">
         <mark key="[" line="0" column="88" />
@@ -194,6 +163,9 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
+      <file name="/" timestamp="1462534975399">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/config.yaml" timestamp="1462534799483">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="7" column="14" />
@@ -207,11 +179,6 @@
         <mark key="]" line="2816" column="31" />
         <mark key="." line="2816" column="31" />
         <mark key="^" line="2816" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin_quote.py" timestamp="1462367317953">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/readme.md" timestamp="1462790700110">
         <mark key="'" line="5" column="15" />
@@ -236,10 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="6" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
-      <jump line="2984" column="26" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
-      <jump line="3948" column="25" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
       <jump line="2645" column="20" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
       <jump line="1176" column="45" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
       <jump line="654" column="24" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
@@ -336,22 +299,26 @@
       <jump line="283" column="34" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
       <jump line="555" column="8" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
       <jump line="239" column="17" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/fetch_rt_ticker.py" />
+      <jump line="270" column="4" filename="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/fetch_rt_ticker.py" />
+      <jump line="21" column="27" filename="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/fetch_rt_ticker.py" />
+      <jump line="67" column="12" filename="$USER_HOME$/Dropbox/code/quantlib/btc/bitvc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>body</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuZGVidWcoJ3BlcnNpc3QgYXN5bmMgbWV0cmljIHt9Jy5mb3JtYXQoYm9keSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBCaXR2Y1F1b3RlLmFkZF9jYWxsYmFjaygnYnRjX3Q6ZXhjaGFuZ2UueHRjLmJpdHZjJywgY2FsbGJhY2spCiAgICAgICAgQml0dmNRdW90ZS5hZGRfY2FsbGJhY2soJ2x0Y190OmV4Y2hhbmdlLnh0Yy5iaXR2YycsIGNhbGxiYWNrKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>body</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -366,29 +333,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">X2Nvbm4gPSBOb25lCg==</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>util</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>config</text>
+        <text>b</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBCaXR2Y1F1b3RlLmFkZF9jYWxsYmFjaygnYnRjX3Q6ZXhjaGFuZ2UueHRjLmJpdHZjJywgY2FsbGJhY2spCg==</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
-      <register name="7" type="4">
-        <text>get_redis_conn</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXN5bmMgZGVmIGdldF9yZWRpc19jb25uKCk6Cg==</text>
+        <text encoding="base64">d2hpbGUgbm90IG9zLnBhdGguaXNmaWxlKCcuZ2l0aWdub3JlJyk6CiAgICBvcy5jaGRpcignLi4nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gLiBpbXBvcnQgbWV0cmljCiAgICByZXR1cm4gYXdhaXQgbWV0cmljLmdldF9yZWRpc19jb25uKCkK</text>
+        <text encoding="base64">ICAgIHV0aWwud2FtcChtYWluKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindPrevious</text>
