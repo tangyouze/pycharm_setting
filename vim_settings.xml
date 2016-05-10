@@ -3,6 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462793045986">
+        <mark key="'" line="57" column="17" />
+        <mark key="[" line="131" column="70" />
+        <mark key="]" line="131" column="69" />
+        <mark key="." line="131" column="69" />
+        <mark key="^" line="131" column="69" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462844517439">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="9" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="17" column="9" />
+      </file>
+      <file name="/Python Console" timestamp="1462368447786">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" timestamp="1462798034634">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/es.py" timestamp="1462790544793">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1462793574193">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,83 +45,16 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/elasticsearch/client/__init__.py" timestamp="1462789790326">
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="64" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1462697958483">
-        <mark key="'" line="20" column="23" />
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="53" column="13" />
-        <mark key="^" line="53" column="13" />
-        <mark key="." line="53" column="13" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/read_redis_queue_save_influxdb.py" timestamp="1462322667294">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-typehintting.py" timestamp="1462796991376">
-        <mark key="'" line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/Anaconda3/Lib/logging/__init__.py" timestamp="1462769727336">
-        <mark key="[" line="1825" column="0" />
-        <mark key="]" line="1826" column="54" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/setup.py" timestamp="1462771489874">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/model.py" timestamp="1462793363773" />
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462773525142">
-        <mark key="'" line="55" column="50" />
-        <mark key="[" line="106" column="52" />
-        <mark key="]" line="106" column="51" />
-        <mark key="." line="106" column="51" />
-        <mark key="^" line="106" column="51" />
-      </file>
-      <file name="/" timestamp="1462534975399">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-okcoin/okcoin.py" timestamp="1462583468893">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462793045986">
-        <mark key="'" line="57" column="17" />
-        <mark key="[" line="131" column="70" />
-        <mark key="]" line="131" column="69" />
-        <mark key="." line="131" column="69" />
-        <mark key="^" line="131" column="69" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462798001334">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-      </file>
-      <file name="/Python Console" timestamp="1462368447786">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" timestamp="1462798034634">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/es.py" timestamp="1462790544793">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462765879116">
         <mark key="'" line="19" column="9" />
         <mark key="[" line="12" column="63" />
         <mark key="]" line="16" column="69" />
         <mark key="." line="16" column="69" />
         <mark key="^" line="16" column="69" />
+      </file>
+      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/elasticsearch/client/__init__.py" timestamp="1462789790326">
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="64" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/items.json" timestamp="1462709229835">
         <mark key="[" line="0" column="0" />
@@ -103,6 +63,13 @@
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462758649602">
         <mark key="'" line="246" column="45" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1462697958483">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="13" />
+        <mark key="^" line="53" column="13" />
+        <mark key="." line="53" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/run.sh" timestamp="1462709547431">
         <mark key="[" line="2" column="0" />
@@ -121,6 +88,11 @@
         <mark key="^" line="80" column="31" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/read_redis_queue_save_influxdb.py" timestamp="1462322667294">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/bitvc.py" timestamp="1462694763117">
         <mark key="'" line="0" column="0" />
       </file>
@@ -129,12 +101,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-typehintting.py" timestamp="1462796991376">
+        <mark key="'" line="21" column="20" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462583387442">
         <mark key="'" line="419" column="0" />
         <mark key="[" line="961" column="37" />
         <mark key="]" line="961" column="37" />
         <mark key="." line="961" column="37" />
         <mark key="^" line="961" column="37" />
+      </file>
+      <file name="$USER_HOME$/Anaconda3/Lib/logging/__init__.py" timestamp="1462769727336">
+        <mark key="[" line="1825" column="0" />
+        <mark key="]" line="1826" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/test_huatai_backend.py" timestamp="1462784437603">
         <mark key="'" line="14" column="0" />
@@ -152,6 +131,11 @@
         <mark key="]" line="276" column="0" />
         <mark key="^" line="275" column="0" />
         <mark key="." line="276" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/setup.py" timestamp="1462771489874">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1462709351428">
         <mark key="'" line="17" column="30" />
@@ -180,20 +164,28 @@
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462780883900">
         <mark key="'" line="198" column="18" />
       </file>
-      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.0-py3.5.egg/qbtrade/config.py" timestamp="1462760836964" />
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462773525142">
+        <mark key="'" line="55" column="50" />
+        <mark key="[" line="106" column="52" />
+        <mark key="]" line="106" column="51" />
+        <mark key="." line="106" column="51" />
+        <mark key="^" line="106" column="51" />
+      </file>
       <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/metric.py" timestamp="1462784464701">
         <mark key="[" line="0" column="88" />
         <mark key="]" line="0" column="87" />
         <mark key="^" line="0" column="87" />
         <mark key="." line="0" column="87" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_balance.py" timestamp="1462782999903" />
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" timestamp="1462795286185">
         <mark key="'" line="59" column="27" />
         <mark key="[" line="59" column="26" />
         <mark key="]" line="59" column="41" />
         <mark key="." line="59" column="41" />
         <mark key="^" line="59" column="41" />
+      </file>
+      <file name="/" timestamp="1462534975399">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/config.yaml" timestamp="1462534799483">
         <mark key="'" line="8" column="8" />
@@ -213,6 +205,11 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-okcoin/okcoin.py" timestamp="1462583468893">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/readme.md" timestamp="1462790700110">
         <mark key="'" line="5" column="15" />
