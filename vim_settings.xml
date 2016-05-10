@@ -97,7 +97,7 @@
         <mark key="^" line="275" column="0" />
         <mark key="." line="276" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/xtc_quote.py" timestamp="1462853627547" />
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/xtc_quote.py" timestamp="1462853948483" />
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1462709351428">
         <mark key="'" line="17" column="30" />
         <mark key="[" line="17" column="28" />
@@ -118,6 +118,12 @@
       <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/fetch_rt_ticker.py" timestamp="1462851756621">
         <mark key="'" line="21" column="27" />
         <mark key="[" line="269" column="84" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/readme.md" timestamp="1462853961337">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/Makefile" timestamp="1462670047876">
         <mark key="'" line="2" column="0" />
@@ -300,11 +306,11 @@
       <jump line="67" column="12" filename="$USER_HOME$/Dropbox/code/quantlib/btc/bitvc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>xtc</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>xtc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -312,8 +318,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBCaXR2Y1F1b3RlLmFkZF9jYWxsYmFjaygnYnRjX3Q6ZXhjaGFuZ2UueHRjLmJpdHZjJywgY2FsbGJhY2spCiAgICAgICAgQml0dmNRdW90ZS5hZGRfY2FsbGJhY2soJ2x0Y190OmV4Y2hhbmdlLnh0Yy5iaXR2YycsIGNhbGxiYWNrKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>xtc</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -328,29 +334,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>t</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
         <text>t</text>
       </register>
       <register name="4" type="4">
+        <text>t</text>
+      </register>
+      <register name="5" type="4">
         <text>b</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBCaXR2Y1F1b3RlLmFkZF9jYWxsYmFjaygnYnRjX3Q6ZXhjaGFuZ2UueHRjLmJpdHZjJywgY2FsbGJhY2spCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">d2hpbGUgbm90IG9zLnBhdGguaXNmaWxlKCcuZ2l0aWdub3JlJyk6CiAgICBvcy5jaGRpcignLi4nKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHV0aWwud2FtcChtYWluKQo=</text>
+        <text encoding="base64">d2hpbGUgbm90IG9zLnBhdGguaXNmaWxlKCcuZ2l0aWdub3JlJyk6CiAgICBvcy5jaGRpcignLi4nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action FindPrevious</text>
