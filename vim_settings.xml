@@ -172,8 +172,8 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="847" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462850078382">
-        <mark key="'" line="555" column="8" />
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462850950327">
+        <mark key="'" line="239" column="17" />
       </file>
       <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/metric.py" timestamp="1462784464701">
         <mark key="[" line="0" column="88" />
@@ -236,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3037" column="15" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
       <jump line="96" column="6" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
       <jump line="2984" column="26" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
@@ -336,6 +335,7 @@
       <jump line="137" column="27" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
       <jump line="283" column="34" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
       <jump line="555" column="8" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
+      <jump line="239" column="17" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
