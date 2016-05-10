@@ -116,11 +116,11 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="847" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" timestamp="1462866113249">
-        <mark key="[" line="461" column="46" />
-        <mark key="]" line="461" column="89" />
-        <mark key="^" line="461" column="89" />
-        <mark key="." line="461" column="89" />
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" timestamp="1462884455233">
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="0" />
+        <mark key="^" line="477" column="68" />
+        <mark key="." line="444" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462856040758">
         <mark key="'" line="462" column="24" />
@@ -294,19 +294,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBkLnNldF9vcHRpb24oJ2Rpc3BsYXkud2lkdGgnLCAzMjApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzID0gYXdhaXQgc2VsZi5hcGlfY2FsbF9wb3N0KCdmdXR1cmVfb3JkZXJzX2luZm8nLCBwYXJhbXMpCiAgICAgICAgICAgICAgICB1cGRhdGVfb3JkZXJfdXNlX2pzKGpzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>comp):</text>
+        <text encoding="base64">IGdldCBpbiBwYWdlIHt9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCaXR2Y1F1b3RlLmFkZF9jYWxsYmFjaygnYnRjX3Q6ZXhjaGFuZ2UueHRjLmJpdHZjJywgY2FsbGJhY2spCiAgICAgICAgQml0dmNRdW90ZS5hZGRfY2FsbGJhY2soJ2x0Y190OmV4Y2hhbmdlLnh0Yy5iaXR2YycsIGNhbGxiYWNrKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoJ25vdGhpbmcgZ2V0IGluIHBhZ2Uge30nLmZvcm1hdChwYWdlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBkLnNldF9vcHRpb24oJ2Rpc3BsYXkud2lkdGgnLCAzMjApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzID0gYXdhaXQgc2VsZi5hcGlfY2FsbF9wb3N0KCdmdXR1cmVfb3JkZXJzX2luZm8nLCBwYXJhbXMpCiAgICAgICAgICAgICAgICB1cGRhdGVfb3JkZXJfdXNlX2pzKGpzKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -321,29 +321,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>comp):</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzID0gYXdhaXQgc2VsZi5hcGlfY2FsbF9wb3N0KCdmdXR1cmVfb3JkZXJzX2luZm8nLCBwYXJhbXMpCiAgICAgICAgICAgICAgICB1cGRhdGVfb3JkZXJfdXNlX2pzKGpzKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzID0gYXdhaXQgc2VsZi5hcGlfY2FsbF9wb3N0KCdmdXR1cmVfb3JkZXJzX2luZm8nLCBwYXJhbXMpCiAgICAgICAgICAgICAgICB1cGRhdGVfb3JkZXJfdXNlX2pzKGpzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFjYyA9IE9rY29tQWNjb3VudChhY2MuY29udGFpbmVyLCBhY2MubmFtZSwgYWNjLmNvbmZpZykKICAgIGFjYy5zZXRfY29tcChjb21wKQogICAgYXdhaXQgYWNjLmxvZ2luKCkKICAgIHByaW50KCdsb2dpbiBmaW5pc2gnKQogICAgIyBwcmludChhd2FpdCBhY2MuZ2V0X2JhbGFuY2UoKSkKICAgIGNvbiA9IENvbnRyYWN0QXBpLmdldF9ieV9zeW1ib2woJ2J0Y190OmV4Y2hhbmdlLnh0Yy5va2NvbScpCiAgICB0ayA9IFRpY2tlckFwaS5nZXRfbGFzdChjb24pCiAgICBwID0gKHRrLmJpZDEgKyB0ay5hc2sxKSAvIDIKICAgIHByaW50KGF3YWl0IGFjYy5wbGFjZV9vcmRlcihjb24sIHAsICdiJywgMikpCiAgICBwcmludChhd2FpdCBhY2MucGxhY2Vfb3JkZXIoY29uLCBwLCAncycsIDEpKQoKICAgICMgT2t1c2RBY2NvdW50KGFjYy5nZXRfYmFsYW5jZSkKICAgICMgcHJpbnQoYWNjLmdldCgpKQoKICAgICMgZGVmIGNiKHRrKToKICAgICMgICAgIHByaW50KHRrKQogICAgIwogICAgIyBPa2NvbVF1b3RlLnJlZ2lzdGVyX2FsbChjYikKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgdXRpbC53YW1wKG1haW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdsZXNzIHRoYW4gNTAgaXRlbXMgZ2V0IGluIHBhZ2Uge30gZXhpdCcuZm9ybWF0KHBhZ2UpKQogICAgICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>xtc</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdsZXNzIHRoYW4gNTAgaXRlbXMgZ2V0IGluIHBhZ2Uge30gZXhpdCcuZm9ybWF0KHBhZ2UpKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGdldCBpbiBwYWdlIHt9</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>nothing</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>page</text>
       </register>
       <register name="9" type="4">
-        <text>b</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>action FindPrevious</text>
