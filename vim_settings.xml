@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462793045986">
-        <mark key="[" line="132" column="70" />
-        <mark key="]" line="132" column="69" />
-        <mark key="." line="132" column="69" />
-        <mark key="^" line="132" column="69" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462853298241">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="8" />
@@ -42,20 +36,12 @@
         <mark key="." line="16" column="69" />
         <mark key="^" line="16" column="69" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/huatai.py" timestamp="1462758649602">
-        <mark key="'" line="246" column="45" />
-      </file>
       <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1462697958483">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="53" column="8" />
         <mark key="]" line="53" column="13" />
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/save_orders.py" timestamp="1462851632984">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462794929303">
         <mark key="'" line="73" column="12" />
@@ -97,7 +83,6 @@
         <mark key="^" line="275" column="0" />
         <mark key="." line="276" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/xtc_quote.py" timestamp="1462853948483" />
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1462709351428">
         <mark key="'" line="17" column="30" />
         <mark key="[" line="17" column="28" />
@@ -115,11 +100,7 @@
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462849663565">
         <mark key="'" line="137" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/fetch_rt_ticker.py" timestamp="1462851756621">
-        <mark key="'" line="21" column="27" />
-        <mark key="[" line="269" column="84" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/readme.md" timestamp="1462853961337">
+      <file name="$USER_HOME$/Dropbox/code/quantlib/readme.md" timestamp="1462854737900">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="14" />
         <mark key="^" line="9" column="14" />
