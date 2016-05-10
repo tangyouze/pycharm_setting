@@ -4,11 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Dropbox/code/quantlib/acc_rpc.py" timestamp="1462793045986">
-        <mark key="'" line="57" column="17" />
-        <mark key="[" line="131" column="70" />
-        <mark key="]" line="131" column="69" />
-        <mark key="." line="131" column="69" />
-        <mark key="^" line="131" column="69" />
+        <mark key="[" line="132" column="70" />
+        <mark key="]" line="132" column="69" />
+        <mark key="." line="132" column="69" />
+        <mark key="^" line="132" column="69" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" timestamp="1462853298241">
         <mark key="'" line="0" column="0" />
@@ -98,11 +97,7 @@
         <mark key="^" line="275" column="0" />
         <mark key="." line="276" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/xtc_quote.py" timestamp="1462853588117">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/xtc_quote.py" timestamp="1462853627547" />
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1462709351428">
         <mark key="'" line="17" column="30" />
         <mark key="[" line="17" column="28" />
