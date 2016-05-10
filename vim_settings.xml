@@ -18,10 +18,6 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/elasticsearch/client/__init__.py" timestamp="1462789790326">
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="64" />
-      </file>
       <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1462697958483">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="53" column="8" />
@@ -37,14 +33,13 @@
       <file name="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-typehintting.py" timestamp="1462796991376">
         <mark key="'" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Anaconda3/Lib/logging/__init__.py" timestamp="1462769727336">
-        <mark key="[" line="1825" column="0" />
-        <mark key="]" line="1826" column="54" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/setup.py" timestamp="1462771489874">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1462849663565">
+        <mark key="'" line="137" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462773525142">
         <mark key="'" line="55" column="50" />
@@ -177,8 +172,8 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="847" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462780883900">
-        <mark key="'" line="198" column="18" />
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462850078382">
+        <mark key="'" line="555" column="8" />
       </file>
       <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/metric.py" timestamp="1462784464701">
         <mark key="[" line="0" column="88" />
@@ -241,12 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="33" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
-      <jump line="3930" column="10" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
-      <jump line="3829" column="0" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
-      <jump line="2521" column="8" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
-      <jump line="3939" column="4" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
-      <jump line="3546" column="4" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
       <jump line="3037" column="15" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
       <jump line="96" column="6" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
       <jump line="2984" column="26" filename="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" />
@@ -341,6 +330,12 @@
       <jump line="38" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" />
       <jump line="848" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" />
       <jump line="13" column="19" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" />
+      <jump line="139" column="52" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
+      <jump line="189" column="31" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
+      <jump line="507" column="33" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
+      <jump line="137" column="27" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
+      <jump line="283" column="34" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
+      <jump line="555" column="8" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
