@@ -177,12 +177,12 @@
         <mark key="^" line="0" column="87" />
         <mark key="." line="0" column="87" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" timestamp="1462795286185">
-        <mark key="'" line="59" column="27" />
-        <mark key="[" line="59" column="26" />
-        <mark key="]" line="59" column="41" />
-        <mark key="." line="59" column="41" />
-        <mark key="^" line="59" column="41" />
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" timestamp="1462845199482">
+        <mark key="'" line="62" column="27" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="13" />
+        <mark key="." line="50" column="13" />
+        <mark key="^" line="50" column="13" />
       </file>
       <file name="/" timestamp="1462534975399">
         <mark key="[" line="0" column="0" />
@@ -336,11 +336,11 @@
       <jump line="15" column="128" filename="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRjdFsnaWQnXSwgdHlwZShkY3RbJ2lkJ10pKQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -348,8 +348,8 @@
       <register name="0" type="2">
         <text encoding="base64">ZGVmIHRlc3RfZWxhc3RpYygpOgogICAgYXN5bmMgZGVmIGRvbygpOgogICAgICAgIGF3YWl0IGVsYXN0aWNzZWFyY2guaW5kZXhfYXN5bmMoaW5kZXg9J3Rlc3QnLCBkb2NfdHlwZT0ndGVzdC1hc3luYycsIGJvZHk9eydAdGltZXN0YW1wJzogYXJyb3cubm93KCkuZGF0ZXRpbWUuaXNvZm9ybWF0KCksICdrZXknOiAndmFsdWUnfSkKICAgICAgICBhc3NlcnQgVHJ1ZQoKICAgIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5ydW5fdW50aWxfY29tcGxldGUoZG9vKCkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRjdFsnaWQnXSwgdHlwZShkY3RbJ2lkJ10pKQo=</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -364,29 +364,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLndhcm5pbmcoKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdoaWxlIF9jb25uIGlzIE5vbmUgb3IgX2Nvbm4gPT0gJ3dhaXQnOgogICAgICAgIGxvZ2dpbmcud2FybmluZygpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>set_l</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLndhcm5pbmcoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBlbGFzdGljc2VhcmNoLmluZGV4X2FzeW5jKGluZGV4PSd0ZXN0JywgZG9jX3R5cGU9J3Rlc3QtYXN5bmMnLCBib2R5PXsnQHRpbWVzdGFtcCc6IGFycm93Lm5vdygpLmRhdGV0aW1lLmlzb2Zvcm1hdCgpLCAna2V5JzogJ3ZhbHVlJ30pCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLndhcm5uZygpCg==</text>
       </register>
       <register name="6" type="4">
-        <text>value</text>
+        <text>i</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLndhcm5pbmcoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGFzdGljc2VhcmNoLmluCg==</text>
+      <register name="8" type="4">
+        <text>True</text>
       </register>
       <register name="9" type="4">
-        <text>test_elastic</text>
+        <text>True</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
