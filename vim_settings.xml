@@ -34,11 +34,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462945019485">
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462969169705">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="199" column="41" />
-        <mark key="." line="16" column="69" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
         <mark key="^" line="16" column="69" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1462697958483">
@@ -219,9 +219,15 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-smart-market-order/tests/okc.py" timestamp="1462969088429">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+        <mark key="^" line="5" column="58" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="809" column="8" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/model.py" />
       <jump line="55" column="50" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/btc/huobi.py" />
       <jump line="144" column="17" filename="$USER_HOME$/Dropbox/code/quantlib/btc/huobi.py" />
@@ -321,13 +327,14 @@
       <jump line="96" column="18" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/quote.py" />
       <jump line="26" column="22" filename="$USER_HOME$/Dropbox/code/qb-smart-market-order/place_smart_market_order.py" />
       <jump line="17" column="12" filename="$USER_HOME$/Dropbox/code/qb-smart-market-order/place_smart_market_order.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dropbox/code/qb-smart-market-order/tests/okc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgY29tcC5yZWdpc3RlcihwbGFjZV9zbWFydF9tYXJrZXRfb3JkZXIsIGNvbmZpZy5VcmkucGxhY2Vfc21hcnRfbWFya2V0X29yZGVyKGFjYykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -335,8 +342,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHAgLT0gMC4wMQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICMgY29tcC5yZWdpc3RlcihwbGFjZV9zbWFydF9tYXJrZXRfb3JkZXIsIGNvbmZpZy5VcmkucGxhY2Vfc21hcnRfbWFya2V0X29yZGVyKGFjYykpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,29 +358,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiBwbGFjZV9zbWFydF9tYXJrZXRfb3JkZXIoc3ltYm9sLCBicywgYW1vdW50KToKICAgICAgICByZXR1cm4gYXdhaXQgYXN5bmNfd2FpdF93cmFwcGVyKGFjYy5wbGFjZV9zbWFydF9tYXJrZXRfb3JkZXIoQ29udHJhY3RBcGkuZ2V0X2J5X3N5bWJvbChzeW1ib2wpLCBicywgYW1vdW50KSkK</text>
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>-</text>
+        <text>ContarctApi</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxMCkK</text>
+        <text encoding="base64">ICAgIGNvbiA9IENvbnRhcmN0QXBpLgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygnY2FuY2VsIG9yZGVyIHt9Jy5mb3JtYXQoa2V5KSkK</text>
+      <register name="6" type="4">
+        <text>con</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1.1,</text>
       </register>
       <register name="8" type="4">
-        <text>keep</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ2tlZXAgcGxhY2luZycpCg==</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
