@@ -54,12 +54,12 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462972818747">
-        <mark key="'" line="134" column="11" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="24" />
-        <mark key="^" line="40" column="15" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462974579149">
+        <mark key="'" line="52" column="12" />
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+        <mark key="^" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462943864183">
         <mark key="'" line="419" column="0" />
@@ -93,12 +93,11 @@
         <mark key="." line="289" column="0" />
         <mark key="^" line="289" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1462972795668">
-        <mark key="'" line="210" column="63" />
-        <mark key="[" line="498" column="25" />
-        <mark key="]" line="498" column="28" />
-        <mark key="." line="498" column="28" />
-        <mark key="^" line="498" column="28" />
+      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1462974058630">
+        <mark key="[" line="498" column="7" />
+        <mark key="]" line="498" column="10" />
+        <mark key="." line="498" column="10" />
+        <mark key="^" line="498" column="10" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" timestamp="1462846384348">
         <mark key="'" line="13" column="128" />
@@ -210,12 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="18" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
-      <jump line="15" column="36" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_influx.py" />
-      <jump line="6" column="25" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" />
-      <jump line="21" column="20" filename="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-typehintting.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" />
       <jump line="12" column="4" filename="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" />
       <jump line="13" column="18" filename="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" />
@@ -308,15 +301,21 @@
       <jump line="39" column="43" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="211" column="63" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
       <jump line="127" column="4" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
-      <jump line="38" column="29" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="133" column="11" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="122" column="24" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="91" column="23" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="498" column="28" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="107" column="50" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="38" column="12" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="52" column="12" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNsZWFuX2NhY2hlKHVpZCkK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>infodct</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -324,8 +323,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJjLmRlbGV0ZSgndXNlcjp7fTpkY3QnLmZvcm1hdCh1aWQpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsZWFuX2NhY2hlKHVpZCkK</text>
+      <register name="1" type="4">
+        <text>l</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -340,29 +339,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNsZWFuX2NhY2hlKHVpZCkK</text>
+      <register name="2" type="4">
+        <text>1768593554</text>
       </register>
-      <register name="3" type="4">
-        <text>infodct</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGtleSA9ICd1c2VyOnt9OmRjdCcuZm9ybWF0KHVpZCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbiA9IGdldF9kb21haW4odWlkKQo=</text>
+      <register name="4" type="4">
+        <text>dct__format</text>
       </register>
-      <register name="5" type="4">
-        <text>dct</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>abount</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJjLmRlbGV0ZSgndXNlcjp7fTpkY3QnLmZvcm1hdCh1aWQpKQo=</text>
+        <text encoding="base64">ICAgICMgY2xlYW5fY2FjaGUoJzE3Njg1OTM1NTQnKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJjLmRlbGV0ZSgndXNlcjp7fTpkY3QnLmZvcm1hdCh1aWQpKQogICAgcmMuZGVsZXRlKCd1c2VyOnt9OmRjdCcuZm9ybWF0KHVpZCkpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>action HighlightUsagesInFile</text>
