@@ -50,9 +50,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-typehintting.py" timestamp="1462796991376">
-        <mark key="'" line="21" column="20" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462583387442">
         <mark key="'" line="419" column="0" />
         <mark key="[" line="961" column="37" />
@@ -73,9 +70,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="164" column="36" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/huobi.py" timestamp="1462774674372">
-        <mark key="'" line="144" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/sina_cookie.json" timestamp="1462703955957">
         <mark key="'" line="0" column="0" />
@@ -107,9 +101,6 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/Makefile" timestamp="1462670047876">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" timestamp="1462846338983">
         <mark key="'" line="13" column="19" />
         <mark key="[" line="847" column="0" />
@@ -126,10 +117,10 @@
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" timestamp="1462856040758">
         <mark key="'" line="462" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462893541671">
-        <mark key="'" line="90" column="4" />
-        <mark key="[" line="436" column="0" />
-        <mark key="]" line="436" column="16" />
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462934482841">
+        <mark key="'" line="987" column="0" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="229" column="20" />
         <mark key="." line="436" column="16" />
       </file>
       <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/metric.py" timestamp="1462784464701">
@@ -158,12 +149,21 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" timestamp="1462936071215">
+        <mark key="'" line="364" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/tests/test_okcoin_place_lot_order.py" timestamp="1462893016360">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket_api_test.py" timestamp="1462931515262">
+        <mark key="^" line="64" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/github/logentries/le/src/le.py" timestamp="1462681577627">
         <mark key="'" line="1176" column="45" />
@@ -195,33 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="485" column="4" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="476" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="100" column="22" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="417" column="25" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
-      <jump line="178" column="12" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="216" column="4" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="350" column="41" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/sina_cookie.json" />
-      <jump line="288" column="19" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="269" column="14" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="326" column="25" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="233" column="16" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="229" column="24" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="248" column="31" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="190" column="16" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="47" column="25" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="293" column="35" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="265" column="24" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="35" column="9" filename="$USER_HOME$/Dropbox/code/weibo-crawler/id_map.py" />
-      <jump line="5678" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/id_map.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/jingyuan_entry.py" />
-      <jump line="19" column="30" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
-      <jump line="23" column="27" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
-      <jump line="436" column="35" filename="$USER_HOME$/Dropbox/code/weibo-crawler/wb.py" />
-      <jump line="857" column="4" filename="$USER_HOME$/Dropbox/code/weibo-crawler/wb.py" />
       <jump line="852" column="17" filename="$USER_HOME$/Dropbox/code/weibo-crawler/wb.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
@@ -295,22 +268,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" />
       <jump line="913" column="36" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" />
       <jump line="1012" column="8" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket_api_test.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket_api_test.py" />
+      <jump line="461" column="53" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="24" column="16" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket_api_test.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="987" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
+      <jump line="35" column="25" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket_api_test.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket_api_test.py" />
+      <jump line="41" column="37" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket_api_test.py" />
+      <jump line="473" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="451" column="27" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="160" column="44" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="188" column="10" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="148" column="14" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="180" column="67" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="231" column="29" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="204" column="8" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="577" column="25" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="247" column="20" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="194" column="30" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="146" column="40" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="912" column="16" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="906" column="16" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="118" column="34" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="202" column="19" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="156" column="15" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="364" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLmVuc3VyZV9mdXR1cmUoZm9yZXZlcl9sb29wKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>continue_loop</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxID0gZGVmYXVsdGRpY3QobGlzdCkgICMgdHlwZTogRGljdFtPa2NvbUZ1dHVyZUNvbnRyYWN0LCBMaXN0W09yZGVyXV0KICAgICAgICAgICAgcmVmX2tleXMgPSBzZWxmLmFsaXZlX3JlZl9rZXlzWzpdCgogICAgICAgICAgICBmb3IgcmVmX2tleSBpbiByZWZfa2V5czoKICAgICAgICAgICAgICAgIG9yZGVyID0gc2VsZi5vcmRlcl9wb29sLmZldGNoKHJlZl9rZXksIGNyZWF0ZT1GYWxzZSkKICAgICAgICAgICAgICAgIGxvY2FsX2NvbiA9IE9rQ29udHJhY3QuY29udmVydChvcmRlci5jb250cmFjdCkKICAgICAgICAgICAgICAgIGlmIG9yZGVyLmVudHJ1c3Rfbm86CiAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnYXBwZW5kIG9yZGVyIHt9Jy5mb3JtYXQob3JkZXIpKQogICAgICAgICAgICAgICAgICAgIHJlcVtsb2NhbF9jb25dLmFwcGVuZChvcmRlcikKCiAgICAgICAgICAgIGZvciBsb2NhbF9jb24sIHYgaW4gcmVxLml0ZW1zKCk6CgogICAgICAgICAgICAgICAganMgPSBhd2FpdCBzZWxmLmdldF9jb250cmFjdF9wZW5kaW5nX2xpc3QobG9jYWxfY29uKQogICAgICAgICAgICAgICAgcGVuZGluZ19rZXlzID0gdXBkYXRlX29yZGVyX3VzZV9qcyhqcykKICAgICAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoJ3BlbmRpbmcga2V5cyB7fScuZm9ybWF0KFt4Wzo0XSBmb3IgeCBpbiBwZW5kaW5nX2tleXNdKSkKCiAgICAgICAgICAgICAgICBmaW5pc2hlZF9vcmRlcnMgPSBzZXQoKQogICAgICAgICAgICAgICAgZm9yIG9yZGVyIGluIHY6CiAgICAgICAgICAgICAgICAgICAgaWYgb3JkZXIucmVmX2tleSBub3QgaW4gcGVuZGluZ19rZXlzOgogICAgICAgICAgICAgICAgICAgICAgICBmaW5pc2hlZF9vcmRlcnMuYWRkKG9yZGVyKQogICAgICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnZmluaXNoZWQga2V5cyB7fScuZm9ybWF0KFtvLnJlZl9rZXlbOjRdIGZvciBvIGluIGZpbmlzaGVkX29yZGVyc10pKQogICAgICAgICAgICAgICAgaWYgbm90IGZpbmlzaGVkX29yZGVyczoKICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdhbGwgb3JkZXJzIGFyZSBwZW5kaW5nJykKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgICAgICMgRklYTUUgZnV0dXJlIG9yZGVycyBpbmZvIHNlZW1zIG9ubHkgY2FuIHJldHVybiBkZWFsZWQgb3JkZXIsIGl0J3MgYnVnZ3kKICAgICAgICAgICAgICAgIHBhcmFtcyA9IHsnc3ltYm9sJzogbG9jYWxfY29uLmxvY2FsX3N5bWJvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAnY29udHJhY3RfdHlwZSc6IGxvY2FsX2Nvbi5kZWxpdmVyeSwKICAgICAgICAgICAgICAgICAgICAgICAgICAnb3JkZXJfaWQnOiAnLCcuam9pbihvcmRlci5lbnRydXN0X25vIGZvciBvcmRlciBpbiBmaW5pc2hlZF9vcmRlcnMpfQogICAgICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnY2FsbCBmdXR1cmUgb3JkZXJzIGluZm8gcGFyYW1zIHt9Jy5mb3JtYXQocGFyYW1zKSkKICAgICAgICAgICAgICAgIGpzID0gYXdhaXQgc2VsZi5hcGlfY2FsbF9wb3N0KCdmdXR1cmVfb3JkZXJzX2luZm8nLCBwYXJhbXMpCiAgICAgICAgICAgICAgICB1cGRhdGVfb3JkZXJfdXNlX2pzKGpzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT0tfRlVUVVJFVVNEX09SREVSSU5GTzogYXN5bmNpby5RdWV1ZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLmVuc3VyZV9mdXR1cmUoZm9yZXZlcl9sb29wKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -326,37 +326,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luYyBkZWYgZm9yZXZlcl9sb29wKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZGF0YQo=</text>
       </register>
       <register name="3" type="4">
-        <text>continue_loop</text>
+        <text>print</text>
       </register>
       <register name="4" type="4">
-        <text>continue_loop</text>
+        <text>print</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luYyBkZWYgZ2V0X2NvbnRyYWN0X3BlbmRpbmdfbGlzdChzZWxmLCBsb2NhbF9jb246IE9rY29tRnV0dXJlQ29udHJhY3QpOgogICAgICAgICAgICAiIiIKICAgICAgICAgICAgcmV0dXJuIGFsbCB0aGUgY29udHJhY3QgYXNzb2NpYXRlZCB3aXRoIHRoZSBjb250cmFjdAoKICAgICAgICAgICAgOnBhcmFtIGxvY2FsX2NvbjoKICAgICAgICAgICAgOnJldHVybjoKICAgICAgICAgICAgIiIiCiAgICAgICAgICAgIHJ0biA9IHsnb3JkZXJzJzogW10sICdjb3JyZWN0JzogVHJ1ZX0KICAgICAgICAgICAgZm9yIHBhZ2UgaW4gcmFuZ2UoMSwgMTAwMDAwKToKICAgICAgICAgICAgICAgIHBhcmFtcyA9IHsnc3RhdHVzJzogMSwgICMgdW5maW5pc2hlZCBvcmRlcgogICAgICAgICAgICAgICAgICAgICAgICAgICdzeW1ib2wnOiBsb2NhbF9jb24ubG9jYWxfc3ltYm9sLAogICAgICAgICAgICAgICAgICAgICAgICAgICdjb250cmFjdF90eXBlJzogbG9jYWxfY29uLmRlbGl2ZXJ5LCAgIyC6z9S8wODQzTogdGhpc193ZWVrOrWx1twgICBuZXh0X3dlZWs6z8LW3CAgIHF1YXJ0ZXI6vL62yAogICAgICAgICAgICAgICAgICAgICAgICAgICdjdXJyZW50X3BhZ2UnOiBwYWdlLAogICAgICAgICAgICAgICAgICAgICAgICAgICdvcmRlcl9pZCc6IC0xLAogICAgICAgICAgICAgICAgICAgICAgICAgICdwYWdlX2xlbmd0aCc6IDUwfQogICAgICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnY2FsbCBmdXR1cmUgcGVuZGluZyBvcmRlcnMnLmZvcm1hdChwYXJhbXMpKQogICAgICAgICAgICAgICAganMgPSBhd2FpdCBzZWxmLmFwaV9jYWxsX3Bvc3QoJ2Z1dHVyZV9vcmRlcl9pbmZvJywgcGFyYW1zKQogICAgICAgICAgICAgICAgaWYganNbJ3Jlc3VsdCddID09IFRydWUgYW5kIGxlbihqc1snb3JkZXJzJ10pOgogICAgICAgICAgICAgICAgICAgIHJ0blsnb3JkZXJzJ10uZXh0ZW5kKGpzWydvcmRlcnMnXSkKICAgICAgICAgICAgICAgICAgICBpZiBsZW4oanNbJ29yZGVycyddKSA8IDUwOgogICAgICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdsZXNzIHRoYW4gNTAgaXRlbXMgZ2V0IGluIHBhZ2Uge30gZXhpdCcuZm9ybWF0KHBhZ2UpKQogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdub3RoaW5nIGdldCBpbiBwYWdlIHt9Jy5mb3JtYXQocGFnZSkpCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgcmV0dXJuIHJ0bgo=</text>
+      <register name="5" type="4">
+        <text>print</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGRlZiBnZXRfY29udHJhY3RfcGVuZGluZ19saXN0KHNlbGYsIGxvY2FsX2NvbjogT2tjb21GdXR1cmVDb250cmFjdCk6CiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIGFsbCB0aGUgY29udHJhY3QgYXNzb2NpYXRlZCB3aXRoIHRoZSBjb250cmFjdAoKICAgICAgICA6cGFyYW0gbG9jYWxfY29uOgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIiCiAgICAgICAgcnRuID0geydvcmRlcnMnOiBbXSwgJ2NvcnJlY3QnOiBUcnVlfQogICAgICAgIGZvciBwYWdlIGluIHJhbmdlKDEsIDEwMDAwMCk6CiAgICAgICAgICAgIHBhcmFtcyA9IHsnc3RhdHVzJzogMSwgICMgdW5maW5pc2hlZCBvcmRlcgogICAgICAgICAgICAgICAgICAgICAgJ3N5bWJvbCc6IGxvY2FsX2Nvbi5sb2NhbF9zeW1ib2wsCiAgICAgICAgICAgICAgICAgICAgICAnY29udHJhY3RfdHlwZSc6IGxvY2FsX2Nvbi5kZWxpdmVyeSwgICMgus/UvMDg0M06IHRoaXNfd2Vlazq1sdbcICAgbmV4dF93ZWVrOs/C1twgICBxdWFydGVyOry+tsgKICAgICAgICAgICAgICAgICAgICAgICdjdXJyZW50X3BhZ2UnOiBwYWdlLAogICAgICAgICAgICAgICAgICAgICAgJ29yZGVyX2lkJzogLTEsCiAgICAgICAgICAgICAgICAgICAgICAncGFnZV9sZW5ndGgnOiA1MH0KICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnY2FsbCBmdXR1cmUgcGVuZGluZyBvcmRlcnMnLmZvcm1hdChwYXJhbXMpKQogICAgICAgICAgICBqcyA9IGF3YWl0IHNlbGYuYXBpX2NhbGxfcG9zdCgnZnV0dXJlX29yZGVyX2luZm8nLCBwYXJhbXMpCiAgICAgICAgICAgIGlmIGpzWydyZXN1bHQnXSA9PSBUcnVlIGFuZCBsZW4oanNbJ29yZGVycyddKToKICAgICAgICAgICAgICAgIHJ0blsnb3JkZXJzJ10uZXh0ZW5kKGpzWydvcmRlcnMnXSkKICAgICAgICAgICAgICAgIGlmIGxlbihqc1snb3JkZXJzJ10pIDwgNTA6CiAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnbGVzcyB0aGFuIDUwIGl0ZW1zIGdldCBpbiBwYWdlIHt9IGV4aXQnLmZvcm1hdChwYWdlKSkKICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbG9nZ2luZy5kZWJ1Zygnbm90aGluZyBnZXQgaW4gcGFnZSB7fScuZm9ybWF0KHBhZ2UpKQogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICByZXR1cm4gcnRuCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGxzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHJlcSA9IGRlZmF1bHRkaWN0KGxpc3QpICAjIHR5cGU6IERpY3RbVHVwbGUoKSwgTGlzdFtPcmRlcl1dCiAgICAgICAgICAgIHJlZl9rZXlzID0gc2VsZi5hbGl2ZV9yZWZfa2V5c1s6XQoKICAgICAgICAgICAgZm9yIHJlZl9rZXkgaW4gcmVmX2tleXM6CiAgICAgICAgICAgICAgICBvcmRlciA9IHNlbGYub3JkZXJfcG9vbC5mZXRjaChyZWZfa2V5LCBjcmVhdGU9RmFsc2UpCiAgICAgICAgICAgICAgICBsb2NhbF9jb24gPSBPa0NvbnRyYWN0LmNvbnZlcnQob3JkZXIuY29udHJhY3QpCiAgICAgICAgICAgICAgICBpZiBvcmRlci5lbnRydXN0X25vOgogICAgICAgICAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoJ2FwcGVuZCBvcmRlciB7fScuZm9ybWF0KG9yZGVyKSkKICAgICAgICAgICAgICAgICAgICByZXFbKGxvY2FsX2Nvbi5sb2NhbF9zeW1ib2wsIGxvY2FsX2Nvbi5kZWxpdmVyeSldLmFwcGVuZChvcmRlcikKCiAgICAgICAgICAgIGZvciBrLCB2IGluIHJlcS5pdGVtcygpOgogICAgICAgICAgICAgICAgIyBhc3NlcnQgbGVuKHYpIDwgNTAsICdwZW5kaW5nIGxpc3QgdG9vIGxhcmdlLCBuZWVkIG5ldyBwcm9ncmFtIHRvIGhhbmRsZScKCiAgICAgICAgICAgICAgICBwYXJhbXMgPSB7J3N0YXR1cyc6IDEsICAjIHVuZmluaXNoZWQgb3JkZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAnc3ltYm9sJzoga1swXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAnY29udHJhY3RfdHlwZSc6IGtbMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ2N1cnJlbnRfcGFnZSc6IDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ29yZGVyX2lkJzogLTEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ3BhZ2VfbGVuZ3RoJzogNTB9CiAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdjYWxsIGZ1dHVyZSBwZW5kaW5nIG9yZGVycycuZm9ybWF0KHBhcmFtcykpCiAgICAgICAgICAgICAgICBqcyA9IGF3YWl0IHNlbGYuYXBpX2NhbGxfcG9zdCgnZnV0dXJlX29yZGVyX2luZm8nLCBwYXJhbXMpCiAgICAgICAgICAgICAgICBwZW5kaW5nX2tleXMgPSB1cGRhdGVfb3JkZXJfdXNlX2pzKGpzKQogICAgICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygncGVuZGluZyBrZXlzIHt9Jy5mb3JtYXQoW3hbOjRdIGZvciB4IGluIHBlbmRpbmdfa2V5c10pKQoKICAgICAgICAgICAgICAgIGZpbmlzaGVkX29yZGVycyA9IHNldCgpCiAgICAgICAgICAgICAgICBmb3Igb3JkZXIgaW4gdjoKICAgICAgICAgICAgICAgICAgICBpZiBvcmRlci5yZWZfa2V5IG5vdCBpbiBwZW5kaW5nX2tleXM6CiAgICAgICAgICAgICAgICAgICAgICAgIGZpbmlzaGVkX29yZGVycy5hZGQob3JkZXIpCiAgICAgICAgICAgICAgICAgICAgICAgICMgcHJvY2VzcyA0MCBvcmRlcnMgaW4gYSBiYXRjaAogICAgICAgICAgICAgICAgICAgICAgICBpZiBsZW4oZmluaXNoZWRfb3JkZXJzKSA+IDQwOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgIGxvZ2dpbmcuZGVidWcoJ2ZpbmlzaGVkIGtleXMge30nLmZvcm1hdChbby5yZWZfa2V5Wzo0XSBmb3IgbyBpbiBmaW5pc2hlZF9vcmRlcnNdKSkKICAgICAgICAgICAgICAgIGlmIG5vdCBmaW5pc2hlZF9vcmRlcnM6CiAgICAgICAgICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnYWxsIG9yZGVycyBhcmUgcGVuZGluZycpCiAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICAjIEZJWE1FIGZ1dHVyZSBvcmRlcnMgaW5mbyBzZWVtcyBvbmx5IGNhbiByZXR1cm4gZGVhbGVkIG9yZGVyLCBpdCdzIGJ1Z2d5CiAgICAgICAgICAgICAgICBwYXJhbXMgPSB7J3N5bWJvbCc6IGtbMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbnRyYWN0X3R5cGUnOiBrWzFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICdvcmRlcl9pZCc6ICcsJy5qb2luKG9yZGVyLmVudHJ1c3Rfbm8gZm9yIG9yZGVyIGluIGZpbmlzaGVkX29yZGVycyl9CiAgICAgICAgICAgICAgICBsb2dnaW5nLmRlYnVnKCdjYWxsIGZ1dHVyZSBvcmRlcnMgaW5mbyBwYXJhbXMge30nLmZvcm1hdChwYXJhbXMpKQogICAgICAgICAgICAgICAganMgPSBhd2FpdCBzZWxmLmFwaV9jYWxsX3Bvc3QoJ2Z1dHVyZV9vcmRlcnNfaW5mbycsIHBhcmFtcykKICAgICAgICAgICAgICAgIHVwZGF0ZV9vcmRlcl91c2VfanMoanMpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGJ0YywgbHRjKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCBsZW4odikgPCA1MCwgJ3BlbmRpbmcgbGlzdCB0b28gbGFyZ2UsIG5lZWQgbmV3IHByb2dyYW0gdG8gaGFuZGxlJwo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGFjY19yaWdodHMpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>finished_orders</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGpzb24uZHVtcHMoanMsIGluZGVudD00KSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindPrevious</text>
+        <text>action FindNext</text>
       </register>
     </registers>
     <search>
       <last-search encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -366,9 +368,9 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZE5leHQ=</entry>
-        <entry>action FindNext</entry>
-        <entry>action HighlightUsagesInFile</entry>
         <entry>action FindPrevious</entry>
+        <entry>action HighlightUsagesInFile</entry>
+        <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -412,6 +414,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
