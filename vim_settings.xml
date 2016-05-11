@@ -50,6 +50,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/util.py" timestamp="1462940673436">
+        <mark key="'" line="624" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462583387442">
         <mark key="'" line="419" column="0" />
         <mark key="[" line="961" column="37" />
@@ -149,19 +152,19 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" timestamp="1462938353947">
-        <mark key="'" line="654" column="35" />
-        <mark key="[" line="992" column="38" />
-        <mark key="]" line="992" column="38" />
-        <mark key="." line="992" column="38" />
-        <mark key="^" line="174" column="48" />
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" timestamp="1462941346956">
+        <mark key="'" line="78" column="6" />
+        <mark key="[" line="658" column="89" />
+        <mark key="]" line="658" column="89" />
+        <mark key="." line="658" column="89" />
+        <mark key="^" line="271" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/tests/test_okcoin_place_lot_order.py" timestamp="1462893016360">
-        <mark key="'" line="8" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/tests/test_okcoin_place_lot_order.py" timestamp="1462941381543">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket_api_test.py" timestamp="1462931515262">
         <mark key="^" line="64" column="25" />
@@ -196,11 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
-      <jump line="21" column="26" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
-      <jump line="57" column="16" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
-      <jump line="246" column="45" filename="$USER_HOME$/Dropbox/code/quantlib/huatai.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/learn/wow10.py" />
       <jump line="140" column="15" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
       <jump line="412" column="28" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
       <jump line="12" column="62" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
@@ -296,22 +294,27 @@
       <jump line="364" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
       <jump line="173" column="43" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
       <jump line="654" column="35" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="995" column="21" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="78" column="6" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" />
+      <jump line="12" column="31" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/tests/test_okcoin_place_lot_order.py" />
+      <jump line="652" column="10" filename="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/util.py" />
+      <jump line="624" column="0" filename="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoYXdhaXQgYWNjLnBsYWNlX29yZGVyKGNvbiwgcCAtIDEwLCAnYicsIDIpKQogICAgIyBwcmludChhd2FpdCBhY2MucGxhY2Vfb3JkZXIoY29uLCBwICsgMTAsICdzJywgMSkpCg==</text>
+        <text encoding="base64">ICAgICMgZm9yIGkgaW4gcmFuZ2UoMTAwKToKICAgICMgICAgIGFzeW5jaW8uZW5zdXJlX2Z1dHVyZShhY2MucGxhY2Vfb3JkZXIoY29uLCBwcmljZSAtIDEwLCAnYicsIDEsIHV0aWwucmFuZF9yZWZfa2V5KCkpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -327,28 +330,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IC0g</text>
       </register>
       <register name="4" type="4">
-        <text>+</text>
+        <text>str</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>100</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGluIFsnYnRjJywgJ2x0YyddCg==</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>100</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
