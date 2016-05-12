@@ -66,10 +66,9 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/clean_position.py" timestamp="1463020370633">
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/clean_position.py" timestamp="1463022233140">
         <mark key="'" line="23" column="20" />
         <mark key="[" line="4" column="70" />
-        <mark key="]" line="4" column="70" />
         <mark key="." line="4" column="70" />
         <mark key="^" line="2" column="13" />
       </file>
@@ -281,7 +280,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>i
+
+
+async def main(comp):
+    keep1 = yaml.load(open('../config/sse.yml', encoding='utf8').read())['contract-list']
+    keep2 = yaml.load(open('../config/sze.yml', encoding='utf8').read())['contract-list']
+    keep = [*keep1, *keep2]
+    print(keep)</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -293,7 +299,14 @@
         <text encoding="base64">ICAgIGtlZXAxID0geWFtbC5sb2FkKG9wZW4oJy4uL2NvbmZpZy9zc2UueW1sJywgZW5jb2Rpbmc9J3V0ZjgnKS5yZWFkKCkpWydjb250cmFjdC1saXN0J10K</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>i
+
+
+async def main(comp):
+    keep1 = yaml.load(open('../config/sse.yml', encoding='utf8').read())['contract-list']
+    keep2 = yaml.load(open('../config/sze.yml', encoding='utf8').read())['contract-list']
+    keep = [*keep1, *keep2]
+    print(keep)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -309,28 +322,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
         <text>logging</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>available</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChjb24sIFRpY2tlckFwaS5nZXRfbGFzdChjb24pLnByaWNlKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KGtlZXApCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>t</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action HighlightUsagesInFile</text>
