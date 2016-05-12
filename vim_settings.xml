@@ -17,19 +17,8 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-subscribe-redis/sub_persist_elasticsearch.py" timestamp="1462847813915">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="54" />
-        <mark key="." line="7" column="54" />
-        <mark key="^" line="7" column="54" />
-      </file>
       <file name="/Python Console" timestamp="1462971807317">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1462943994378">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/huobi.py" timestamp="1462792922630">
         <mark key="'" line="112" column="33" />
@@ -55,13 +44,14 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1462975528734">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="12" />
-        <mark key="." line="54" column="12" />
-        <mark key="^" line="57" column="26" />
+      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" timestamp="1463019426369">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="8" />
+        <mark key="." line="59" column="8" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/tasks/clean_position.py" timestamp="1463018630818" />
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/config/mm_yaml/159935.yml" timestamp="1463018344130" />
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462943864183">
         <mark key="'" line="419" column="0" />
         <mark key="[" line="961" column="37" />
@@ -69,17 +59,19 @@
         <mark key="." line="961" column="37" />
         <mark key="^" line="961" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-smart-market-order/reg.py" timestamp="1462943891738">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="199" column="42" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/test_huatai_backend.py" timestamp="1462848548635">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/clean_position.py" timestamp="1463020370633">
+        <mark key="'" line="23" column="20" />
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="4" column="70" />
+        <mark key="." line="4" column="70" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/quote.py" timestamp="1462945032785">
         <mark key="'" line="96" column="18" />
@@ -93,11 +85,11 @@
         <mark key="." line="275" column="0" />
         <mark key="^" line="275" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1462974058630">
-        <mark key="[" line="498" column="7" />
-        <mark key="]" line="498" column="10" />
-        <mark key="." line="498" column="10" />
-        <mark key="^" line="498" column="10" />
+      <file name="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" timestamp="1463021392081">
+        <mark key="'" line="203" column="0" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/tests/pytest-collections/test-persist.py" timestamp="1462846384348">
         <mark key="'" line="13" column="128" />
@@ -106,14 +98,8 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1463018133920">
+      <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" timestamp="1463018325790">
         <mark key="'" line="137" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/quantlib/readme.md" timestamp="1462854737900">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/jingyuan_user.py" timestamp="1462971237772">
         <mark key="'" line="311" column="4" />
@@ -122,30 +108,12 @@
         <mark key="'" line="13" column="19" />
         <mark key="[" line="862" column="149" />
       </file>
-      <file name="$USER_HOME$/Anaconda3/Lib/site-packages/qbtrade-0.1.1-py3.5.egg/qbtrade/metric.py" timestamp="1462784464701">
-        <mark key="[" line="0" column="88" />
-        <mark key="]" line="0" column="87" />
-        <mark key="^" line="0" column="87" />
-        <mark key="." line="0" column="87" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" timestamp="1462846375129">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="56" />
         <mark key="." line="44" column="54" />
         <mark key="^" line="44" column="54" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-smart-market-order/regist_service.py" timestamp="1462943960841">
-        <mark key="[" line="96" column="10" />
-        <mark key="]" line="96" column="13" />
-        <mark key="." line="96" column="13" />
-        <mark key="^" line="96" column="13" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/elasticsearch.py" timestamp="1462846483308">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/config.yaml" timestamp="1462534799483">
         <mark key="'" line="8" column="8" />
@@ -158,7 +126,7 @@
         <mark key="'" line="610" column="0" />
         <mark key="^" line="271" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-smart-market-order/regist.py" timestamp="1463013770679">
+      <file name="$USER_HOME$/Dropbox/code/qb-smart-market-order/regist.py" timestamp="1463020793575">
         <mark key="'" line="37" column="36" />
         <mark key="[" line="58" column="41" />
         <mark key="]" line="58" column="43" />
@@ -210,13 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="27" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/cn-mm.py" />
-      <jump line="283" column="34" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
-      <jump line="555" column="8" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
-      <jump line="239" column="17" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/fetch_rt_ticker.py" />
-      <jump line="270" column="4" filename="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/fetch_rt_ticker.py" />
-      <jump line="21" column="27" filename="$USER_HOME$/Dropbox/code/quantlib/tasks/daemon/fetch_rt_ticker.py" />
       <jump line="67" column="12" filename="$USER_HOME$/Dropbox/code/quantlib/btc/bitvc.py" />
       <jump line="90" column="4" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" />
@@ -310,22 +271,29 @@
       <jump line="41" column="44" filename="$USER_HOME$/Dropbox/code/qb-smart-market-order/place_smart_market_order.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/code/qb-smart-market-order/place_smart_market_order.py" />
       <jump line="46" column="12" filename="$USER_HOME$/Dropbox/code/qb-smart-market-order/place_smart_market_order.py" />
+      <jump line="450" column="13" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
+      <jump line="203" column="0" filename="$USER_HOME$/Dropbox/code/weibo-crawler/user_func.py" />
+      <jump line="55" column="14" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="64" column="14" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
+      <jump line="5" column="26" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/clean_position.py" />
+      <jump line="23" column="20" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/clean_position.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJjLmRlbGV0ZSgndXNlcjp7fTpkY3QnLmZvcm1hdCh1aWQpKQo=</text>
+        <text encoding="base64">ICAgIGtlZXAxID0geWFtbC5sb2FkKG9wZW4oJy4uL2NvbmZpZy9zc2UueW1sJywgZW5jb2Rpbmc9J3V0ZjgnKS5yZWFkKCkpWydjb250cmFjdC1saXN0J10K</text>
       </register>
       <register name="1" type="4">
-        <text>}</text>
+        <text>,</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -341,28 +309,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>account_rpc_</text>
+        <text>logging</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WwogIHsKICAgICJkb21haW4iOiAiLndlaWJvLmNvbSIsCiAgICAiaG9zdE9ubHkiOiBmYWxzZSwKICAgICJodHRwT25seSI6IGZhbHNlLAogICAgIm5hbWUiOiAiX3NfdGVudHJ5IiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiB0cnVlLAogICAgInN0b3JlSWQiOiAiMCIsCiAgICAidmFsdWUiOiAibmV0d29yay41MWN0by5jb20iLAogICAgImlkIjogMQogIH0sCiAgewogICAgImRvbWFpbiI6ICIud2VpYm8uY29tIiwKICAgICJleHBpcmF0aW9uRGF0ZSI6IDE0OTQ1MDU5MTUuNDQzMjE1LAogICAgImhvc3RPbmx5IjogZmFsc2UsCiAgICAiaHR0cE9ubHkiOiBmYWxzZSwKICAgICJuYW1lIjogIkFMRiIsCiAgICAicGF0aCI6ICIvIiwKICAgICJzZWN1cmUiOiBmYWxzZSwKICAgICJzZXNzaW9uIjogZmFsc2UsCiAgICAic3RvcmVJZCI6ICIwIiwKICAgICJ2YWx1ZSI6ICIxNDk0NTA1OTE1IiwKICAgICJpZCI6IDIKICB9LAogIHsKICAgICJkb21haW4iOiAiLndlaWJvLmNvbSIsCiAgICAiaG9zdE9ubHkiOiBmYWxzZSwKICAgICJodHRwT25seSI6IGZhbHNlLAogICAgIm5hbWUiOiAiQXBhY2hlIiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiB0cnVlLAogICAgInN0b3JlSWQiOiAiMCIsCiAgICAidmFsdWUiOiAiMTQyNzg1MjQzMTYxMy42Nzg3LjE0NjI5Njk5MTc5ODAiLAogICAgImlkIjogMwogIH0sCiAgewogICAgImRvbWFpbiI6ICIud2VpYm8uY29tIiwKICAgICJleHBpcmF0aW9uRGF0ZSI6IDE0NjUyOTUzNzcuNDU1MjE1LAogICAgImhvc3RPbmx5IjogZmFsc2UsCiAgICAiaHR0cE9ubHkiOiBmYWxzZSwKICAgICJuYW1lIjogIm15dWlkIiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiBmYWxzZSwKICAgICJzdG9yZUlkIjogIjAiLAogICAgInZhbHVlIjogIjU5MDExMjA1MjAiLAogICAgImlkIjogNAogIH0sCiAgewogICAgImRvbWFpbiI6ICIud2VpYm8uY29tIiwKICAgICJleHBpcmF0aW9uRGF0ZSI6IDE3NzgwNjMyMTUsCiAgICAiaG9zdE9ubHkiOiBmYWxzZSwKICAgICJodHRwT25seSI6IGZhbHNlLAogICAgIm5hbWUiOiAiU0lOQUdMT0JBTCIsCiAgICAicGF0aCI6ICIvIiwKICAgICJzZWN1cmUiOiBmYWxzZSwKICAgICJzZXNzaW9uIjogZmFsc2UsCiAgICAic3RvcmVJZCI6ICIwIiwKICAgICJ2YWx1ZSI6ICI1ODczNzg4MTc2ODMyLjYzMy4xNDYyNzAzMjE1MzIyIiwKICAgICJpZCI6IDUKICB9LAogIHsKICAgICJkb21haW4iOiAiLndlaWJvLmNvbSIsCiAgICAiaG9zdE9ubHkiOiBmYWxzZSwKICAgICJodHRwT25seSI6IGZhbHNlLAogICAgIm5hbWUiOiAiU1NPTG9naW5TdGF0ZSIsCiAgICAicGF0aCI6ICIvIiwKICAgICJzZWN1cmUiOiBmYWxzZSwKICAgICJzZXNzaW9uIjogdHJ1ZSwKICAgICJzdG9yZUlkIjogIjAiLAogICAgInZhbHVlIjogIjE0NjI5Njk5MTYiLAogICAgImlkIjogNgogIH0sCiAgewogICAgImRvbWFpbiI6ICIud2VpYm8uY29tIiwKICAgICJob3N0T25seSI6IGZhbHNlLAogICAgImh0dHBPbmx5IjogdHJ1ZSwKICAgICJuYW1lIjogIlNVQiIsCiAgICAicGF0aCI6ICIvIiwKICAgICJzZWN1cmUiOiBmYWxzZSwKICAgICJzZXNzaW9uIjogdHJ1ZSwKICAgICJzdG9yZUlkIjogIjAiLAogICAgInZhbHVlIjogIl8yQTI1Nk4xWnNEZVR4R2VOSDZWTVY4eTdQd2ptSUhYVlpSY0NrckRWOFBVTmJ2dEJlTFJtc2tXOUxIZXM5Y2kwUkgwMFZXbEg5RG9waDI5cThYN1hQaUEuLiIsCiAgICAiaWQiOiA3CiAgfSwKICB7CiAgICAiZG9tYWluIjogIi53ZWliby5jb20iLAogICAgImV4cGlyYXRpb25EYXRlIjogMTQ5NDUwNTkxNi40NDI5OTEsCiAgICAiaG9zdE9ubHkiOiBmYWxzZSwKICAgICJodHRwT25seSI6IGZhbHNlLAogICAgIm5hbWUiOiAiU1VCUCIsCiAgICAicGF0aCI6ICIvIiwKICAgICJzZWN1cmUiOiBmYWxzZSwKICAgICJzZXNzaW9uIjogZmFsc2UsCiAgICAic3RvcmVJZCI6ICIwIiwKICAgICJ2YWx1ZSI6ICIwMDMzV3JTWHFQeGZNNzI1V3M5anFnTUY1NTUyOVA5RDlXaDhlRVNMRld3VC1HTEJsZm5YT05JWTVKcFg1S01oVWdMLkZvLTRlbzJYZTA1MDFLLXQiLAogICAgImlkIjogOAogIH0sCiAgewogICAgImRvbWFpbiI6ICIud2VpYm8uY29tIiwKICAgICJob3N0T25seSI6IGZhbHNlLAogICAgImh0dHBPbmx5IjogdHJ1ZSwKICAgICJuYW1lIjogIlNVRSIsCiAgICAicGF0aCI6ICIvIiwKICAgICJzZWN1cmUiOiBmYWxzZSwKICAgICJzZXNzaW9uIjogdHJ1ZSwKICAgICJzdG9yZUlkIjogIjAiLAogICAgInZhbHVlIjogImVzJTNEMDg2NGI3NjI3YTBkMjIwMzUwZTEzY2YzMGM4MzM5OWYlMjZldiUzRHYxJTI2ZXMyJTNENGY0YjYxMmVjMjJkMTY3ZDY0NzQyMzQxMWNmMDJiY2QlMjZyczAlM0Q1dEdZbU5HVFRpYjJkSUZuaHE2V0JtSUFFVGlWRFE4NEFyMHY4MiUyNTJCRnl3a0g0JTI1MkI4a2RNS00lMjUyRlYlMjUyQmNWYVA4N05xYzAzVVhjNlh4blVXYU0lMjUyQm16R2hYa2ltM001QVRQT241c05QZ2xaZUZTJTI1MkZ4cDg0VkFYbUR0NUtwd2JmN2w2SlhWMExpMUJnTlNBaTlyVEh5WWl0JTI1MkJTVFkxZUMxT0p3d3h0ZWZPSyUyNTJCaXE2Ym9yWSUyNTNEJTI2cnYlM0QwIiwKICAgICJpZCI6IDkKICB9LAogIHsKICAgICJkb21haW4iOiAiLndlaWJvLmNvbSIsCiAgICAiZXhwaXJhdGlvbkRhdGUiOiAxNDk0NTA1OTE2LjQ0MzAzMywKICAgICJob3N0T25seSI6IGZhbHNlLAogICAgImh0dHBPbmx5IjogZmFsc2UsCiAgICAibmFtZSI6ICJTVUhCIiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiBmYWxzZSwKICAgICJzdG9yZUlkIjogIjAiLAogICAgInZhbHVlIjogIjBsYVZ0a2puVU12ZktBIiwKICAgICJpZCI6IDEwCiAgfSwKICB7CiAgICAiZG9tYWluIjogIi53ZWliby5jb20iLAogICAgImhvc3RPbmx5IjogZmFsc2UsCiAgICAiaHR0cE9ubHkiOiBmYWxzZSwKICAgICJuYW1lIjogIlNVUCIsCiAgICAicGF0aCI6ICIvIiwKICAgICJzZWN1cmUiOiBmYWxzZSwKICAgICJzZXNzaW9uIjogdHJ1ZSwKICAgICJzdG9yZUlkIjogIjAiLAogICAgInZhbHVlIjogImN2JTNEMSUyNmJ0JTNEMTQ2Mjk2OTkxNiUyNmV0JTNEMTQ2MzA1NjMxNiUyNmQlM0RjOTA5JTI2aSUzRGQ1NTklMjZ1cyUzRDElMjZ2ZiUzRDAlMjZ2dCUzRDAlMjZhYyUzRDI3JTI2c3QlM0QwJTI2dWlkJTNENTkyMTQzMDM5NSUyNm5hbWUlM0R0YW5nZ2F2OTE2OTIlMjU0MDE2My5jb20lMjZuaWNrJTNEJTI1RTUlMjVCMCUyNTgxJTI1RTYlMjU5OSUyNUE4JTI1RTYlMjVCNyUyNUE0JTI1RTUlMjU5MiUyNTgwJTI1RTUlMjVBMCUyNUI1JTI2Zm1wJTNEJTI2bGNwJTNEIiwKICAgICJpZCI6IDExCiAgfSwKICB7CiAgICAiZG9tYWluIjogIi53ZWliby5jb20iLAogICAgImhvc3RPbmx5IjogZmFsc2UsCiAgICAiaHR0cE9ubHkiOiB0cnVlLAogICAgIm5hbWUiOiAiU1VTIiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiB0cnVlLAogICAgInN0b3JlSWQiOiAiMCIsCiAgICAidmFsdWUiOiAiU0lELTU5MjE0MzAzOTUtMTQ2Mjk2OTkxNi1HWi11bmNxdC05YTI0ODE0MTMyN2M3YWU0NTYwZDI4NzRiNDRiZDU1OSIsCiAgICAiaWQiOiAxMgogIH0sCiAgewogICAgImRvbWFpbiI6ICIud2VpYm8uY29tIiwKICAgICJleHBpcmF0aW9uRGF0ZSI6IDE0OTQwNzM5MTgsCiAgICAiaG9zdE9ubHkiOiBmYWxzZSwKICAgICJodHRwT25seSI6IGZhbHNlLAogICAgIm5hbWUiOiAiVUxWIiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiBmYWxzZSwKICAgICJzdG9yZUlkIjogIjAiLAogICAgInZhbHVlIjogIjE0NjI5Njk5MTgwMzU6MjoyOjI6MTQyNzg1MjQzMTYxMy42Nzg3LjE0NjI5Njk5MTc5ODA6MTQ2MjcwMzIxNTMzNiIsCiAgICAiaWQiOiAxMwogIH0sCiAgewogICAgImRvbWFpbiI6ICIud2VpYm8uY29tIiwKICAgICJleHBpcmF0aW9uRGF0ZSI6IDE0NjM1Njc0MDIsCiAgICAiaG9zdE9ubHkiOiBmYWxzZSwKICAgICJodHRwT25seSI6IGZhbHNlLAogICAgIm5hbWUiOiAidW4iLAogICAgInBhdGgiOiAiLyIsCiAgICAic2VjdXJlIjogZmFsc2UsCiAgICAic2Vzc2lvbiI6IGZhbHNlLAogICAgInN0b3JlSWQiOiAiMCIsCiAgICAidmFsdWUiOiAidGFuZ2dhdjkxNjkyQDE2My5jb20iLAogICAgImlkIjogMTQKICB9LAogIHsKICAgICJkb21haW4iOiAiLndlaWJvLmNvbSIsCiAgICAiZXhwaXJhdGlvbkRhdGUiOiAxNDk0NTA1OTE5LAogICAgImhvc3RPbmx5IjogZmFsc2UsCiAgICAiaHR0cE9ubHkiOiBmYWxzZSwKICAgICJuYW1lIjogIlVPUiIsCiAgICAicGF0aCI6ICIvIiwKICAgICJzZWN1cmUiOiBmYWxzZSwKICAgICJzZXNzaW9uIjogZmFsc2UsCiAgICAic3RvcmVJZCI6ICIwIiwKICAgICJ2YWx1ZSI6ICIsLGxvZ2luLnNpbmEuY29tLmNuIiwKICAgICJpZCI6IDE1CiAgfSwKICB7CiAgICAiZG9tYWluIjogIi53ZWliby5jb20iLAogICAgImV4cGlyYXRpb25EYXRlIjogMTQ2MzMwODIwMi45OTA2NDksCiAgICAiaG9zdE9ubHkiOiBmYWxzZSwKICAgICJodHRwT25seSI6IGZhbHNlLAogICAgIm5hbWUiOiAid3ZyIiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiBmYWxzZSwKICAgICJzdG9yZUlkIjogIjAiLAogICAgInZhbHVlIjogIjYiLAogICAgImlkIjogMTYKICB9LAogIHsKICAgICJkb21haW4iOiAid2VpYm8uY29tIiwKICAgICJleHBpcmF0aW9uRGF0ZSI6IDE0NjU1NjE5MTcsCiAgICAiaG9zdE9ubHkiOiB0cnVlLAogICAgImh0dHBPbmx5IjogZmFsc2UsCiAgICAibmFtZSI6ICJ3Yl9idWJfaG90XzU5MjE0MzAzOTUiLAogICAgInBhdGgiOiAiLyIsCiAgICAic2VjdXJlIjogZmFsc2UsCiAgICAic2Vzc2lvbiI6IGZhbHNlLAogICAgInN0b3JlSWQiOiAiMCIsCiAgICAidmFsdWUiOiAiMSIsCiAgICAiaWQiOiAxNwogIH0sCiAgewogICAgImRvbWFpbiI6ICJ3ZWliby5jb20iLAogICAgImV4cGlyYXRpb25EYXRlIjogMTQ2NTI5NTEzNiwKICAgICJob3N0T25seSI6IHRydWUsCiAgICAiaHR0cE9ubHkiOiBmYWxzZSwKICAgICJuYW1lIjogIndiX3B1Ymxpc2hfZmlzdDEwMF81OTAxMzIxMTIzIiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiBmYWxzZSwKICAgICJzdG9yZUlkIjogIjAiLAogICAgInZhbHVlIjogIjEiLAogICAgImlkIjogMTgKICB9LAogIHsKICAgICJkb21haW4iOiAid2VpYm8uY29tIiwKICAgICJleHBpcmF0aW9uRGF0ZSI6IDE0NjUzNDY1NTksCiAgICAiaG9zdE9ubHkiOiB0cnVlLAogICAgImh0dHBPbmx5IjogZmFsc2UsCiAgICAibmFtZSI6ICJ3Yl9wdWJsaXNoX3ZpcF81OTIxNDMwMzk1IiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiBmYWxzZSwKICAgICJzdG9yZUlkIjogIjAiLAogICAgInZhbHVlIjogIjQiLAogICAgImlkIjogMTkKICB9LAogIHsKICAgICJkb21haW4iOiAid2VpYm8uY29tIiwKICAgICJob3N0T25seSI6IHRydWUsCiAgICAiaHR0cE9ubHkiOiBmYWxzZSwKICAgICJuYW1lIjogIldCdG9wR2xvYmFsX3JlZ2lzdGVyX3ZlcnNpb24iLAogICAgInBhdGgiOiAiLyIsCiAgICAic2VjdXJlIjogZmFsc2UsCiAgICAic2Vzc2lvbiI6IHRydWUsCiAgICAic3RvcmVJZCI6ICIwIiwKICAgICJ2YWx1ZSI6ICI2MDUzOWY4MDliNDBlZDBkIiwKICAgICJpZCI6IDIwCiAgfSwKICB7CiAgICAiZG9tYWluIjogIndlaWJvLmNvbSIsCiAgICAiaG9zdE9ubHkiOiB0cnVlLAogICAgImh0dHBPbmx5IjogZmFsc2UsCiAgICAibmFtZSI6ICJZRi1QYWdlLUcwIiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiB0cnVlLAogICAgInN0b3JlSWQiOiAiMCIsCiAgICAidmFsdWUiOiAiZjAxN2QyMGIxMDgxZjBhMTYwNjgzMWJiYTE5ZTQwN2IiLAogICAgImlkIjogMjEKICB9LAogIHsKICAgICJkb21haW4iOiAid2VpYm8uY29tIiwKICAgICJob3N0T25seSI6IHRydWUsCiAgICAiaHR0cE9ubHkiOiBmYWxzZSwKICAgICJuYW1lIjogIllGLVVncm93LUcwIiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiB0cnVlLAogICAgInN0b3JlSWQiOiAiMCIsCiAgICAidmFsdWUiOiAiYWQwNjc4NGY2ZGVkYTA3ZWVhODhlMDk1NDAyZTQyNDMiLAogICAgImlkIjogMjIKICB9LAogIHsKICAgICJkb21haW4iOiAid2VpYm8uY29tIiwKICAgICJob3N0T25seSI6IHRydWUsCiAgICAiaHR0cE9ubHkiOiBmYWxzZSwKICAgICJuYW1lIjogIllGLVY1LUcwIiwKICAgICJwYXRoIjogIi8iLAogICAgInNlY3VyZSI6IGZhbHNlLAogICAgInNlc3Npb24iOiB0cnVlLAogICAgInN0b3JlSWQiOiAiMCIsCiAgICAidmFsdWUiOiAiMzcxNzgxNjYyMGQyM2M4OWEyNDAyMTI5ZWJmODA5MzUiLAogICAgImlkIjogMjMKICB9Cl0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsc3QuYXBwZW5kKHUpCg==</text>
+      <register name="5" type="4">
+        <text>available</text>
       </register>
-      <register name="6" type="4">
-        <text>2482699593</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjb24sIFRpY2tlckFwaS5nZXRfbGFzdChjb24pLnByaWNlKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>2453447403</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KGtlZXApCg==</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>t</text>
       </register>
-      <register name="9" type="4">
-        <text>1768593554</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action HighlightUsagesInFile</text>
