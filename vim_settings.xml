@@ -50,6 +50,12 @@
         <mark key="]" line="59" column="8" />
         <mark key="." line="59" column="8" />
       </file>
+      <file name="$USER_HOME$/Dropbox/code/quantlib/btc/bitvc.py" timestamp="1462853473042">
+        <mark key="'" line="64" column="12" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/tasks/clean_position.py" timestamp="1463018630818" />
       <file name="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/config/mm_yaml/159935.yml" timestamp="1463018344130" />
       <file name="$USER_HOME$/Dropbox/code/quantlib/btc/okcoin.py" timestamp="1462943864183">
@@ -72,11 +78,11 @@
         <mark key="." line="4" column="70" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects.win10/qb-subaccount/subaccount.py" timestamp="1463033790444">
-        <mark key="[" line="17" column="70" />
-        <mark key="]" line="17" column="87" />
-        <mark key="." line="17" column="87" />
-        <mark key="^" line="17" column="87" />
+      <file name="$USER_HOME$/Dropbox/projects.win10/qb-subaccount/subaccount.py" timestamp="1463041244943">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/quote.py" timestamp="1462945032785">
         <mark key="'" line="96" column="18" />
@@ -108,6 +114,18 @@
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/jingyuan_user.py" timestamp="1462971237772">
         <mark key="'" line="311" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" timestamp="1462893484863">
+        <mark key="'" line="985" column="8" />
+        <mark key="[" line="456" column="0" />
+        <mark key="]" line="456" column="0" />
+        <mark key="." line="456" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" timestamp="1462936949715">
+        <mark key="'" line="987" column="0" />
+        <mark key="[" line="350" column="0" />
+        <mark key="]" line="392" column="22" />
+        <mark key="." line="350" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" timestamp="1462846375129">
         <mark key="'" line="38" column="0" />
@@ -181,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="404" column="36" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
       <jump line="462" column="24" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
       <jump line="430" column="38" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" />
       <jump line="191" column="32" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/quote.py" />
@@ -281,13 +298,14 @@
       <jump line="79" column="45" filename="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" />
       <jump line="150" column="18" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
       <jump line="176" column="63" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Dropbox/projects.win10/qb-subaccount/subaccount.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgTW9ja0FjY291bnQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>con</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -295,8 +313,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ3BsYWNlIG9yZGVyJykK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y2xhc3MgTW9ja0FjY291bnQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -311,29 +329,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>order</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBwbGFjZV9vcmRlcihzZWxmLCBjb24sIHByaWNlLCBicywgYW1vdW50KToKICAgICAgICBzZWxmLnBvc1tjb25dICs9IHByaWNlCg==</text>
       </register>
       <register name="3" type="4">
-        <text>place</text>
+        <text>con</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHV0aWwud2FtcChtYWluKQo=</text>
+        <text encoding="base64">aW1wb3J0ICBkZWZhdSAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGRlZiBwbGFjZV9vcmRlcihjb24sIHByaWNlLCBicywgYW1vdW50LCByZWZfa2V5KToKICAgICAgICByZXR1cm4gYXdhaXQgcGFyZW50LnBsYWNlX29yZGVyKGNvbiwgcHJpY2UsIGJzLCBhbW91bnQsIHJlZl9rZXksIG9uX3VwZGF0ZT1vbl91cGRhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGRlZiBwbGFjZV9vcmRlcihjb24sIHByaWNlLCBicywgYW1vdW50LCByZWZfa2V5KToKICAgICAgICByZXR1cm4gYXdhaXQgcGFyZW50LnBsYWNlX29yZGVyKGNvbiwgcHJpY2UsIGJzLCBhbW91bnQsIHJlZl9rZXksIG9uX3VwZGF0ZT1vbl91cGRhdGUpCg==</text>
+      <register name="6" type="4">
+        <text>sitin</text>
       </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IG9uX3RyYWRl</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>action HighlightUsagesInFile</text>
