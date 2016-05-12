@@ -158,12 +158,12 @@
         <mark key="'" line="610" column="0" />
         <mark key="^" line="271" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-smart-market-order/regist.py" timestamp="1463013125363">
+      <file name="$USER_HOME$/Dropbox/code/qb-smart-market-order/regist.py" timestamp="1463013770679">
         <mark key="'" line="37" column="36" />
         <mark key="[" line="58" column="41" />
-        <mark key="]" line="58" column="41" />
-        <mark key="^" line="58" column="40" />
-        <mark key="." line="58" column="41" />
+        <mark key="]" line="58" column="43" />
+        <mark key="^" line="58" column="43" />
+        <mark key="." line="58" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/tests/test_okcoin_place_lot_order.py" timestamp="1462941381543">
         <mark key="'" line="12" column="31" />
