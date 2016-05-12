@@ -27,18 +27,18 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1462969169705">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="16" column="69" />
+      <file name="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" timestamp="1463033376406">
+        <mark key="'" line="176" column="63" />
+        <mark key="[" line="134" column="26" />
+        <mark key="]" line="134" column="37" />
+        <mark key="." line="134" column="37" />
+        <mark key="^" line="134" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/tasks/input/sjy_271.txt" timestamp="1462976315714">
         <mark key="'" line="250" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1462697958483">
-        <mark key="'" line="20" column="23" />
+      <file name="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" timestamp="1463032809818">
+        <mark key="'" line="79" column="45" />
         <mark key="[" line="53" column="8" />
         <mark key="]" line="53" column="13" />
         <mark key="^" line="53" column="13" />
@@ -72,6 +72,12 @@
         <mark key="." line="4" column="70" />
         <mark key="^" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/Dropbox/projects.win10/qb-subaccount/subaccount.py" timestamp="1463033790444">
+        <mark key="[" line="17" column="70" />
+        <mark key="]" line="17" column="87" />
+        <mark key="." line="17" column="87" />
+        <mark key="^" line="17" column="87" />
+      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/quote.py" timestamp="1462945032785">
         <mark key="'" line="96" column="18" />
         <mark key="[" line="3" column="0" />
@@ -103,10 +109,6 @@
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/jingyuan_user.py" timestamp="1462971237772">
         <mark key="'" line="311" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" timestamp="1462945024758">
-        <mark key="'" line="13" column="19" />
-        <mark key="[" line="862" column="149" />
-      </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/metric.py" timestamp="1462846375129">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="44" column="0" />
@@ -121,8 +123,10 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" timestamp="1463012662501">
+      <file name="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin_websocket.py" timestamp="1463033399240">
         <mark key="'" line="610" column="0" />
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="445" column="75" />
         <mark key="^" line="271" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qb-smart-market-order/regist.py" timestamp="1463020793575">
@@ -177,10 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="12" filename="$USER_HOME$/Dropbox/code/quantlib/btc/bitvc.py" />
-      <jump line="90" column="4" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/okcoin.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" />
-      <jump line="1003" column="20" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" />
       <jump line="404" column="36" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
       <jump line="462" column="24" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/strategy.py" />
       <jump line="430" column="38" filename="$USER_HOME$/Dropbox/code/qb-rpc-xtc/get_okcoin.py" />
@@ -277,36 +277,26 @@
       <jump line="42" column="4" filename="$USER_HOME$/Dropbox/code/weibo-crawler/entry.py" />
       <jump line="5" column="26" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/clean_position.py" />
       <jump line="23" column="20" filename="$USER_HOME$/Dropbox/code/qb-strategy-cn-mm/test/clean_position.py" />
+      <jump line="11" column="4" filename="$USER_HOME$/Dropbox/projects.win10/qb-subaccount/subaccount.py" />
+      <jump line="79" column="45" filename="$USER_HOME$/Dropbox/projects.win10/qb-okc-mm/strategy_mm.py" />
+      <jump line="150" column="18" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
+      <jump line="176" column="63" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i
-
-
-async def main(comp):
-    keep1 = yaml.load(open('../config/sse.yml', encoding='utf8').read())['contract-list']
-    keep2 = yaml.load(open('../config/sze.yml', encoding='utf8').read())['contract-list']
-    keep = [*keep1, *keep2]
-    print(keep)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGtlZXAxID0geWFtbC5sb2FkKG9wZW4oJy4uL2NvbmZpZy9zc2UueW1sJywgZW5jb2Rpbmc9J3V0ZjgnKS5yZWFkKCkpWydjb250cmFjdC1saXN0J10K</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ3BsYWNlIG9yZGVyJykK</text>
       </register>
       <register name="1" type="4">
-        <text>i
-
-
-async def main(comp):
-    keep1 = yaml.load(open('../config/sse.yml', encoding='utf8').read())['contract-list']
-    keep2 = yaml.load(open('../config/sze.yml', encoding='utf8').read())['contract-list']
-    keep = [*keep1, *keep2]
-    print(keep)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -322,28 +312,28 @@ async def main(comp):
         </keys>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>order</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>place</text>
       </register>
-      <register name="4" type="4">
-        <text>logging</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHV0aWwud2FtcChtYWluKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiBwbGFjZV9vcmRlcihjb24sIHByaWNlLCBicywgYW1vdW50LCByZWZfa2V5KToKICAgICAgICByZXR1cm4gYXdhaXQgcGFyZW50LnBsYWNlX29yZGVyKGNvbiwgcHJpY2UsIGJzLCBhbW91bnQsIHJlZl9rZXksIG9uX3VwZGF0ZT1vbl91cGRhdGUpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>available</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiBwbGFjZV9vcmRlcihjb24sIHByaWNlLCBicywgYW1vdW50LCByZWZfa2V5KToKICAgICAgICByZXR1cm4gYXdhaXQgcGFyZW50LnBsYWNlX29yZGVyKGNvbiwgcHJpY2UsIGJzLCBhbW91bnQsIHJlZl9rZXksIG9uX3VwZGF0ZT1vbl91cGRhdGUpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb24sIFRpY2tlckFwaS5nZXRfbGFzdChjb24pLnByaWNlKQo=</text>
+      <register name="7" type="4">
+        <text>=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGtlZXApCg==</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text encoding="base64">IG9uX3RyYWRl</text>
       </register>
       <register name=":" type="4">
         <text>action HighlightUsagesInFile</text>
