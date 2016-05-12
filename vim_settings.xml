@@ -72,12 +72,11 @@
         <mark key="." line="4" column="70" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects.win10/qb-subaccount/subaccount.py" timestamp="1463042599516">
+      <file name="$USER_HOME$/Dropbox/projects.win10/qb-subaccount/subaccount.py" timestamp="1463043820462">
         <mark key="'" line="93" column="27" />
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="16" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/quote.py" timestamp="1462945032785">
         <mark key="'" line="96" column="18" />
@@ -289,11 +288,11 @@
       <jump line="118" column="23" filename="$USER_HOME$/Dropbox/code/qbtrade/bin/acc_rpc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>local</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmludmVydF9wb3MuYWRkX3Bvc2l0aW9uKGNvbiwgMS4wIC8gYW1vdW50KQogICAgICAgIHNlbGYuY2FzaCAtPSBhbW91bnQgKiAxMDAK</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpcGFkZHJfYWxpaGsyXD4=</text>
@@ -301,8 +300,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnBvcyA9IFBvc2l0aW9uKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>local</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmludmVydF9wb3MuYWRkX3Bvc2l0aW9uKGNvbiwgMS4wIC8gYW1vdW50KQogICAgICAgIHNlbGYuY2FzaCAtPSBhbW91bnQgKiAxMDAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -318,28 +317,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>local</text>
+        <text>price</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvcyA9IFBvc2l0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmludmVydF9wb3MuYWRkX3Bvc2l0aW9uKGNvbiwgMS4wIC8gYW1vdW50KQogICAgICAgIHNlbGYuY2FzaCAtPSBhbW91bnQgKiBwcmljZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwcmVmaXgsIHBhcmVudDogQXN5bmNBY2NvdW50KToKICAgICAgICBzZWxmLnByZWZpeCA9IHByZWZpeAogICAgICAgIHNlbGYucGFyZW50ID0gcGFyZW50CiAgICAgICAgIyBzZWxmLm9yZGVycyA9IHt9CiAgICAgICAgIyBzZWxmLmNhc2ggPSAwCiAgICAgICAgIyBzZWxmLmxhdGVzdF9wcmljZSA9IHt9CiAgICAgICAgIyBzZWxmLnBvcyA9IFBvc2l0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmludmVydF9wb3MuYWRkX3Bvc2l0aW9uKGNvbiwgMS4wIC8gYW1vdW50KQogICAgICAgIHNlbGYuY2FzaCAtPSBhbW91bnQgKiBwcmljZQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2dvdXQoc2VsZik6CiAgICAgICAgcGFzcwoKICAgIGRlZiBjYW5jZWxfdXNlX2VudHJ1c3Rfbm8oc2VsZiwgZW50cnVzdF9ubyk6CiAgICAgICAgcGFzcwoKICAgIGRlZiBjYW5jZWxfYWxsKHNlbGYpOgogICAgICAgIHBhc3MKCiAgICBkZWYgbG9naW4oc2VsZik6CiAgICAgICAgcGFzcwo=</text>
+      <register name="5" type="4">
+        <text>cash</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>pos</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfcG9zaXRpb24oc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuaW52ZXJ0X3Bvcwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IHNlbGYucHJlZml4ICsgJy0nICsgc2VsZi5wYXJlbnQuc3ltYm9sCg==</text>
+      <register name="8" type="4">
+        <text>pos</text>
       </register>
       <register name="9" type="4">
-        <text>symbol</text>
+        <text>local</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
@@ -360,8 +359,8 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZE5leHQ=</entry>
-        <entry>action HighlightUsagesInFile</entry>
         <entry>action FindPrevious</entry>
+        <entry>action HighlightUsagesInFile</entry>
         <entry>action FindNext</entry>
       </history-cmd>
       <history-expr />
