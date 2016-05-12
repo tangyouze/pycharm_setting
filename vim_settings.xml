@@ -87,12 +87,12 @@
         <mark key="]" line="247" column="0" />
         <mark key="." line="247" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/projects.win10/qb-subaccount/xtcsubaccount.py" timestamp="1463056407111">
+      <file name="$USER_HOME$/Dropbox/projects.win10/qb-subaccount/xtcsubaccount.py" timestamp="1463057101795">
         <mark key="'" line="125" column="63" />
-        <mark key="[" line="58" column="32" />
-        <mark key="]" line="58" column="32" />
-        <mark key="^" line="58" column="36" />
-        <mark key="." line="58" column="32" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="63" />
+        <mark key="^" line="37" column="63" />
+        <mark key="." line="37" column="63" />
       </file>
       <file name="$USER_HOME$/Dropbox/code/weibo-crawler/jingyuan_user.py" timestamp="1462971237772">
         <mark key="'" line="311" column="4" />
@@ -219,11 +219,11 @@
       <jump line="851" column="0" filename="$USER_HOME$/Dropbox/code/qbtrade/qbtrade/util.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uID0gYXdhaXQgdXRpbC5nZXRfYXN5bmNfcmVkaXNfY29ubigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>place_order</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -231,8 +231,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbm4gPSBhd2FpdCB1dGlsLmdldF9hc3luY19yZWRpc19jb25uKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>value</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uID0gYXdhaXQgdXRpbC5nZXRfYXN5bmNfcmVkaXNfY29ubigpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -248,28 +248,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>rpush</text>
+        <text>place_order</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>keep</text>
+        <text>x</text>
       </register>
       <register name="5" type="4">
-        <text>keep</text>
+        <text>l</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLmVuc3VyZV9mdXR1cmUoa2VlcCgpKQo=</text>
+      <register name="6" type="4">
+        <text>plac</text>
       </register>
       <register name="7" type="4">
-        <text>:</text>
+        <text>set</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>prefix</text>
       </register>
       <register name="9" type="4">
-        <text>redis</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name=":" type="4">
         <text>action FindNext</text>
